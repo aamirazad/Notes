@@ -1,7 +1,8 @@
 ---
 date created: Tuesday, July 2nd 2024, 5:54 am
-date modified: Tuesday, July 2nd 2024, 9:28 pm
-share: "true"
+date modified: Friday, August 16th 2024, 10:51 am
+share: true
+title: Science
 ---
 
 # Science
