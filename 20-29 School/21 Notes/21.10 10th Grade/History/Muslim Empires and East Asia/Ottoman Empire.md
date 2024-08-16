@@ -4,7 +4,7 @@ tags:
 order: 2
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:32 am
-share: "true"
+share: true
 ---
 
 # Ottoman Empire
@@ -55,15 +55,16 @@ share: "true"
 - Fair rules that apply to everyone, even people of status
   - Written down human rights which which is unique
 
-
 Ottomans vs the [[Early middle ages#The Holy Roman Empire|Holy Roman empire]]
 
 Similarities:
+
 - Both use roman style architecture like domes
 - Both had a emperor for the whole pace
 - Both were land based empires
 
 Differences:
+
 - Ottomans were Islam, roman empire was christian
 - Ottomans were religiously tolerant and the Romans were not
 
