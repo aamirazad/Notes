@@ -15,7 +15,7 @@ Parent:: [[History|History]]
 - [[Qing Dynasty|Qing Dynasty]]
 - [[Safavid Dynasty|Safavid Dynasty]]
 - [[Tokugawa Japan|Tokugawa Japan]]
-- **[[Travel Guide website|Travel Guide website]]**
+- **[[Travel Guide|Travel Guide]]**
 	- [[TG -  Ming Dynasty|TG -  Ming Dynasty]]
 	- [[TG - Home|TG - Home]]
 	- [[TG - Mogul Empire|TG - Mogul Empire]]
