@@ -3,7 +3,7 @@ tags:
   - Science
 order: 10
 date created: Wednesday, June 5th 2024, 2:34 am
-date modified: Tuesday, July 2nd 2024, 5:59 am
+date modified: Thursday, August 15th 2024, 10:43 pm
 share: "true"
 ---
 Parent:: [[Science|Science]]
@@ -133,15 +133,18 @@ $$
 $$
 \ce{ H3O+ + OH- -> 2H2O }
 $$$$
-\ce{ HCL + NaOH \to H2O + NaCl }
+HCl + NaOH \to H_{2}O + NaCl
 $$
 
 ### Chemical equations
 
+
 - No excess or left over
+
 $$
 \ce{ KOH + HCl -> KCl + H2O }
 $$
+
 - One mole of $KOH$ can one mole of $HCl$ are chemical equivalents
 - $56$ grams of $KOH$, $36$ grams of $HCL$ are equivalent
 - This is because of their different molar mass
