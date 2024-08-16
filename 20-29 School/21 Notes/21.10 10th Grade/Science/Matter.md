@@ -3,8 +3,9 @@ tags:
   - Science
 loc: 1.1
 order: 2
-share: "true"
+share: true
 ---
+
 Parent:: [[Science|Science]]
 
 # Matter
@@ -109,10 +110,10 @@ Science cannot address supernatural phenomena
 
 ### Vocab
 
-- *Matter:* anything that has mass and occupies space
+- _Matter:_ anything that has mass and occupies space
   Things that aren't matter:
   - Sound, energy, light
-- *Energy:* Ability to cause change or ability to do work
+- _Energy:_ Ability to cause change or ability to do work
   - Kinetic, potential
 
 ### States of matter
@@ -125,7 +126,7 @@ Science cannot address supernatural phenomena
 
 ### Mixtures
 
-- 2 or more types of matter, can be *separated* by physical means
+- 2 or more types of matter, can be _separated_ by physical means
 - Two subcategory
 - Heterogeneous - Not uniform
   - Parts can be identified from other parts
@@ -135,7 +136,7 @@ Science cannot address supernatural phenomena
 
 - Every part of it is the same
 - Unlike a mixture, it cannot be separated without a chemical change
-	- Think how blood is a homogeneous mixture but you can still separate it by spinning it
+  - Think how blood is a homogeneous mixture but you can still separate it by spinning it
 
 ### Laws of definite composition
 
@@ -158,7 +159,7 @@ List or identify these for the test
 
 ### Physical properties
 
-*Can* be can be measured without changes in identity
+_Can_ be can be measured without changes in identity
 
 Two types:
 
@@ -167,7 +168,7 @@ Two types:
 
 ### Chemical properties
 
-*Cannot* be measured without changing the identity of the substance
+_Cannot_ be measured without changing the identity of the substance
 
 - Boiling
 - Rusting
