@@ -6,8 +6,9 @@ Paperless: https://papers.aamira.me/documents/351
 order: 3
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Renaissance|Renaissance]]
 
 # The Renaissance
@@ -15,8 +16,8 @@ Parent:: [[Renaissance|Renaissance]]
 ### Rebirth
 
 - Many thought they experienced a rebirth of the ancient Greek and Roman worlds
-- Italy was a __urban society__, powerful cities were the hub
-- __Secular__: A worldly perspective. Doing things for material gain
+- Italy was a **urban society**, powerful cities were the hub
+- **Secular**: A worldly perspective. Doing things for material gain
 - As society recovered from the plague, people appreciated the human body in their art
 
 ### Italy's many states
@@ -26,7 +27,7 @@ Lack of a strong central monarchy
 #### Milan
 
 - One of the richest states using an efficient tax systems
-- Francesco soforza, the leader of a band of __mercenaries__, people who sell their service to the highest bidder, conquered the city and created the tax system.
+- Francesco soforza, the leader of a band of **mercenaries**, people who sell their service to the highest bidder, conquered the city and created the tax system.
 - In the middle of trade routes. Coastal cities, Alpines…
 
 #### Venice
@@ -79,7 +80,7 @@ Lack of a strong central monarchy
 ### Family
 
 - Family and marriage was powerful and important. Used to strengthen business ties.
-- __Dowry__: A sum of money given by the wife's family to the husband upon marriage.
+- **Dowry**: A sum of money given by the wife's family to the husband upon marriage.
 - The father was the business owner and manger
 
 ## Assessment
@@ -95,10 +96,10 @@ Lack of a strong central monarchy
 
 7:
 
-|  | Middle Ages | Renaissance |
-|--|-------------|-------------|
-| Nobility | Very powerful | Very powerful (Not much as so) |
-| Peasants | Semi powerful | More powerful |
-| Townspeople | Not powerful | Not powerful |
+|             | Middle Ages   | Renaissance                    |
+| ----------- | ------------- | ------------------------------ |
+| Nobility    | Very powerful | Very powerful (Not much as so) |
+| Peasants    | Semi powerful | More powerful                  |
+| Townspeople | Not powerful  | Not powerful                   |
 
 8: Many people, near water with boats, tall buildings are all characteristics of a city state that is present in this picture and others of Venice
