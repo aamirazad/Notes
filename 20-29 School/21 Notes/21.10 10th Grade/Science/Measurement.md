@@ -3,8 +3,9 @@ tags:
   - Science
 loc: 1.2
 order: 3
-share: "true"
+share: true
 ---
+
 Parent:: [[Science|Science]]
 
 # Measurement
@@ -13,7 +14,7 @@ Parent:: [[Science|Science]]
 
 ### Base units
 
-- The SI unit for mass is the __kilogram__
+- The SI unit for mass is the **kilogram**
 - Measures mass using a scale
 
 | Physical Quality    | Name     | Abbreviation |
@@ -45,7 +46,7 @@ Parent:: [[Science|Science]]
 
 ### Derived unit
 
-- Meter<sup>3</sup>  = Liter(L)
+- Meter<sup>3</sup> = Liter(L)
 - Density = mass / volume
 
 ### Review
@@ -83,7 +84,7 @@ Parent:: [[Science|Science]]
 
 ### Uncertainty in measurement
 
-__All measurements are estimated__
+**All measurements are estimated**
 
 Ex: 25.34
 
@@ -102,7 +103,7 @@ Tells us about the measuring tool
 #### Accuracy
 
 - The closeness of the measured value to the true or accepted value
-- How *correct* it is
+- How _correct_ it is
 - Percent error
 
 ### Percent error
@@ -118,21 +119,20 @@ Measurement of all digits known with certainty + one uncertain final digit
 Rules:
 
 1. All non-zero digits are counted as significant
-2. All leading zeros are NOT counted (__0__.5)
+2. All leading zeros are NOT counted (**0**.5)
 3. Captive zeros are counted
 4. Trailing zeros are only counted when a decimal point supersedes it
 
-__It was measured by the scientist__
+**It was measured by the scientist**
 
 ![qownnotes-media-tiHnxq](qownnotes-media-tiHnxq.png)
 
 ###
 
-
 Examples:
 
-- 33\.3  - 3 SF
-- __1__ 00 __4__.__1__ - 5 SF (Even though there are 2 captive)
+- 33\.3 - 3 SF
+- **1** 00 **4**.**1** - 5 SF (Even though there are 2 captive)
 - 9000000 - 1 SF (Trailing no decimal)
 - 0\.0000072 - 2 SF (Trailing, not significant)
 - 82\.6000 - 6 SF (Trailing, decimal) (Trailing shows precision measured)
@@ -155,8 +155,8 @@ Include all digits you can read (EVERYONE agrees), plus one digit that you can e
 
 1. All non-zero numbers are significant
 2. Zeros between non-zero digits (captive) are significant
-3. Leading zeros are __not__ significant
-4. Trailing zeros are not significant __unless__ there is a zero
+3. Leading zeros are **not** significant
+4. Trailing zeros are not significant **unless** there is a zero
 
 ![qownnotes-media-QhcYiw](qownnotes-media-QhcYiw.png)
 
