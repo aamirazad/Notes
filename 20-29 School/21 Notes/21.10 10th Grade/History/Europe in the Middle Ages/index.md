@@ -1,13 +1,16 @@
 ---
 date created: Tuesday, July 2nd 2024, 5:26 am
 date modified: Tuesday, July 2nd 2024, 5:49 am
-share: "true"
+share: true
+title: Europe in the Middle Ages
 ---
+
 Parent:: [[History|History]]
 
 # Europe in the Middle Ages
 
 %% Begin Waypoint %%
+
 - [[Early middle ages|Early middle ages]]
 - [[Europe in the middle ages notes|Europe in the middle ages notes]]
 - [[Hundred Year's War|Hundred Year's War]]
@@ -36,15 +39,17 @@ Parent:: [[History|History]]
 > In Europe in the Middle Ages, Feudalism is valued, technology helps agriculture, Europe and France fight over who gets the thrown in the Hundred Year's War, the Black Death destroys Europe affecting the economy, social structure, and the church, America's cultivate their own society completely separate from Europe's struggles
 
 > [!info] Key concepts
+>
 > - Feudalism is the social system where the land owner has the power over the serfs who worked for them in the land
 > - The Crusades was a religious fight over Jerusalem between the Christians and the Muslims
 > - The Black Death, a pleauge that comes in from Kul, China by rats and then becomes airborne travels fast though the silk road to Caffa then Europe and spreads throughout it's densely packed cities
 > - Society crumbles, some turn to religion, some turn away, some destroy things, and feudalism collapses as the serfs, the main people holding up the system die
 > - In the Hundred Years's War France and Britain fight over who becomes king, the French or English dude because of intermarriage
-> 	- Joan of arc is a woman who leads a army for the French, burned at the stake by the English
-> 	- The French win the war even though it was looking like they would loose because they adopt guns
+>   - Joan of arc is a woman who leads a army for the French, burned at the stake by the English
+>   - The French win the war even though it was looking like they would loose because they adopt guns
 
 > [!info] Key terms
+>
 > - Silk Road
 > - Caffa
 > - Flagellants
