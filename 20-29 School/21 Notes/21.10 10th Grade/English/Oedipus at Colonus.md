@@ -2,7 +2,7 @@
 tags:
   - History
 order: 6
-share: "true"
+share: true
 ---
 Parent:: [[English|English]]
 
