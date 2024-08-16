@@ -3,8 +3,9 @@ tags:
   - Science
 loc: 1
 order: 1
-share: "true"
+share: true
 ---
+
 Parent:: [[Science|Science]]
 
 # The History of Chemistry
@@ -16,7 +17,7 @@ Alchemy to Chemistry
 #### Tapputi-balatechallim
 
 - 1200 BC
-- Perfume maker; first chemist; used __distalization__
+- Perfume maker; first chemist; used **distalization**
 
 #### Ancient greeks
 
@@ -50,18 +51,18 @@ Web: Used to compare things
 
 #### Alchemy vs. chemistry
 
-| Different | Alike | Different |
-|-----------|-------|-----------|
-| Earlier | Invented procedures | Later |
-| Looking for the elixir of life | Tried to make things out of other things | Open |
-| Magic approach |  | Scientific method |
+| Different                      | Alike                                    | Different         |
+| ------------------------------ | ---------------------------------------- | ----------------- |
+| Earlier                        | Invented procedures                      | Later             |
+| Looking for the elixir of life | Tried to make things out of other things | Open              |
+| Magic approach                 |                                          | Scientific method |
 
 ### Atomic theories timeline
 
 | Name        | Democritus                          | Dalton                                                                                                | Thomson                                                      | Rutherford                                                 |
 | ----------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | Time frame  | 460-370 B.C.                        | 1766-1844                                                                                             | 1856-1940                                                    | 1871-1937                                                  |
-| Key points  | There are building blocks of matter | 1803: Says all things are made out of atoms                                                           | * Much closer technology is causing more reserch *           | Gold Foil Experiment in 1909                               |
+| Key points  | There are building blocks of matter | 1803: Says all things are made out of atoms                                                           | _ Much closer technology is causing more reserch _           | Gold Foil Experiment in 1909                               |
 |             | Everything is something or nothing  | All atoms of a given element are the same, but are different to other elements                        | Uses cathode ray tube to prove these are subatomic particles | Shows the nucleus is: small, dense, and positively charged |
 |             |                                     | Cannot be destroyed created or transformed                                                            |                                                              |                                                            |
 |             |                                     | A given compound has the same ratio of parts                                                          |                                                              |                                                            |
@@ -136,22 +137,22 @@ Helps you explain lab results
 - Answer
 - One to two sentences
 - Ex:
-  - What is the density of copper?  - Prompt
-  - The density of copper is …  - Claim
+  - What is the density of copper? - Prompt
+  - The density of copper is … - Claim
 - Completely answers the question
 
 ### Evidence
 
 - How you came to the claim
-- Should have gotten evidence from experts  eg: NASA
+- Should have gotten evidence from experts eg: NASA
 - Not all data is evidence, just the stuff used to back up the claim
 
 ### Reasoning
 
 - Connects claim to evidence
-- Proves __why__ the data is supporting the claim
+- Proves **why** the data is supporting the claim
 - Ex:
-  - So as mass and volume go up, density goes up   - reasoning
+  - So as mass and volume go up, density goes up - reasoning
 
 Ex: What do plants need to grow?
 
