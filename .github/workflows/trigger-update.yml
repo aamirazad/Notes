@@ -13,3 +13,4 @@ jobs:
           token: ${{ secrets.PAT }}
           repository: aamirazad/tigertutoringtool
           event-type: update
+          client-payload: '{"ref": "${{ github.ref }}"}
