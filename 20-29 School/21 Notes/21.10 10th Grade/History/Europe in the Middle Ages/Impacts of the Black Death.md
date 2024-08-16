@@ -7,7 +7,7 @@ Parent: "[[Europe in the Middle Ages]]"
 synopsis: Work done was a group listing both short term and long term impacts of the black death
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
 
 # Impacts of the Black Death
@@ -25,7 +25,7 @@ share: "true"
 ## Long-Term Impacts
 
 | Impact/Event               | 2-3 sentences about what it does- think of impacts to society, economics, personal lives, religion, art, etc.                                                                                                                                                       |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Collapse of Feudalism      | The plague killed lots of peasants, so lords had a harder time finding workers. With less workers, the cost of each worker went up. Peasants started demanding more money as a result.                                                                              |
 | Inflation of currency      | After the collapse of the workforce and the resources shortages in Europe the average European started paying more for almost everything. This caused the value of what you could buy for a pound to decrease and cause inflation.                                  |
 | Trauma                     | The trauma of all the death and the loss of lost ones caused Europe to change. Many people had to learn to deal with living with death. This could be seen in art, music, and life.                                                                                 |
