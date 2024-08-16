@@ -4,7 +4,8 @@ on:
       - main
 
 jobs:
-  runs-on: ubuntu-latest
+  dispatch:
+    runs-on: ubuntu-latest
     steps:
       - name: Repository Dispatch
         uses: peter-evans/repository-dispatch@v3
