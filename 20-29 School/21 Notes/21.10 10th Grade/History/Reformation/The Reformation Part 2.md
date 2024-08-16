@@ -5,8 +5,9 @@ Paperless: https://papers.aamira.me/documents/405/
 order: 4
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Reformation|Reformation]]
 
 # The Reformation Part 2
@@ -23,7 +24,7 @@ Parent:: [[Reformation|Reformation]]
 - Calvin, after converting to Protestantism, fled to Switzerland
 - He wrote the Institutes of the Christian Religion, a summary of Protestant thought
 - Calvin was very similar to Luther and his ideas while putting a emphasis on the all powerful aspect of God
-- This lead him to __predestination__, this "eternal decree" meant that God had 'predetermined' who would be saved and who would be dammed
+- This lead him to **predestination**, this "eternal decree" meant that God had 'predetermined' who would be saved and who would be dammed
 - Calvin began to reform the city of Geneva that had both clergy and laity in the service in the Church
 - The Consistory, a body for enforcing discipline, was setup to keep the purity of Genevans
 - Calvin's success in Geneva made it a center for Protestantism
@@ -31,7 +32,7 @@ Parent:: [[Reformation|Reformation]]
 ### England
 
 - Their reformation was in politics, not religion
-- __King Henry VIII__ wanted to divorce his first wife but when the Church wouldn't __annual__, declare invalid, his marriage, he took matters into his own hands
+- **King Henry VIII** wanted to divorce his first wife but when the Church wouldn't **annual**, declare invalid, his marriage, he took matters into his own hands
 - Eventually, Henry took all of the Pope's power and gave it to him, the already powerful king
 - When Henry died, England became Protestant but, Mary, Henry's daughter came to thrown and tried to restore Roman Catholicism
 - She burned over 300 Protestants giving her the name "Bloody Mary"
@@ -60,7 +61,7 @@ Parent:: [[Reformation|Reformation]]
 
 #### Jesuits
 
-- Founded by Spanish nobleman __Ignatius of Loyola__
+- Founded by Spanish nobleman **Ignatius of Loyola**
 - All Jesuits vowed to abide by the Pope making them useful for papal policy
 - Responsible for restoring Catholicism to Germany and Eastern Europe
 
