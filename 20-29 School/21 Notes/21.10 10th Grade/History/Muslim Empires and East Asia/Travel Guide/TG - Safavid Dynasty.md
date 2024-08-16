@@ -4,8 +4,9 @@ tags:
 order: 3
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Travel Guide|Travel Guide]]
 
 # Tg - Safavid dynasty
@@ -14,9 +15,9 @@ Parent:: [[Travel Guide|Travel Guide]]
 
 ## Geography and climate
 
-The Safavid Dynasty's climate is very dry and arid. The Empire has taken over most of the Middle East. Most of the Dynasty's territory is a dry desert with a few distinct regions. 
+The Safavid Dynasty's climate is very dry and arid. The Empire has taken over most of the Middle East. Most of the Dynasty's territory is a dry desert with a few distinct regions.
 
-The south of the Empire features the vast dunes of the Arabian dessert. The Safavid Dynasty is no longer the main power in the Persian Gulf. Recently, the Ottoman Empire's rapid expansion has led to multiple conquests of formerly Safavid ruled lands. 
+The south of the Empire features the vast dunes of the Arabian dessert. The Safavid Dynasty is no longer the main power in the Persian Gulf. Recently, the Ottoman Empire's rapid expansion has led to multiple conquests of formerly Safavid ruled lands.
 
 The core of the Safavid Empire is in cold and dry Iran. The central region of the empire is extremely mountainous and should be avoided as it is hard to navigate. The central region, spanning from the Caspian Sea in the north to the Persian Gulf in the south, features a few large cities including the capital Isfahan. Isfahan, With a more mild humid climate than other cities in the region, it is a beautiful place to visit.
 
@@ -24,33 +25,33 @@ The far North of the Safavid Dynasty in the Asian steps features a change in cli
 
 ## Religion
 
-The official state religion of the Safavid Dynasty is Twelver Shiism, a branch of Islam known as Shi'a Islam. Followers of the religion are often referred to as Twelvers. Twelvers believed that Twelver Imams are the religious and political heirs of the prophet Muhammad. Twelvers also believed that twelve prophets of Muhammad were born after his death. 
+The official state religion of the Safavid Dynasty is Twelver Shiism, a branch of Islam known as Shi'a Islam. Followers of the religion are often referred to as Twelvers. Twelvers believed that Twelver Imams are the religious and political heirs of the prophet Muhammad. Twelvers also believed that twelve prophets of Muhammad were born after his death.
 
 They are said to be able to understand the Quran and thus, justly govern the people. When the Imams were alive, they and their followers were persecuted by the Iranian people. After the Mongolian conquest of Baghdad, Twelver persecution ended and Twelver communities began growing in Iran. In 1501, the Safavid Dynasty came into power. With the new government, came a new state religion, Shi'a Islam. This theological change was an upset in the region,  but didn't come out of nowhere. The Shi'a Islam Minority had been growing in number for hundreds of years and in current times Shi'a Islam is no longer a minority. If you don't practice Shi'a Islam, don't worry because the Safavids rarely persecute those of other religions.
 
 ## History
 
-The Safavid Dynasty is the most recent government to take power in Iran, but nowhere near the first. The Safavids have evolved from a Persian and Islamic culture mixed with Mongolian occupation and a growing religion. In 1501, Ismail I became the first Shah of the Safavid Dynasty after overthrowing the Timurid Empire in 1506. The Timurd Empire had ruled the region ever since the Mongolian presence in Iran had collapsed. By 1500, the Tumurid Empire was fractured by religious wars and already collapsing after years of fighting. The Shi'a Islams, under the Safavids, claimed the region after years of war imposing their religion and creating the Safavid Dynasty. 
+The Safavid Dynasty is the most recent government to take power in Iran, but nowhere near the first. The Safavids have evolved from a Persian and Islamic culture mixed with Mongolian occupation and a growing religion. In 1501, Ismail I became the first Shah of the Safavid Dynasty after overthrowing the Timurid Empire in 1506. The Timurd Empire had ruled the region ever since the Mongolian presence in Iran had collapsed. By 1500, the Tumurid Empire was fractured by religious wars and already collapsing after years of fighting. The Shi'a Islams, under the Safavids, claimed the region after years of war imposing their religion and creating the Safavid Dynasty.
 
-Throughout its history, the Safavids were able to become a great rival to the Ottomans through their incorporation of gunpowder. After many wars and treaties, the Ottomans seem to have come out on top, at least for now, annexing the entire Euphrates and Tigris river basin with the holy city of Baghdad revered by both Ottomans and Safavids. The Safavids have also fought a number of wars with the Uzbek Dynasty to the north losing, and then regaining large territories. 
+Throughout its history, the Safavids were able to become a great rival to the Ottomans through their incorporation of gunpowder. After many wars and treaties, the Ottomans seem to have come out on top, at least for now, annexing the entire Euphrates and Tigris river basin with the holy city of Baghdad revered by both Ottomans and Safavids. The Safavids have also fought a number of wars with the Uzbek Dynasty to the north losing, and then regaining large territories.
 
 Since its creation, the Safavid Dynasty has been a very successful Persian empire. Today, the Safavid Empire still reigns over all of Iran and has a rich history making it a great place to visit.
 
 ## Economy
 
-The Safavid Dynasty has a strong economy using a heavy tax system. The Safavids abolished the previous Dynasties' land inheritance system, where all positions were passed down from father to son. The Safavid's system involved charging rent for land as taxes to the government. When someone dies, the land is either paid for by a relative or is reclaimed by the government. 
+The Safavid Dynasty has a strong economy using a heavy tax system. The Safavids abolished the previous Dynasties' land inheritance system, where all positions were passed down from father to son. The Safavid's system involved charging rent for land as taxes to the government. When someone dies, the land is either paid for by a relative or is reclaimed by the government.
 
 The Safavid Dynasty built an economy around the silk trade. Large expansions in silk crops throughout the empire have greatly expanded the Safavid economy, resulting in a booming trade network with Europe. The Safavids also traded pearls, textiles, and horses. Furthermore, the Safavids expanded trade infrastructure in Iran allowing rapid expansion of the Safavid economy. They built Caravanserai along the silk road, which is a great place for travelers to stay because you don't have to pay for lodging. The main currency of the Safavid Dynasty is the Abbāsī a gold or silver coin with many denominations.
 
 ## Alliances and conflicts
 
-The Safavid Empire has a long history of war with the Ottomans. This power struggle in the west has led to many recent losses against the Ottomans. The battle of Chaldiran, in 1514, was the start of forty-one long years of war and was a decisive Ottoman victory leading to the Ottoman annexation of northern Iraq. The war was caused directly by a territorial dispute near Azerbaijan, but has been continued by religious conflict. The conflict continued until the Treaty of Amasya, in 1555, which ceded all territory captured by the Ottomans to the Ottoman Empire. They also have a long history of conflict with the Uzbek Dynasty located to the north. The Uzbeks first conquered large areas of northern Iran which have since been mostly reclaimed by the Safavids. 
+The Safavid Empire has a long history of war with the Ottomans. This power struggle in the west has led to many recent losses against the Ottomans. The battle of Chaldiran, in 1514, was the start of forty-one long years of war and was a decisive Ottoman victory leading to the Ottoman annexation of northern Iraq. The war was caused directly by a territorial dispute near Azerbaijan, but has been continued by religious conflict. The conflict continued until the Treaty of Amasya, in 1555, which ceded all territory captured by the Ottomans to the Ottoman Empire. They also have a long history of conflict with the Uzbek Dynasty located to the north. The Uzbeks first conquered large areas of northern Iran which have since been mostly reclaimed by the Safavids.
 
 Most of the the Safavid allies are oversees trading partners in Europe. These nations included the Austria-Hungarian Empire, the Netherlands, Britain, and Spain. Many of these countries allied with the Safavids because of their shared grievances with the Ottomans. Others, like the Netherlands, simply received many goods from the Safavids.
 
 ## Traditions
 
-Most of the Safavid dynasty follows classical Persian and Islamic traditions such as Persian fashion. Safavid elite preferred excessively lavish cloths. Like Sunni Muslims, Shi'a Muslims celebrate Ramadan and the following holiday Eid al-Fitr. Ramadan is a thirty day long fast occurring roughly ten days later each year on a thirty-three year cycle. The following festival, known as Eid al-Fitr, consists of three days of feasting and parties. 
+Most of the Safavid dynasty follows classical Persian and Islamic traditions such as Persian fashion. Safavid elite preferred excessively lavish cloths. Like Sunni Muslims, Shi'a Muslims celebrate Ramadan and the following holiday Eid al-Fitr. Ramadan is a thirty day long fast occurring roughly ten days later each year on a thirty-three year cycle. The following festival, known as Eid al-Fitr, consists of three days of feasting and parties.
 
 For the elites of the Safavid Dynasty, being engaged in politics is a long tradition of Persia. For the people of the Safavid Dynasty, religion is a daily practice. Citizens are encouraged to visit mosques and pray and celebrate all of the Twelver holidays. When visiting the Safavid Dynasty, you should follow all Safavid traditions for an optimal experience.
 

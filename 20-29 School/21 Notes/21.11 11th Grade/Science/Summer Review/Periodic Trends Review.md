@@ -1,12 +1,13 @@
 ---
 date created: Saturday, August 10th 2024, 1:23 pm
 date modified: Saturday, August 10th 2024, 1:43 pm
-share: "true"
+share: true
 ---
 
 # Periodic Trends Review
 
 > [!link] Previous connections
+>
 > - [[Honors Chemistry Final Review#Periodic Trends|Honors Chemistry Final Review > Periodic Trends]]
 > - Link to POGIL (on paperless)
 

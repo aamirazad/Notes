@@ -6,8 +6,9 @@ order: 5
 synopsis: Presentation notes on the black death
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Europe in the Middle Ages|Europe in the Middle Ages]]
 
 # The Black Death Review

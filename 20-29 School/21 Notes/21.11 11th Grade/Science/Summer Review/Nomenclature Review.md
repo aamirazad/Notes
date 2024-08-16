@@ -1,7 +1,7 @@
 ---
 date created: Tuesday, August 6th 2024, 3:11 pm
 date modified: Tuesday, August 6th 2024, 3:49 pm
-share: "true"
+share: true
 ---
 
 # Nomenclature Review
@@ -18,15 +18,13 @@ share: "true"
 - Further, all atoms that end in "-ite" form acids that end in "-ous"; ITE ions become OUS ACIDS
 - Hypo prefix means less oxygen (than the anion)
 
-
 | **Number of atoms**  | Acid prefix/suffix | Anion prefix/suffix |
-| ---------------- | ------------------ | ------------------- |
+| -------------------- | ------------------ | ------------------- |
 | **1 more than -ic**  | Per- / -ic         | Per- / -ate         |
 | **-ic acid**         | -ic                | -Ate                |
 | **1 fewer than -ic** | -ous               | -Ite                |
 | **2 fewer than -ic** | Hypo- / -ous       | Hypo- / -Ite        |
 | **No oxygen**        | Hyrdo- / -ic       | -Ide                |
-
 
 > [!question] Questions for bonus tbd
 
@@ -34,9 +32,11 @@ share: "true"
 
 - Nonmetal + nonmetals (both on the right side of the staircase) form covalent bonds
 - This is not ionic bonds which are caused by left (metal) bonding with right (nonmetal)
+
 1. For the first element, start with the element name
 2. For the second element, start with the -ide name
 3. Use prefixes to show how many atoms of each type there are
+
 - $\ce{ N2O3 }$
 - *di*nitrogen *tri*oxxide
 

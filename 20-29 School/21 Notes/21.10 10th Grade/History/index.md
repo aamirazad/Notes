@@ -1,12 +1,13 @@
 ---
 date created: Tuesday, July 2nd 2024, 4:06 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
 
 # History
 
 %% Begin Waypoint %%
+
 - **[[Absolutism|Absolutism]]**
 - **[[Age of Sail|Age of Sail]]**
 - **[[Enlightenment and French Revolution|Enlightenment and French Revolution]]**

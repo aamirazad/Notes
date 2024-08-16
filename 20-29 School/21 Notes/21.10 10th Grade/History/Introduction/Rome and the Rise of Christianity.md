@@ -5,8 +5,9 @@ Paperless: https://papers.aamira.me/documents/345
 order: 1
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Introduction|Introduction]]
 
 # Rome and the Rise of Christianity
@@ -94,7 +95,7 @@ Diocletian and Constantine competed for power, each making large armies. This to
 
 - **Republic**: A form of government where the leader is not a monarch and some citizens have the right to vote.
 - **Patrician**: Landowners, Rome's upper class. They were not:
-- **Plebeian**:  Smaller landowners, craftspeople, merchants, farmers
+- **Plebeian**: Smaller landowners, craftspeople, merchants, farmers
 - **Imperator**: Commander in chief. What we would call emporor
 - **Christianity**: Religious movement within Judaism
 - **Clergy**: Church leaders

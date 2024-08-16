@@ -3,8 +3,9 @@ tags:
   - Science
 loc: 4
 order: 5
-share: "true"
+share: true
 ---
+
 Parent:: [[Science|Science]]
 
 # Periodic trends
@@ -20,12 +21,12 @@ Parent:: [[Science|Science]]
 
 ### Atomic size
 
-- Size goes up as you move __down__
-  - Hr has 1 energy level. Fr has 7 )))))))   - Bigger
+- Size goes up as you move **down**
+  - Hr has 1 energy level. Fr has 7 ))))))) - Bigger
   - Shielding effect
   - All the layers of clothes protect the nucleus from feeling the force
   - Weak coulombic effect
-- Size goes __DOWN__ as you move across the period
+- Size goes **DOWN** as you move across the period
   - Not what you would think
   - Coulombic effect is higher
     - More protons means slightly greater force
@@ -112,6 +113,7 @@ Which has higher electronegativity?
 ## Balencing equations
 
 ![[Balancing.excalidraw|Balancing.excalidraw]]
+
 - Diatomic elements acronyms
   - ClIF H. RrON
   - HONClBrIF

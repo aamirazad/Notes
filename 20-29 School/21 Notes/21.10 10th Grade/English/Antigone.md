@@ -2,7 +2,7 @@
 tags:
   - English
 order: 7
-share: "true"
+share: true
 ---
 Parent:: [[English|English]]
 

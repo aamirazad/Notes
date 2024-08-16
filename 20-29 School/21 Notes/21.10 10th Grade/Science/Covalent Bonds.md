@@ -5,8 +5,9 @@ loc: 7
 order: 7
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Wednesday, July 3rd 2024, 1:56 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Science|Science]]
 
 # Covalent bonds
@@ -14,8 +15,9 @@ Parent:: [[Science|Science]]
 ### Overview
 
 ![[Covalent Bonds overview.excalidraw|Covalent Bonds overview.excalidraw]]
+
 - My attempt at teaching the class a bit of
-this unit is located at [[Covalent bonds presentation|Covalent bonds presentation]]
+  this unit is located at [[Covalent bonds presentation|Covalent bonds presentation]]
 
 ## The bond
 
@@ -23,9 +25,9 @@ this unit is located at [[Covalent bonds presentation|Covalent bonds presentatio
 
 - The attractive force that holds two or more atoms/ions together
 - Covalent Bonds come from sharing electrons between atoms
-	- Usually found between non metals
+  - Usually found between non metals
 - [[Ionic bonds|Ionic bonds]] come from the transfer of electrons and then a attraction between opposite charges
-	- Usually found between a metal and non metal
+  - Usually found between a metal and non metal
 - Metallic bonds: attractive force holding pure metals together
 
 ### How covalent bonds are made
@@ -41,20 +43,20 @@ this unit is located at [[Covalent bonds presentation|Covalent bonds presentatio
 #### Octet rule
 
 - Atoms tend to gain, lose, or share electrons until they are surrounded by 8 valence electrons (4 electron pairs)
-	- "Eight is great"
-	- It has exceptions though
-	- Which is stronger
-		- NaCl or NH3
+  - "Eight is great"
+  - It has exceptions though
+  - Which is stronger
+    - NaCl or NH3
 - Exceptions:
-	- Groups 1, 2, 13 might have less than a octet and are happy
-	- Below the 3rd period, it can accept more electrons
-	- Or if there is not a better way to do it
-	- Florine is a example of a exception
+  - Groups 1, 2, 13 might have less than a octet and are happy
+  - Below the 3rd period, it can accept more electrons
+  - Or if there is not a better way to do it
+  - Florine is a example of a exception
 
 #### Review
 
 - How many valence electrons for 6e
-	- 4
+  - 4
 - Draw the dot structure of Ge
 
 ### Electronegativity
@@ -65,22 +67,22 @@ this unit is located at [[Covalent bonds presentation|Covalent bonds presentatio
 - The difference in electronegativity determines if electrons are shared equally (non-polar covalent) or non evenly (polar)
 - 0-0.4 - Non polar, 0.41 - 1.7 polar, 1.71+ Ionic
 - Ex:
-	- $Al_2O_3$
-	- 3.44-1.61 = 1.24 - Ion
+  - $Al_2O_3$
+  - 3.44-1.61 = 1.24 - Ion
 
 ## Lewis structures
 
 ![[Lewis Structures|Lewis Structures]]
+
 - To know how many bonds an element can make, use mnemonic:
-- HONC 1234
-	- Hydrogen like make 1 bond, Oxygen like to make 2…
-![[Covalent Bonds 2024-02-23 16.42.50.excalidraw|Covalent Bonds 2024-02-23 16.42.50.excalidraw]]
+- HONC 1234 - Hydrogen like make 1 bond, Oxygen like to make 2…
+  ![[Covalent Bonds 2024-02-23 16.42.50.excalidraw|Covalent Bonds 2024-02-23 16.42.50.excalidraw]]
 
 ### More complex structures
 
 - Find the central atom
-	- Low electronegativity
-	- More bonding sites
+  - Low electronegativity
+  - More bonding sites
 - Carbon has less electronegativity than Florine so it goes in the middle
 
 ![[Covalent Bonds 2024-02-26 09.34.05.excalidraw|Covalent Bonds 2024-02-26 09.34.05.excalidraw]]
@@ -90,11 +92,11 @@ this unit is located at [[Covalent bonds presentation|Covalent bonds presentatio
 #### Practice
 
 - How many valence electrons do each element in $CH_3F$
-	- C = 4, H = 1, F = 7
+  - C = 4, H = 1, F = 7
 - What is the total number of valence electrons
-	- 14
+  - 14
 - What is the Lewis structure
-![[Covalent Bonds 2024-02-26 09.46.01.excalidraw|300]]
+  ![[Covalent Bonds 2024-02-26 09.46.01.excalidraw|300]]
 - Is carbon happy?
 - No, carbon and oxygen is unhappy because they don't have eight (it has )
 
@@ -110,8 +112,9 @@ this unit is located at [[Covalent bonds presentation|Covalent bonds presentatio
 - $C_2H_2$
 
 ![[Covalent Bonds 2024-02-28 18.18.56.excalidraw|Covalent Bonds 2024-02-28 18.18.56.excalidraw]]
+
 - As you increase bonds, the strength increases but the length decreases
-	- Like folding a string
+  - Like folding a string
 
 ### Multiple atoms practice
 
@@ -133,6 +136,7 @@ this unit is located at [[Covalent bonds presentation|Covalent bonds presentatio
 ### Resonance
 
 ![[Resonance.excalidraw|600]]
+
 - All the same
 - They are all existing at the same time
 - The electron is moving the bond but it doing so all the time so it's pretty much always all three
@@ -168,8 +172,8 @@ this unit is located at [[Covalent bonds presentation|Covalent bonds presentatio
 ## Polar molecules
 
 - A polar molecule must have
-	- Polar bonds
-	- NOT symmetric
+  - Polar bonds
+  - NOT symmetric
 - Symmetry is determined by the bond exes only
 
 ![[Polar molecule.excalidraw|Polar molecule.excalidraw]]

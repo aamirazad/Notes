@@ -5,8 +5,9 @@ Paperless: https://papers.aamira.me/documents/414/
 order: 5
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Reformation|Reformation]]
 
 # The Reformation Part 2 - CC

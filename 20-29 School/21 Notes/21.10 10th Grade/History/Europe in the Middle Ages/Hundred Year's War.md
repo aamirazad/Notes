@@ -6,8 +6,9 @@ order: 6
 synopsis: Presentation notes about the Hundred Year's War
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Europe in the Middle Ages|Europe in the Middle Ages]]
 
 # Hundred Year's War

@@ -4,8 +4,9 @@ tags:
 order: 1
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Absolutism|Absolutism]]
 
 # Crisis in europe
@@ -13,6 +14,7 @@ Parent:: [[Absolutism|Absolutism]]
 ### Economic and social crises
 
 Inflation
+
 - Major influx of gold and silver from Americas
 - Growing populations
 - Went from 60 mil to 85 mil in 100 years
@@ -25,7 +27,7 @@ Inflation
 
 ### Witchcraft trials
 
--  Because people believed in witchcraft during this time, common people (poor women) were accused of witchcraft meaning they would be tortured to confess to practices they didn't do. 
+- Because people believed in witchcraft during this time, common people (poor women) were accused of witchcraft meaning they would be tortured to confess to practices they didn't do.
 - But later people realized believing in spells and stuff didn’t make sense and stopped in 1650
 
 #### Prior knowledge
@@ -44,7 +46,7 @@ Inflation
 
 - Just like all other wars, this one was very destructive.
 - Similar to the [[Hundred Year's War|Hundred Year's War]], France came on top which changed a lot of dynamics, but unlike it, the war was about religion and not government
-	- Both involved guns heavy
+  - Both involved guns heavy
 - In addition, one of the major effects was famine and population loss similar to the [[The Black Death Review|Black Death]]
 
 ### The Changing Face of War
@@ -53,8 +55,8 @@ Inflation
 - The flintlock musket involved gunpowder lit by a flint making it easier to fire
 - Also a bayonet, a steel blade used in close proximity fighting was provided
 - Gustavus Adolphus, king of Sweden, military leader experienced in firearms
-	- Salvo
-		- Each person fired independently instead of in rows
+  - Salvo
+    - Each person fired independently instead of in rows
 - France had a army of 400,000
 
 #### Prior knowledge
@@ -65,34 +67,34 @@ Inflation
 ### Revolutions in England
 
 - During the Thirty Year's War, England also had a war of their own. A civil war called the English Revolution
-	- Power struggle between the king and the Parliament
-	- It would take another revolution to resolve it
+  - Power struggle between the king and the Parliament
+  - It would take another revolution to resolve it
 - The Stuarts and Divine Right
-	- The Stuart was a long line of rules
-	- King James I believed in the divine right of kings
-		- Kings receive their power from God, the Parliament did not like this
+  - The Stuart was a long line of rules
+  - King James I believed in the divine right of kings
+    - Kings receive their power from God, the Parliament did not like this
 - The Puritans wanted to make the English church more Protestant
-	- The upper class were becoming Puritan (Protestants inspired by Calvinist ideas)
+  - The upper class were becoming Puritan (Protestants inspired by Calvinist ideas)
 - Charles I
-	- Accepted a petition from the Parliament that made the Parliament's consent required for the passing of any taxes
-	- Also, he tried to impose the Church of England more, causing the Puritans to leave to America
+  - Accepted a petition from the Parliament that made the Parliament's consent required for the passing of any taxes
+  - Also, he tried to impose the Church of England more, causing the Puritans to leave to America
 - In 1642 England went into Civil war between the supporters of the king and the parliamentary forces
-	- Parliament won because of the New Model Army of Oliver Cromwell made up of Puritans who believed they were fighting for god
-	- They executed Charles I
-		- Parliament abolished the monarchy, declaring England a republic
+  - Parliament won because of the New Model Army of Oliver Cromwell made up of Puritans who believed they were fighting for god
+  - They executed Charles I
+    - Parliament abolished the monarchy, declaring England a republic
 - Cromwell died and the Parliament restored the monarchy
-	- Parliament introduced Exclusion Bill, stopping James from the thrown as a catholic
-	- Two groups were created: the Whigs who didn't like James, and the Tories who wanted to follow the bloodline
+  - Parliament introduced Exclusion Bill, stopping James from the thrown as a catholic
+  - Two groups were created: the Whigs who didn't like James, and the Tories who wanted to follow the bloodline
 - Charles dismissed Parliament and James II become king causing conflict with him and parliament
 - William and James's daughter Mary invaded England
 - Created the bill of rights
-	- Gave the Parliament the right to make laws and set taxes, England could only fight with their consent
-	- Also created a government with a freely elected Parliament
+  - Gave the Parliament the right to make laws and set taxes, England could only fight with their consent
+  - Also created a government with a freely elected Parliament
 - Parliament passed the Toleration Act to grant Puritans free worship
 
 #### Prior knowledge
 
 - This revolution is very similar to the even that still hasn't happened, the [[Topic 3 Lesson 4 “The Move Toward Independence” Notes|American Revolution]] against Britain
-	- They are similar in that both have a power struggle of who gets to make decisions on the people like to make taxes
-	- They are dissimilar because the American revolution involved lots of fighting while the revolutions in England took place in the government
+  - They are similar in that both have a power struggle of who gets to make decisions on the people like to make taxes
+  - They are dissimilar because the American revolution involved lots of fighting while the revolutions in England took place in the government
 - Also the question about religion is a very common issues such as what caused the [[Reformation|Reformation]]

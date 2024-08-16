@@ -5,7 +5,7 @@ order: 4
 Parent: "[[Enlightenment and French Revolution]]"
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
 
 # Age of Napoleon
@@ -30,7 +30,7 @@ share: "true"
 ### Napoleon as Emperor
 
 - **Napoleonic Code** was the laws of France
-	- Included the right to property
+  - Included the right to property
 - **Bank of France**, **public school system**
 - **Meritocracy** was the idea that positions in government was given based on skill not birth or wealth
 - **The Concordat** with the pope meant the Catholic Church was brought back, while still being tolerant
