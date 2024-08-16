@@ -3,8 +3,9 @@ tags:
   - Science
 loc: 6
 order: 4
-share: "true"
+share: true
 ---
+
 Parent:: [[Science|Science]]
 
 # Electronic structure and the periodic table
@@ -91,7 +92,7 @@ Light has energy. The different amount of energy, called wavelength, has differe
 - Fixes the issues with Bohr's model
 - Wave properties of atoms; works with all atoms
 - e<sup>-</sup> in orbitals or e<sup>-</sup> clouds, _not orbits_
-- __Cannot__ pinpoint the location of a e<sup>-</sup>
+- **Cannot** pinpoint the location of a e<sup>-</sup>
   - Instead uses statistics and high probability
 - Perfected model
 
@@ -120,12 +121,14 @@ Light has energy. The different amount of energy, called wavelength, has differe
 - Fluorine #9
   - 1s<sup>2</sup>2s<sup>2</sup>2p<sup>5</sup>
 - Niobium # 41
+
   - 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>15</sup>4p<sup>6</sup>
 
 - Within a block the exponent increase for each column
 - Coefficient increase by one per row (d-block is one behind)
 
 ![[Pasted image 20240519135117.png|Pasted image 20240519135117.png]]
+
 #### Rules
 
 - Aufbau: lowest orbital first
