@@ -7,6 +7,12 @@ share: true
 
 # 10th Grade
 
+> [!danger] Web users beware
+> Please use the dropdown next to the grade to view the subjects not the links down below! Thanks!!
+
+---
+
+
 %% Begin Waypoint %%
 
 - **[[Engineering Robotics|Engineering Robotics]]**

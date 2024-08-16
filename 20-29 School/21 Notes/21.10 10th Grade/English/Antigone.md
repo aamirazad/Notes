@@ -8,6 +8,9 @@ Parent:: [[English|English]]
 
 # Antigone
 
+> [!info] Note
+> We were supposed to read Antigone but because of Mrs. Scarbro, my class didn't have the time so we skipped it. 
+
 - Rules of god vs Rules of man
 
 ### Lines 1-416

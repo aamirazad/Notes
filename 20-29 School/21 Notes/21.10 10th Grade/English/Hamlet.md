@@ -3,11 +3,14 @@ share: true
 tags: English
 order: 10
 date created: Monday, August 12th 2024, 4:28 pm
-date modified: Friday, August 16th 2024, 10:58 am
+date modified: Friday, August 16th 2024, 5:52 pm
 ---
 Parent:: [[English|English]]
 
 # Hamlet
+
+> [!info] Note
+> We did not read Hamlet in class because of Mrs. Scarbro. Most of this was written using [LitCharts](https://www.litcharts.com/) as a tool to help prepare me for the test we didn't have.
 
 ## Background
 
