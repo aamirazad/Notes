@@ -5,8 +5,9 @@ info: Crash Course
 order: 1
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Reformation|Reformation]]
 
 # The Reformation - CC
@@ -24,7 +25,7 @@ Parent:: [[Reformation|Reformation]]
 
 - Middle ground between heaven and hell
 - Stuck for eternity
-- People were so scared they paid for __indulgence__ to get out of it
+- People were so scared they paid for **indulgence** to get out of it
   - Some spend all their money on this scan to get others out of purgatory
 
 ### The Reformation
