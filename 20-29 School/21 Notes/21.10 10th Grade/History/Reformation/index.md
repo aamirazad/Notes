@@ -1,12 +1,14 @@
 ---
 date created: Tuesday, July 2nd 2024, 5:27 am
 date modified: Tuesday, July 2nd 2024, 5:39 am
-share: "true"
+share: true
+title: Reformation
 ---
 
 # Reformation
 
 %% Begin Waypoint %%
+
 - [[Mankind - A new world|Mankind - A new world]]
 - [[Reformation Review|Reformation Review]]
 - [[The Protestant Reformation - CC|The Protestant Reformation - CC]]
@@ -22,11 +24,13 @@ share: "true"
 > The Reformation was a movement of reform that brought suspicion to the Church because of the printing press which split Christianity into Catholic and Protestant groups
 
 > [!tip] Key concepts
+>
 > - The Printing press causes the bible to be spread which make people question things the church is doing like Indulgences, releases from hell
 > - In France, the Huguenots (French Protestant) a more radical form of Lutheranism which is from Christianity are violently suppressed but is kinda resolved with the Edic of Nantes
 > - Overall, the Holy Roman Empire is fully divided and weak while France is very united and strong
 
 > [!info] Key terms
+>
 > - **Christian Humanism**
 > - **Desiderius Erasmus**: Focused on self care and wrote The Praise of Folly about social reform
 > - **Martin Luther**: Monk who teachers in Wittenberg that people were not judged by their good works (physical possessions) but their faith to God
