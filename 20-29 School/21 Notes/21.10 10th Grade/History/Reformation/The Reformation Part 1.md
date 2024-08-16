@@ -5,8 +5,9 @@ Paperless: https://papers.aamira.me/documents/401/
 order: 2
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Reformation|Reformation]]
 
 # The Reformation Part 1
@@ -70,17 +71,17 @@ Parent:: [[Reformation|Reformation]]
 
 1. Define
 
-- __Christian humanism__: A movement to reform the Catholic Church
-- __Salvation__: Acceptance into heaven
-- __Indulgence__: release from punishment for sun
+- **Christian humanism**: A movement to reform the Catholic Church
+- **Salvation**: Acceptance into heaven
+- **Indulgence**: release from punishment for sun
 
 1. Identify
 
-- __Martin Luther__: Leader of the reformation, german professor then later priest
-- __Desiderius Erasmus__: Well known Christian humanist who was known for showing people how to live good lives in their daily acts rather than completing good works (pilgrimage)
-- __Edict of Worms__: What Emperor Charles passed to ban Luther's works and declared him an enemy to the state
-- __Charles V__: The Holy Roman Emperor ruling Spain and also surrounding areas
-- __Peace of Augsburg__: The end of the war Germany which made Lutheranism an allowed religion
+- **Martin Luther**: Leader of the reformation, german professor then later priest
+- **Desiderius Erasmus**: Well known Christian humanist who was known for showing people how to live good lives in their daily acts rather than completing good works (pilgrimage)
+- **Edict of Worms**: What Emperor Charles passed to ban Luther's works and declared him an enemy to the state
+- **Charles V**: The Holy Roman Emperor ruling Spain and also surrounding areas
+- **Peace of Augsburg**: The end of the war Germany which made Lutheranism an allowed religion
 
 1. What were the consequences of Luther's Ninety-five theses?
 
