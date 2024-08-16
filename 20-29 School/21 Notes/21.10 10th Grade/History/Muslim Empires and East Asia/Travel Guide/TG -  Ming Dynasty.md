@@ -4,8 +4,9 @@ tags:
 order: 5
 date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
-share: "true"
+share: true
 ---
+
 Parent:: [[Travel Guide|Travel Guide]]
 
 # Tg - Ming dynasty
@@ -14,7 +15,7 @@ Parent:: [[Travel Guide|Travel Guide]]
 
 ## Geography and climate
 
-The Ming Dynasty took place in China from the late 14th century until the mid 17th century.  It stretched far and wide across China, occupying a lot of southeastern China plus stretching north.  The dynasty covered what would be modern-day Beijing, Shanghai, and Yangshuo.  
+The Ming Dynasty took place in China from the late 14th century until the mid 17th century.  It stretched far and wide across China, occupying a lot of southeastern China plus stretching north.  The dynasty covered what would be modern-day Beijing, Shanghai, and Yangshuo.
 
 The climate throughout most of the dynasty was relatively moderate.  Towards the end, though, for around the last century, the climate deterioration resulted in a 20-50% reduction of raw grain productions.  This caused a food crisis and several vulnerability issue for the dynasty.  (Zheng et al.)
 
@@ -24,7 +25,7 @@ Religion played an important role in Ming China.  The main religion during this
 
 ## History
 
-The Ming dynasty is regarded as one of the most stable times in ancient China.  It was known for the refurbishment of the Great Wall, amazing trade, and a well monetized economy. 
+The Ming dynasty is regarded as one of the most stable times in ancient China.  It was known for the refurbishment of the Great Wall, amazing trade, and a well monetized economy.
 
 The dynasty officially began in 1368 when rebel armies led by Zhu Yuanzhang overthrew the Yuan and its dynasty.  He named the start of his new era,"Da Ming," which means great brightness.
 
@@ -52,7 +53,7 @@ Mings developed innovation in practices such as calligraphy, poetry, and ceramic
 
 ## Art and culture
 
-Ming people created art out of ivory, horn, and gold.  They created carvings, silk, and jewelry.  Mings practiced calligraphy, and artsy form of writing, as well as working with porcelain.  As mentioned before, most of the porcelain had a blue and white color scheme with designs all over it.  
+Ming people created art out of ivory, horn, and gold.  They created carvings, silk, and jewelry.  Mings practiced calligraphy, and artsy form of writing, as well as working with porcelain.  As mentioned before, most of the porcelain had a blue and white color scheme with designs all over it.
 
 Paintings included pictures of birds, flowers, and phoenixes.  More colors including brown were used, as well as new techniques and skills were developed during this period.
 
