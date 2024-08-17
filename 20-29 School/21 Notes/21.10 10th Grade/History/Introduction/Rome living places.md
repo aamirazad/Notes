@@ -8,8 +8,8 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[./index|Introduction]]
+Parent:: [[Introduction|Introduction]]
 
 # Rome living places
 
-![qownnotes-media-jzQWxo](../../../../../media/qownnotes-media-jzQWxo.png)
+![qownnotes-media-jzQWxo](qownnotes-media-jzQWxo.png)
