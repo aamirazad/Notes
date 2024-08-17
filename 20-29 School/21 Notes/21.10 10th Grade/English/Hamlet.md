@@ -10,7 +10,7 @@ Parent:: [[English|English]]
 # Hamlet
 
 > [!info] Note
-> We did not read Hamlet in class because of Mrs. Scarbro. Most of this was written using [LitCharts](https://www.litcharts.com/) as a tool to help prepare me for the test we didn't have.
+> We did not read Hamlet in class because of Mrs. Scarbro. Most of this was written using [LitCharts](https://www.litcharts.com/) as a tool to help prepare me for the test we didn't end up having.
 
 ## Background
 
