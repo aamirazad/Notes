@@ -122,7 +122,7 @@ Science cannot address supernatural phenomena
 
 ### Pogil recap
 
-![Matter can be mixtures or pure substances](../../../../media/qownnotes-media-uRFCVb.png)
+![Matter can be mixtures or pure substances](qownnotes-media-uRFCVb.png)
 
 ### Mixtures
 
@@ -197,7 +197,7 @@ Ingredients -> Result
 
 ### Reaction types
 
-![[../../../../media/qownnotes-media-JUaJnN.png|Charts of Exo and Endo thermic reations]]
+![[qownnotes-media-JUaJnN.png|Charts of Exo and Endo thermic reations]]
 
 Exo - exit
 Endo -- enter
