@@ -9,5 +9,5 @@ title: Hamlet (character)
 
 # Hamlet (character)
 
-- Son of [[Late King Hamlet|Late King Hamlet]] and [[Late Queen Gertrude|Late Queen Gertrude]]
+- Son of [[Late King Hamlet|Late King Hamlet]] and [[./Late Queen Gertrude|Late Queen Gertrude]]
 - This character is the central character of the play, who pretends to be insane while formulating a plan to avenge the last king's murder.
