@@ -10,11 +10,11 @@ title: Reformation
 %% Begin Waypoint %%
 
 - [[Mankind - A new world|Mankind - A new world]]
-- [[./Reformation Review|Reformation Review]]
-- [[./The Protestant Reformation - CC|The Protestant Reformation - CC]]
-- [[./The Reformation Part 1|The Reformation Part 1]]
-- [[./The Reformation Part 2 - CC|The Reformation Part 2 - CC]]
-- [[./The Reformation Part 2|The Reformation Part 2]]
+- [[Reformation Review|Reformation Review]]
+- [[The Protestant Reformation - CC|The Protestant Reformation - CC]]
+- [[The Reformation Part 1|The Reformation Part 1]]
+- [[The Reformation Part 2 - CC|The Reformation Part 2 - CC]]
+- [[The Reformation Part 2|The Reformation Part 2]]
 
 %% End Waypoint %%
 
