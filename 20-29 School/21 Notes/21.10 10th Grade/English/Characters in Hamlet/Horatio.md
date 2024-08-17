@@ -7,4 +7,4 @@ title: Horatio
 
 # Horatio
 
-- This character is [[./Hamlet (character)|Hamlet]]'s closest friend, a former fellow-student who has come to Elsinore for the funeral of the old king.
+- This character is [[Hamlet (character)|Hamlet]]'s closest friend, a former fellow-student who has come to Elsinore for the funeral of the old king.
