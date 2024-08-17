@@ -11,7 +11,7 @@ Parent:: [[Science|Science]]
 
 ### Chapter overview
 
-![[./wiki/Mass relations in Chemistry overview.svg|800]]
+![[Mass relations in Chemistry overview.excalidraw|800]]
 
 ### Notes to future self
 
@@ -46,7 +46,7 @@ Parent:: [[Science|Science]]
 - For a compound: a mole is the formula mass in grams
 - Molar mass: the mass of a mole of elements, grams
 
-![[Mole map|500]]
+![[Mole map.excalidraw|500]]
 
 #### Molar mass practice
 
@@ -102,7 +102,7 @@ $$
 
 ### Molecule, atom, and formula unit comparison
 
-![[Molecule, Atom, Formula unit ven diagram|Molecule, Atom, Formula unit ven diagram]]
+![[Molecule, Atom, Formula unit ven diagram.excalidraw|Molecule, Atom, Formula unit ven diagram.excalidraw]]
 
 ### Density procedure
 
@@ -125,7 +125,7 @@ Chem lab: Finding the micro density of plastics
 - Baking activity
   - The ingredients used to make different bakes couldn't balance cause they had different things
 - Road map
-  ![[Stoichiometry process diagram|700]]
+  ![[Stoichiometry process diagram.excalidraw|700]]
 
 #### Mole to mole
 
@@ -222,7 +222,7 @@ $$
 - The chemical formula showing the simplest ratio of elements in a compound
 - $C_{6}H_{12}O_{6}$
 - $CH_{2}O$
-  ![[./wiki/Empirical formula map.svg|800]]
+  ![[Empirical formula map.excalidraw|800]]
 
 - What is the empirical formula for the ingredient in plaster that is 29.44% calcium, 23.56 sulfur, and 47.01% oxygen
   $$
