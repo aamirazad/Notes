@@ -6,4 +6,4 @@ date modified: Friday, August 16th 2024, 10:53 am
 
 # Changing Warfare Concept Map
 
-![[Changing Warfare Concept Map.excalidraw|Changing Warfare Concept Map.excalidraw]]
+![[../../../../../media/Changing Warfare Concept Map.svg|Changing Warfare Concept Map.excalidraw]]
