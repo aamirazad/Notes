@@ -9,13 +9,13 @@ title: Travel Guide
 
 %% Begin Landmark %%
 
-- [[TG -  Ming Dynasty|TG -  Ming Dynasty]]
-- [[TG - Home|TG - Home]]
-- [[TG - Mogul Empire|TG - Mogul Empire]]
+- [[./TG -  Ming Dynasty|TG -  Ming Dynasty]]
+- [[./TG - Home|TG - Home]]
+- [[./TG - Mogul Empire|TG - Mogul Empire]]
 - [[TG - Ottoman Empire|TG - Ottoman Empire]]
-- [[TG - Qing Dynasty|TG - Qing Dynasty]]
-- [[TG - Safavid Dynasty|TG - Safavid Dynasty]]
-- [[TG - Tokugawa Japan|TG - Tokugawa Japan]]
-- [[TG - Yi Dynasty|TG - Yi Dynasty]]
+- [[./TG - Qing Dynasty|TG - Qing Dynasty]]
+- [[./TG - Safavid Dynasty|TG - Safavid Dynasty]]
+- [[./TG - Tokugawa Japan|TG - Tokugawa Japan]]
+- [[./TG - Yi Dynasty|TG - Yi Dynasty]]
 
 %% End Landmark %%

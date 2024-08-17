@@ -7,7 +7,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[Absolute Monarchies|Absolute Monarchies]]
+Parent:: [[./index|Absolute Monarchies]]
 
 # Crisis in europe
 
@@ -45,9 +45,9 @@ Inflation
 #### Prior knowledge
 
 - Just like all other wars, this one was very destructive.
-- Similar to the [[Hundred Year's War|Hundred Year's War]], France came on top which changed a lot of dynamics, but unlike it, the war was about religion and not government
+- Similar to the [[../Europe in the Middle Ages/Hundred Year's War|Hundred Year's War]], France came on top which changed a lot of dynamics, but unlike it, the war was about religion and not government
   - Both involved guns heavy
-- In addition, one of the major effects was famine and population loss similar to the [[The Black Death Review|Black Death]]
+- In addition, one of the major effects was famine and population loss similar to the [[../Europe in the Middle Ages/The Black Death Review|Black Death]]
 
 ### The Changing Face of War
 
@@ -61,7 +61,7 @@ Inflation
 
 #### Prior knowledge
 
-- Just like when the gun was first largely used in the [[Hundred Year's War|Hundred Year's War]], this more advanced gun changed how wars were fought dramatically
+- Just like when the gun was first largely used in the [[../Europe in the Middle Ages/Hundred Year's War|Hundred Year's War]], this more advanced gun changed how wars were fought dramatically
 - Also, a new fighting method was used like in the [[Topic 3 Lesson 5 “Winning Independence” Notes Corrected|American revolution]]
 
 ### Revolutions in England
@@ -97,4 +97,4 @@ Inflation
 - This revolution is very similar to the even that still hasn't happened, the [[Topic 3 Lesson 4 “The Move Toward Independence” Notes|American Revolution]] against Britain
   - They are similar in that both have a power struggle of who gets to make decisions on the people like to make taxes
   - They are dissimilar because the American revolution involved lots of fighting while the revolutions in England took place in the government
-- Also the question about religion is a very common issues such as what caused the [[Reformation|Reformation]]
+- Also the question about religion is a very common issues such as what caused the [[../Reformation/index|Reformation]]

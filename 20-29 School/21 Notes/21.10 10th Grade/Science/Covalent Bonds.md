@@ -14,7 +14,7 @@ Parent:: [[Science|Science]]
 
 ### Overview
 
-![[Covalent Bonds overview.excalidraw|Covalent Bonds overview.excalidraw]]
+![[./wiki/Covalent Bonds overview.svg|Covalent Bonds overview.excalidraw]]
 
 - My attempt at teaching the class a bit of
   this unit is located at [[Covalent bonds presentation|Covalent bonds presentation]]
@@ -32,13 +32,13 @@ Parent:: [[Science|Science]]
 
 ### How covalent bonds are made
 
-![[Covalent Bonds 2024-02-22 20.46.0.excalidraw|Covalent Bonds 2024-02-22 20.46.0.excalidraw]]
+![[../../../../media/Covalent Bonds 2024-02-22 20.46.0.svg|Covalent Bonds 2024-02-22 20.46.0.excalidraw]]
 
 - 1s² 2s² 2p⁶ 3s² 3p⁴ -> Electron config for sulpur
 - \[Ne\] 3s² 3p⁴ -> 6 valence electrons (2+4)
 - The number of valence electrons can also be found by taking it's family number - 10. So for sulphur which is in family 16, it has 6 valence electrons
 
-![[Covalent Bonds 2024-02-22 31.03.0.excalidraw|600]]
+![[../../../../media/Covalent Bonds 2024-02-22 31.03.0.svg|600]]
 
 #### Octet rule
 
@@ -76,7 +76,7 @@ Parent:: [[Science|Science]]
 
 - To know how many bonds an element can make, use mnemonic:
 - HONC 1234 - Hydrogen like make 1 bond, Oxygen like to make 2…
-  ![[Covalent Bonds 2024-02-23 16.42.50.excalidraw|Covalent Bonds 2024-02-23 16.42.50.excalidraw]]
+  ![[../../../../media/Covalent Bonds 2024-02-23 16.42.50.svg|Covalent Bonds 2024-02-23 16.42.50.excalidraw]]
 
 ### More complex structures
 
@@ -85,7 +85,7 @@ Parent:: [[Science|Science]]
   - More bonding sites
 - Carbon has less electronegativity than Florine so it goes in the middle
 
-![[Covalent Bonds 2024-02-26 09.34.05.excalidraw|Covalent Bonds 2024-02-26 09.34.05.excalidraw]]
+![[../../../../media/Covalent Bonds 2024-02-26 09.34.05.svg|Covalent Bonds 2024-02-26 09.34.05.excalidraw]]
 
 - Elements in the same group (like N and P) have the same number of valence electrons to bond
 
@@ -96,7 +96,7 @@ Parent:: [[Science|Science]]
 - What is the total number of valence electrons
   - 14
 - What is the Lewis structure
-  ![[Covalent Bonds 2024-02-26 09.46.01.excalidraw|300]]
+  ![[../../../../media/Covalent Bonds 2024-02-26 09.46.01.svg|300]]
 - Is carbon happy?
 - No, carbon and oxygen is unhappy because they don't have eight (it has )
 
@@ -104,21 +104,21 @@ Parent:: [[Science|Science]]
 
 - 4 electrons are shared
 
-![[Covalent Bonds 2024-02-26 20.53.10.excalidraw|Covalent Bonds 2024-02-26 20.53.10.excalidraw]]
+![[../../../../media/Covalent Bonds 2024-02-26 20.53.10.svg|Covalent Bonds 2024-02-26 20.53.10.excalidraw]]
 
 ### Triple bonds
 
 - 6 electrons are share
 - $C_2H_2$
 
-![[Covalent Bonds 2024-02-28 18.18.56.excalidraw|Covalent Bonds 2024-02-28 18.18.56.excalidraw]]
+![[../../../../media/Covalent Bonds 2024-02-28 18.18.56.svg|Covalent Bonds 2024-02-28 18.18.56.excalidraw]]
 
 - As you increase bonds, the strength increases but the length decreases
   - Like folding a string
 
 ### Multiple atoms practice
 
-![[Covalent Bonds 2024-02-26 21.48.28.excalidraw|600]]
+![[../../../../media/Covalent Bonds 2024-02-26 21.48.28.svg|600]]
 
 ### Formal charge
 
@@ -126,7 +126,7 @@ Parent:: [[Science|Science]]
 - Mathematical formula
 - Like HONC 1234
 
-![[Covalent Bonds 2024-02-26 21.52.28.excalidraw|600]]
+![[../../../../media/Covalent Bonds 2024-02-26 21.52.28.svg|600]]
 
 - Go though the process
 - Central atom - Can't be 2
@@ -135,12 +135,12 @@ Parent:: [[Science|Science]]
 
 ### Resonance
 
-![[Resonance.excalidraw|600]]
+![[./wiki/Resonance.svg|600]]
 
 - All the same
 - They are all existing at the same time
 - The electron is moving the bond but it doing so all the time so it's pretty much always all three
-- [[Covalent Bonds 2024-02-27 21.52.24.excalidraw|More practice]]
+- [[../../../../media/Covalent Bonds 2024-02-27 21.52.24.svg|More practice]]
 
 ## VSPER molecular shapes
 
@@ -153,21 +153,21 @@ Parent:: [[Science|Science]]
 
 | Shape Name         | Number of Peripheral Atoms | Number of Lone Pairs on the Central Atom | Shape Diagram                      | Examples | Approximate Bond Angle |
 | ------------------ | -------------------------- | ---------------------------------------- | ---------------------------------- | -------- | ---------------------- |
-| Linear             | 2                          | 0                                        | ![[Linear.excalidraw|Linear.excalidraw]]             | $CO_2$   | $180^\circ$            |
-| Bent               | 2                          | 2                                        | ![[Bent.excalidraw|Bent.excalidraw]]               | $H_2O$   | $<109.5^\circ$         |
-| Trigonal Planer    | 3                          | 0                                        | ![[Trigonal Planer.excalidraw|Trigonal Planer.excalidraw]]    | $BF_3$   | $120^\circ$            |
-| Trigonal Pyramidal | 3                          | 1                                        | ![[Trigonal Pyramidal.excalidraw|Trigonal Pyramidal.excalidraw]] | $NH_3$   | $<109.5^\circ$         |
-| Tetrahedral        | 4                          | 0                                        | ![[Tetrahedral.excalidraw|Tetrahedral.excalidraw]]        | $CH_4$   | $109.5^\circ$          |
+| Linear             | 2                          | 0                                        | ![[./wiki/Linear.svg|Linear.excalidraw]]             | $CO_2$   | $180^\circ$            |
+| Bent               | 2                          | 2                                        | ![[./wiki/Bent.svg|Bent.excalidraw]]               | $H_2O$   | $<109.5^\circ$         |
+| Trigonal Planer    | 3                          | 0                                        | ![[./wiki/Trigonal Planer.svg|Trigonal Planer.excalidraw]]    | $BF_3$   | $120^\circ$            |
+| Trigonal Pyramidal | 3                          | 1                                        | ![[./wiki/Trigonal Pyramidal.svg|Trigonal Pyramidal.excalidraw]] | $NH_3$   | $<109.5^\circ$         |
+| Tetrahedral        | 4                          | 0                                        | ![[./wiki/Tetrahedral.svg|Tetrahedral.excalidraw]]        | $CH_4$   | $109.5^\circ$          |
 
 #### Combining Lewis and VSEPR practice
 
-![[Covalent Bonds 2024-02-28 19.03.02.excalidraw|Covalent Bonds 2024-02-28 19.03.02.excalidraw]]
+![[../../../../media/Covalent Bonds 2024-02-28 19.03.02.svg|Covalent Bonds 2024-02-28 19.03.02.excalidraw]]
 
 #### Shapes of larger elements
 
 - Number each central atom and describe the shape for each
 
-![[Covalent Bonds 2024-02-28 19.11.53.excalidraw|Covalent Bonds 2024-02-28 19.11.53.excalidraw]]
+![[../../../../media/Covalent Bonds 2024-02-28 19.11.53.svg|Covalent Bonds 2024-02-28 19.11.53.excalidraw]]
 
 ## Polar molecules
 
@@ -176,4 +176,4 @@ Parent:: [[Science|Science]]
   - NOT symmetric
 - Symmetry is determined by the bond exes only
 
-![[Polar molecule.excalidraw|Polar molecule.excalidraw]]
+![[./wiki/Polar molecule.svg|Polar molecule.excalidraw]]

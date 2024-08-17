@@ -74,11 +74,11 @@ Web: Used to compare things
 
 ##### Thomson
 
-![qownnotes-media-pLottZ](qownnotes-media-pLottZ.png)
+![qownnotes-media-pLottZ](../../../../media/qownnotes-media-pLottZ.png)
 
 ##### Rutherford
 
-![qownnotes-media-LZoPHj](qownnotes-media-LZoPHj.png)
+![qownnotes-media-LZoPHj](../../../../media/qownnotes-media-LZoPHj.png)
 
 ### Isotopes
 
@@ -112,7 +112,7 @@ Web: Used to compare things
 
 #### Flow chart
 
-![[Naming flow chart.excalidraw|800]]
+![[./wiki/Naming flow chart.svg|800]]
 
 #### Covalent compounds
 

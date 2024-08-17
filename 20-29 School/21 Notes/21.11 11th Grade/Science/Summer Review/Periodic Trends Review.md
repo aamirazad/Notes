@@ -8,7 +8,7 @@ share: true
 
 > [!link] Previous connections
 >
-> - [[Honors Chemistry Final Review#Periodic Trends|Honors Chemistry Final Review > Periodic Trends]]
+> - [[../../../21.10 10th Grade/Science/Honors Chemistry Final Review#Periodic Trends|Honors Chemistry Final Review > Periodic Trends]]
 > - Link to POGIL (on paperless)
 
 Source:: [Electron Affinity Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Electron_Affinity?authuser=0)
