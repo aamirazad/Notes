@@ -5,4 +5,4 @@ share: true
 ---
 # AAPPL Practice overview
 
-![[AAPPL Pratice overview.excalidraw|AAPPL Pratice overview.excalidraw]]
+![[./attachments/AAPPL Pratice overview.svg|AAPPL Pratice overview.excalidraw]]
