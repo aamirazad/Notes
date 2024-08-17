@@ -108,11 +108,11 @@ Which has higher electronegativity?
 
 - I, more protons
 
-![](trends-graph.png)
+![](../../../../media/trends-graph.png)
 
 ## Balencing equations
 
-![[Balancing.excalidraw|Balancing.excalidraw]]
+![[../../../../media/Balancing.svg|Balancing.excalidraw]]
 
 - Diatomic elements acronyms
   - ClIF H. RrON
@@ -129,10 +129,10 @@ Which has higher electronegativity?
 
 #### Balencing practice
 
-![](balancing-types.png)
+![](../../../../media/balancing-types.png)
 
 #### Answers to worksheet
 
 [Worksheet](https://papers.aamira.me/documents/424)
 
-![](balancing-worksheet-answers.png)
+![](../../../../media/balancing-worksheet-answers.png)
