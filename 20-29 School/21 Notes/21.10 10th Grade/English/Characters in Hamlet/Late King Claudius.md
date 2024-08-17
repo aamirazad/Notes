@@ -7,5 +7,5 @@ title: Late King Claudius
 
 # Late King Claudius
 
-- Father of [[Claudius|Claudius]]
+- Father of [[./Claudius|Claudius]]
 - King of Denmark
