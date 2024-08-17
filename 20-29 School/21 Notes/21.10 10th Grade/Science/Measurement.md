@@ -51,15 +51,15 @@ Parent:: [[Science|Science]]
 
 ### Review
 
-![qownnotes-media-xxswcV](../../../../media/qownnotes-media-xxswcV.png)
+![qownnotes-media-xxswcV](qownnotes-media-xxswcV.png)
 
 ## Dimensional analysis
 
-![qownnotes-media-NJRlDl](../../../../media/qownnotes-media-NJRlDl.png)
+![qownnotes-media-NJRlDl](qownnotes-media-NJRlDl.png)
 
 #### Practice
 
-![qownnotes-media-lUkkmR](../../../../media/qownnotes-media-lUkkmR.png)
+![qownnotes-media-lUkkmR](qownnotes-media-lUkkmR.png)
 
 ### Unit conversions to know
 
@@ -74,7 +74,7 @@ Parent:: [[Science|Science]]
 
 ### Dimensional challenge
 
-![qownnotes-media-dlHZZv](../../../../media/qownnotes-media-dlHZZv.png)
+![qownnotes-media-dlHZZv](qownnotes-media-dlHZZv.png)
 
 ### Scientific notation
 
@@ -125,7 +125,7 @@ Rules:
 
 **It was measured by the scientist**
 
-![qownnotes-media-tiHnxq](../../../../media/qownnotes-media-tiHnxq.png)
+![qownnotes-media-tiHnxq](qownnotes-media-tiHnxq.png)
 
 ###
 
@@ -147,7 +147,7 @@ More digits means you are more and more precise
 
 Include all digits you can read (EVERYONE agrees), plus one digit that you can estimate (this varrys from person to person)
 
-![qownnotes-media-hBvFEf](../../../../media/qownnotes-media-hBvFEf.png)
+![qownnotes-media-hBvFEf](qownnotes-media-hBvFEf.png)
 
 - We KNOW the 2 because the ruler tells us this. Estimate one more place value
 
@@ -158,7 +158,7 @@ Include all digits you can read (EVERYONE agrees), plus one digit that you can e
 3. Leading zeros are **not** significant
 4. Trailing zeros are not significant **unless** there is a zero
 
-![qownnotes-media-QhcYiw](../../../../media/qownnotes-media-QhcYiw.png)
+![qownnotes-media-QhcYiw](qownnotes-media-QhcYiw.png)
 
 This is because non significant zeros are placeholders. 5,200 could be written like 5.2 x 10<sup>3</sup> So these zeros are not necessary
 
@@ -177,11 +177,11 @@ This is because non significant zeros are placeholders. 5,200 could be written l
 
 #### Multiplication and division
 
-![qownnotes-media-AlulDZ](../../../../media/qownnotes-media-AlulDZ.png)
+![qownnotes-media-AlulDZ](qownnotes-media-AlulDZ.png)
 
 #### Addition and subtraction
 
-![qownnotes-media-eklOmm](../../../../media/qownnotes-media-eklOmm.png)
+![qownnotes-media-eklOmm](qownnotes-media-eklOmm.png)
 
 ### Conversions
 
