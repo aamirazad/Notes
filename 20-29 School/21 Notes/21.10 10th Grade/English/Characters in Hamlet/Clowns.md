@@ -7,4 +7,4 @@ title: Clowns
 
 # Clowns
 
-- See [[Gravediggers|Gravediggers]]
+- See [[./Gravediggers|Gravediggers]]
