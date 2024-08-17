@@ -9,13 +9,13 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[Europe in the Middle Ages|Europe in the Middle Ages]]
+Parent:: [[./index|Europe in the Middle Ages]]
 
 # The Black Death Review
 
 Main idea: Its a plauge that swept through Europe in the 1300s killing millions.
 
-![qownnotes-media-wxYUrD](qownnotes-media-wxYUrD.png)
+![qownnotes-media-wxYUrD](../../../../../media/qownnotes-media-wxYUrD.png)
 
 - Middle ages reached height in 1200s
 - Plague started by beign carried by fleas, then it became airborne
