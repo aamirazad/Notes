@@ -55,7 +55,7 @@ share: true
 - Fair rules that apply to everyone, even people of status
   - Written down human rights which which is unique
 
-Ottomans vs the [[../Europe in the Middle Ages/Early middle ages#The Holy Roman Empire|Holy Roman empire]]
+Ottomans vs the [[Early middle ages#The Holy Roman Empire|Holy Roman empire]]
 
 Similarities:
 
