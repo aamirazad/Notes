@@ -11,7 +11,7 @@ Parent:: [[Science|Science]]
 
 ### Chapter overview
 
-![[Mass relations in Chemistry overview.excalidraw|800]]
+![[./wiki/Mass relations in Chemistry overview.svg|800]]
 
 ### Notes to future self
 
@@ -222,7 +222,7 @@ $$
 - The chemical formula showing the simplest ratio of elements in a compound
 - $C_{6}H_{12}O_{6}$
 - $CH_{2}O$
-  ![[Empirical formula map.excalidraw|800]]
+  ![[./wiki/Empirical formula map.svg|800]]
 
 - What is the empirical formula for the ingredient in plaster that is 29.44% calcium, 23.56 sulfur, and 47.01% oxygen
   $$
