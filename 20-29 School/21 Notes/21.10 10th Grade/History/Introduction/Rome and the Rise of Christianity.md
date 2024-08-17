@@ -8,7 +8,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[Introduction|Introduction]]
+Parent:: [[./index|Introduction]]
 
 # Rome and the Rise of Christianity
 
