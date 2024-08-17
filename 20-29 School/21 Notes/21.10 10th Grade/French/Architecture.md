@@ -6,6 +6,8 @@ share: true
 
 # Architecture
 
+![[French Architecture.excalidraw|French Architecture.excalidraw]]
+
 ### Gothic
 
 - Pointed up
