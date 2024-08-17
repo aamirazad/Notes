@@ -7,7 +7,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[./index|Absolute Monarchies]]
+Parent:: [[Absolute Monarchies|Absolute Monarchies]]
 
 # Thirty Years's War
 
