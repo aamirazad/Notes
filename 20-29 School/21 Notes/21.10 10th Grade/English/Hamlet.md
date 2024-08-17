@@ -58,17 +58,17 @@ Parent:: [[English|English]]
 ### Fate vs Free will
 
 - Common theme in Shakespeare
-- [[Hamlet (character)|Hamlet]] questions whether it is better to act decisively or let nature take its course (follow the ghost)
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]] questions whether it is better to act decisively or let nature take its course (follow the ghost)
 - Asks if anything we do has an impact
 
 ### Madness
 
-- [[Hamlet (character)|Hamlet]] kills [[Polonius|Polonius]] thinking he is [[Claudius|Claudius]]
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]] kills [[./Characters in Hamlet/Polonius|Polonius]] thinking he is [[./Characters in Hamlet/Claudius|Claudius]]
 - His famous soliloquy "To be o not to be" is where the contemplates suicide and the meaning of life
-- Hamlet tells [[Guildenstern|Guildenstern]] that his is only mad sometimes, that he knows the hawk from a handsaw
+- Hamlet tells [[./Characters in Hamlet/Guildenstern|Guildenstern]] that his is only mad sometimes, that he knows the hawk from a handsaw
 - He pretends to be mad in front of Claudius and Polonius
 - Hamlet follows the ghost
-- [[Ophelia|Ophelia]] goes mad after her father's death and Hamlet's rejections
+- [[./Characters in Hamlet/Ophelia|Ophelia]] goes mad after her father's death and Hamlet's rejections
   - She sings songs and gives flowers to people
 
 ### Revenge
@@ -84,7 +84,7 @@ Parent:: [[English|English]]
   - "Something's rotten in Denmark"
 	- King murdered, queen marries in 2 months
 	- People are scared they are going to be like Norway (king died, son takes over and goes to war)
-- [[Hamlet (character)|Hamlet]]'s indecision is reflected in the instability of Denmark
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]]'s indecision is reflected in the instability of Denmark
 - Hamlet becomes fascinated by death
   - When he discusses Polonius's death body he says, "We eat in life, we are eaten in death"
   - When burying Ophelia he talks to the skull
@@ -95,7 +95,7 @@ Parent:: [[English|English]]
 - He doesn't kill Claudius while he is killing because he thinks Claudius will go to heaven when he wants him to go to hell
 - Protestant Reformation is currently happening when Sophocles was writing this
   - Shakespeare (Protestant) might have started to question religion
-  - Lived in Wittenberg where the [[The Reformation Part 1#The Ninety five theses|Ninety-five thesis]]
+  - Lived in Wittenberg where the [[../History/Reformation/The Reformation Part 1#The Ninety five theses|Ninety-five thesis]]
 - The Ghost is doomed to walk the earth which is purgatory a Catholic idea
 
 ### Lies and Deceit/Corruption
@@ -128,17 +128,17 @@ Parent:: [[English|English]]
 
 ### Scene 1
 
-- [[Barnardo|Barnardo]] arrives to replace [[Francisco|Francisco]] who is standing at his post, Francisco gets scared
+- [[./Characters in Hamlet/Barnardo|Barnardo]] arrives to replace [[./Characters in Hamlet/Francisco|Francisco]] who is standing at his post, Francisco gets scared
 	- Elsinore Castle, Denmark
 	- *Bit of mystery, with Francisco getting scared*
 	- *Setting is creepy and cold*
 	- Nothing happened while Francisco was at his post
-	- Barnardo asks Francisco to tell [[Horatio|Horatio]] and [[Marcellus|Marcellus]] to help him if he sees them
+	- Barnardo asks Francisco to tell [[./Characters in Hamlet/Horatio|Horatio]] and [[./Characters in Hamlet/Marcellus|Marcellus]] to help him if he sees them
 - Francisco does see Horatio and Marcellus happen to come
 	- Marcellus asks if "this thing" appeared again, which Barnardo says it didn't
 	- Marcellus says Horatio believes it's in their imagination so that's why Marcellus brought Horatio
 	- Marcellus says they saw it twice before
-- Horatio doesn't believe it will appear when [[The Ghost|the ghost]] appears
+- Horatio doesn't believe it will appear when [[./Characters in Hamlet/The Ghost|the ghost]] appears
 	- Barnardo says it looks like the dead King of Denmark
 	- Horatio, like everyone else, every afraid, speaks to it asking it to speak
 	- The ghost moves away
@@ -146,47 +146,47 @@ Parent:: [[English|English]]
 - They describe the history of the former King of Denmark (rumors)
 	- The dead [[Late King Hamlet|Late King Hamlet]] killed [[Late King Fortinbras|Late King Fortinbras]], the King of Norway
 		- By law, Late King Hamlet gets all of Fortinbras's land
-	- [[Fortinbras|Fortinbras]] is planning to take back his father's lost lands in Denmark, resorting glory to Norway
+	- [[./Characters in Hamlet/Fortinbras|Fortinbras]] is planning to take back his father's lost lands in Denmark, resorting glory to Norway
 	- *That is why there is a strict watch*
 - The ghost reappears, heads to Horatio, who asks it to use its voice and warn them what is going to happen to Denmark
 	- Dawn approaches with a rooster crowing just when the ghost was about to speak
 	- The ghost leaves
-- Horatio tells Marcellus and Barnardo to come with him to tell [[Hamlet (character)|Hamlet]] what happened
+- Horatio tells Marcellus and Barnardo to come with him to tell [[./Characters in Hamlet/Hamlet (character)|Hamlet]] what happened
 	- Says the ghost will talk to Hamlet (it's son)
 
 ### Scene 2
 
-- [[Claudius|Claudius]] the new king of Denmark speaks to his court
+- [[./Characters in Hamlet/Claudius|Claudius]] the new king of Denmark speaks to his court
 	- Describes the death of his brother [[Late King Hamlet|Late King Hamlet]] and how they will move on
-	- Tells the court he is aware of [[Fortinbras|Fortinbras's]] plans.
-	- Has [[Cornelius|Cornelius]] and [[Voltemand|Voltemand]] tell the King of Norway to stop [[Fortinbras|Fortinbras]]
+	- Tells the court he is aware of [[./Characters in Hamlet/Fortinbras|Fortinbras's]] plans.
+	- Has [[./Characters in Hamlet/Cornelius|Cornelius]] and [[./Characters in Hamlet/Voltemand|Voltemand]] tell the King of Norway to stop [[./Characters in Hamlet/Fortinbras|Fortinbras]]
 	- *Claudius wants to show how capable and decisive he is*
-- [[Laertes|Laertes]] asks Claudius for permission to return to France, which he grants
-- Claudius asks his (step)son [[Hamlet (character)|Hamlet]] why he looks so grim (he believes he has been grieving his father too long)
+- [[./Characters in Hamlet/Laertes|Laertes]] asks Claudius for permission to return to France, which he grants
+- Claudius asks his (step)son [[./Characters in Hamlet/Hamlet (character)|Hamlet]] why he looks so grim (he believes he has been grieving his father too long)
 - *Everyone is ready to move on from the death of Hamlet, but Hamlet doesn't want to move on*
 	- Hamlet says how stale life has been ever since his father's death
 	- He tells Gertrude, "Frailty, thy name is woman" calling her weak
-- [[Horatio|Horatio]], [[Marcellus|Marcellus]], and [[Barnardo|Barnardo]] enter to talk to Hamlet
+- [[./Characters in Hamlet/Horatio|Horatio]], [[./Characters in Hamlet/Marcellus|Marcellus]], and [[./Characters in Hamlet/Barnardo|Barnardo]] enter to talk to Hamlet
 	- Horatio tells him that he saw Hamlet last night
-	- Hamlet says he will join them to see [[The Ghost|the ghost]] himself
+	- Hamlet says he will join them to see [[./Characters in Hamlet/The Ghost|the ghost]] himself
 	- He wonders whether the ghost will reveal some sort of foul play
 
 ### Scene 3
 
-- [[Laertes|Laertes]] tells his sister [[Ophelia|Ophelia]] not to fall in love with [[Hamlet (character)|Hamlet]]
+- [[./Characters in Hamlet/Laertes|Laertes]] tells his sister [[./Characters in Hamlet/Ophelia|Ophelia]] not to fall in love with [[./Characters in Hamlet/Hamlet (character)|Hamlet]]
 	- She warns him listen to his own advice
-- [[Polonius|Polonius]] tells Laertes to make many friends but still be careful who he gets close to
+- [[./Characters in Hamlet/Polonius|Polonius]] tells Laertes to make many friends but still be careful who he gets close to
 	- Also tells him to stay out of quarrels, to dress well, to never borrow nor lend money, ("Neither a lender nor a borrower be.") and be true to himself ("to thine own self be true")
 - Polonius asks Ophelia what Laertes told him
 	- She says he gave her advice about Hamlet
 	- Polonius says they have been spending a lot of time together, but says she would be a fool to think Hamlet cares about him
 	- She contests this, but he still tells her not to spend any time with her, which she agrees to
-	- *She probably won't follow advice, similar to Ismene from [[Antigone|Antigone]]*
+	- *She probably won't follow advice, similar to Ismene from [[./Antigone|Antigone]]*
 
 ### Scene 4
 
-- [[Hamlet (character)|Hamlet]], [[Horatio|Horatio]], and [[Marcellus|Marcellus]] are standing guard waiting for [[The Ghost|the ghost]]
-- [[Claudius|Claudius]] is partying inside, Hamlet criticizes saying he is, "blotting out all that is good in the country"
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]], [[./Characters in Hamlet/Horatio|Horatio]], and [[./Characters in Hamlet/Marcellus|Marcellus]] are standing guard waiting for [[./Characters in Hamlet/The Ghost|the ghost]]
+- [[./Characters in Hamlet/Claudius|Claudius]] is partying inside, Hamlet criticizes saying he is, "blotting out all that is good in the country"
 - The ghost appears and Hamlet addresses it
 	- *The ghost comes out after 12 (the Witching hour) and leaves at daybreak (signaled by a rooster)*
 	- Hamlet asks it to speak
@@ -197,7 +197,7 @@ Parent:: [[English|English]]
 
 ### Scene 5
 
-- Alone, [[The Ghost|The Ghost]] finally talks to [[Hamlet (character)|Hamlet]]
+- Alone, [[./Characters in Hamlet/The Ghost|the ghost]] finally talks to [[./Characters in Hamlet/Hamlet (character)|Hamlet]]
 - The ghost says her soon will have to go back to the flames of purgatory
 	- Asks Hamlet to avenge his death
 - The ghost speaks about the horrors of purgatory
@@ -205,11 +205,11 @@ Parent:: [[English|English]]
 	- Says he could tell stories that would freeze his blood and make his eyes bulge out of their sockets, but he is not allowed
 - Asks Hamlet to take revenge for his murder
 	- Says the official story is that a poisonous snake bit him and killed him, which he says is a lie
-	- Tells him the man who actually killed him is now wearing his crown ([[Claudius|Claudius]])
+	- Tells him the man who actually killed him is now wearing his crown ([[./Characters in Hamlet/Claudius|Claudius]])
 	- Says he poured poison into his ears while he slept in the garden
 	- Tells Hamlet not to let him get away for this and then vanishes
 	- He swears he will avenge his death
-- [[Horatio|Horatio]] and [[Marcellus|Marcellus]] catch up and ask what happened
+- [[./Characters in Hamlet/Horatio|Horatio]] and [[./Characters in Hamlet/Marcellus|Marcellus]] catch up and ask what happened
 	- He tells them what happened under the condition they won't tell anyone else
 - Hamlet tells them to vow not to tell anyone else
 	- The ghost calls out demanding they vow, following them wherever they go
@@ -222,16 +222,16 @@ Parent:: [[English|English]]
 
 ### Scene 1
 
-- Inside Elsinore, [[Polonius|Polonius]] gives his servant [[Reynaldo|Reynaldo]] money and messages to give to [[Laertes|Laertes]] in France but also to spy on Laertes
+- Inside Elsinore, [[./Characters in Hamlet/Polonius|Polonius]] gives his servant [[./Characters in Hamlet/Reynaldo|Reynaldo]] money and messages to give to [[./Characters in Hamlet/Laertes|Laertes]] in France but also to spy on Laertes
 	- *There is a lack of trust there, he doesn't know who Laertes is loyal to*
 	- Tells Reynaldo to talk to Laertes's friends about drinking, gambling, and women in regard to Laertes
-- Laertes leaves, [[Ophelia|Ophelia]] enters, scared
-  - Ophelia says she was in her room and [[Hamlet (character)|Hamlet]] came in
+- Laertes leaves, [[./Characters in Hamlet/Ophelia|Ophelia]] enters, scared
+  - Ophelia says she was in her room and [[./Characters in Hamlet/Hamlet (character)|Hamlet]] came in
   - She says he entered unannounced and with his shirt unbuttoned
   - *Ophelia is scared because she is supposed to be proper, and she didn't know what to do*
   - *Hamlet either is showing his first signs of madness or is actually unable to control himself*
   - Ophelia says Hamlet grabbed her wrist tightly
-  - Polonius tells Ophelia to see [[Claudius|Claudius]]
+  - Polonius tells Ophelia to see [[./Characters in Hamlet/Claudius|Claudius]]
   - *Polonius is a foil for Hamlet in that he is very excited to develop schemes and things while Hamlet is very indecisive and hesitates*
   - Polonius asks of Ophelia did anything to make him mad
 	- She says she did as Polonius said and sending back his letters and not speaking with him
@@ -240,20 +240,20 @@ Parent:: [[English|English]]
 
 ### Scene 2
 
-- [[Claudius|Claudius]] and [[Gertrude|Gertrude]] introduce [[Rosencrantz|Rosencrantz]] and [[Guildenstern|Guildenstern]], who of Hamlet's childhood friends brought to help Hamlet "draw of his pleasures" in response to his "transformation" after the death of his father
+- [[./Characters in Hamlet/Claudius|Claudius]] and [[./Characters in Hamlet/Gertrude|Gertrude]] introduce [[./Characters in Hamlet/Rosencrantz|Rosencrantz]] and [[./Characters in Hamlet/Guildenstern|Guildenstern]], who of Hamlet's childhood friends brought to help Hamlet "draw of his pleasures" in response to his "transformation" after the death of his father
   - They are also supposed to report to Claudius and Gertrude if Hamlet is doing anything sinister
   - *It may seem like Claudius is worried about Hamlet, but he actually just wants to figure out what is up with Hamlet, very quick with decisions*
-- [[Polonius|Polonius]] enters telling Gertrude and Claudius that ambassadors from Norway [[Voltemand|Voltemand]] and [[Cornelius|Cornelius]] has safely returned, and he knows the cause of Hamlet's strange behavior
+- [[./Characters in Hamlet/Polonius|Polonius]] enters telling Gertrude and Claudius that ambassadors from Norway [[./Characters in Hamlet/Voltemand|Voltemand]] and [[./Characters in Hamlet/Cornelius|Cornelius]] has safely returned, and he knows the cause of Hamlet's strange behavior
   - Claudius asks what the cause is, but Polonius says they should meet after the ambassadors come back
   - *Polonius is also scheming, trying to keep Claudius wrapped around his finger*
-- Claudius meets with [[Voltemand|Voltemand]] and [[Cornelius|Cornelius]]
-  - Voltemand says he put a stop to [[Fortinbras|Fortinbras]]
+- Claudius meets with [[./Characters in Hamlet/Voltemand|Voltemand]] and [[./Characters in Hamlet/Cornelius|Cornelius]]
+  - Voltemand says he put a stop to [[./Characters in Hamlet/Fortinbras|Fortinbras]]
 	- Fortinbras apparently swore to keep peace with Denmark and will now invade Poland instead
 	- Voltemand gives him a letter from Fortinbras asking Claudius for permission to pass through Denmark to invade Poland
 	- *Fortinbras, when hit with a road block, moves on with it quickly*
 	- *He is determined to conquer more and more land*
   - Voltemand and Cornelius leaves and Polonius talks to Claudius about Ophelia
-	- He gives him a letter written by Hamlet that [[Ophelia|Ophelia]] gave him
+	- He gives him a letter written by Hamlet that [[./Characters in Hamlet/Ophelia|Ophelia]] gave him
 	- In it, the young prince professed his intense love for Ophelia.
 	- Polonius tells the king and queen that he ordered Ophelia to reject him as he was worried
 	- Confesses he might have caused on Hamlet's madness by doing this
@@ -295,7 +295,7 @@ Parent:: [[English|English]]
 		- Hamlet introduces Polonius as a "great baby"
 		- Hamlet mocks everything Polonius says as Polonius says they are the best actors in the world
 	- Hamlet welcomes the actors, it is obvious he knows some of them
-		- The [[First Player|First Player]], the leader of the actors, asks what speech Hamlet wants to hear
+		- The [[./Characters in Hamlet/First Player|First Player]], the leader of the actors, asks what speech Hamlet wants to hear
 		- Hamlet struggles to remember a speech from an obscure play
 		- He recites most of it
 		- *Shows Hamlet's ambitions as an actor, can remember long speeches*
@@ -316,7 +316,7 @@ Parent:: [[English|English]]
 
 ### Scene 1
 
-- [[Claudius|Claudius]], [[Gertrude|Gertrude]], [[Polonius|Polonius]], [[Ophelia|Ophelia]], [[Rosencrantz|Rosencrantz]], and [[Guildenstern|Guildenstern]] gather to discuss Hamlet
+- [[./Characters in Hamlet/Claudius|Claudius]], [[./Characters in Hamlet/Gertrude|Gertrude]], [[./Characters in Hamlet/Polonius|Polonius]], [[./Characters in Hamlet/Ophelia|Ophelia]], [[./Characters in Hamlet/Rosencrantz|Rosencrantz]], and [[./Characters in Hamlet/Guildenstern|Guildenstern]] gather to discuss Hamlet
 	- Rosencrantz and Guildenstern say Hamlet is not answering them about why he is mad
 		- Gertrude asks if they tried to get him to do something fun
 		- They respond that they brought some actors who will do a play at the castle
@@ -371,18 +371,18 @@ Parent:: [[English|English]]
 
 ### Scene 2
 
-- [[Hamlet (character)|Hamlet]] instructs the [[First Player|First Player]] how he would like the monologue to be delivered
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]] instructs the [[./Characters in Hamlet/First Player|First Player]] how he would like the monologue to be delivered
 	- He tells them to not break character to get the laughs of the audience, he wants them to create the role genuinely
-- Hamlet asks [[Polonius|Polonius]] if the king and queen will watch the show, he says they will
-	- He then orders [[Rosencrantz|Rosencrantz]], and [[Guildenstern|Guildenstern]] to go with Polonius to make sure the actors get ready
-- [[Horatio|Horatio]] enters, Hamlet expresses how nice it is to see a true friend
+- Hamlet asks [[./Characters in Hamlet/Polonius|Polonius]] if the king and queen will watch the show, he says they will
+	- He then orders [[./Characters in Hamlet/Rosencrantz|Rosencrantz]], and [[./Characters in Hamlet/Guildenstern|Guildenstern]] to go with Polonius to make sure the actors get ready
+- [[./Characters in Hamlet/Horatio|Horatio]] enters, Hamlet expresses how nice it is to see a true friend
 	- Hamlet says he is a loyal companion and morally good person, and for that reason he entrusts him with a secret
 	- *Hamlet knows he is surrounded by people scheming against him*
 	- He reveals he wrote a new scene which contains the events from [[Late King Hamlet|Late King Hamlet's]] murder
-	- He asks Horatio to keep a close eye on [[Claudius|Claudius]] as if he reacts strongly, action must be taken
+	- He asks Horatio to keep a close eye on [[./Characters in Hamlet/Claudius|Claudius]] as if he reacts strongly, action must be taken
 	- *Creates dramatic irony for the audience
 - The play is about to start
-	- Claudius, [[Gertrude|Gertrude]], Polonius, [[Ophelia|Ophelia]], Rosencrantz, Guildenstern and other members of the court watch
+	- Claudius, [[./Characters in Hamlet/Gertrude|Gertrude]], Polonius, [[./Characters in Hamlet/Ophelia|Ophelia]], Rosencrantz, Guildenstern and other members of the court watch
 	- Claudius asks Hamlet how he's doing
 		- Gives a weird complicated answer of eating the air just as chameleons do
 	- Asks Polonius if he acted in college
@@ -437,11 +437,11 @@ Parent:: [[English|English]]
 
 ### Scene 3
 
-- [[Claudius|Claudius]] talks with [[Rosencrantz|Rosencrantz]] and [[Guildenstern|Guildenstern]]
-	- Tells them he is sending the two of them and [[Hamlet (character)|Hamlet]] on a mission to England
+- [[./Characters in Hamlet/Claudius|Claudius]] talks with [[./Characters in Hamlet/Rosencrantz|Rosencrantz]] and [[./Characters in Hamlet/Guildenstern|Guildenstern]]
+	- Tells them he is sending the two of them and [[./Characters in Hamlet/Hamlet (character)|Hamlet]] on a mission to England
 	- They say they will do anything the king asks
 	- *Claudius wants to keep Hamlet as far from him as possible as he is scared*
-- Before Hamlet comes to speak with [[Gertrude|Gertrude]], [[Polonius|Polonius]] hides himself behind the tapestry again to listen in on the conversation
+- Before Hamlet comes to speak with [[./Characters in Hamlet/Gertrude|Gertrude]], [[./Characters in Hamlet/Polonius|Polonius]] hides himself behind the tapestry again to listen in on the conversation
 - In a soliloquy, Claudius admits to killing [[Late King Hamlet|Late King Hamlet]]
 	- Asks God for forgiveness
 	- Fears he will need to give up the thrown
@@ -453,9 +453,9 @@ Parent:: [[English|English]]
 
 ### Scene 4
 
-- [[Polonius|Polonius]] lays out the plan with [[Gertrude|Gertrude]]
+- [[./Characters in Hamlet/Polonius|Polonius]] lays out the plan with [[./Characters in Hamlet/Gertrude|Gertrude]]
 	- Polonius hides behind the tapestry
-- [[Hamlet (character)|Hamlet]] enters
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]] enters
 	- Gertrude tells Hamlet he has upset his father
 	- Hamlet says it is her who upset his father
 		- She asks why he speaks to her so cruelly, wonders if he forgot who she was
@@ -469,7 +469,7 @@ Parent:: [[English|English]]
 		- He says she plucked the soul out of marriage
 		- She insists she doesn't know what she has done
 		- Keeps berating his mother
-	- [[The Ghost|The Ghost]] appears
+	- [[./Characters in Hamlet/The Ghost|the ghost]] appears
 		- Hamlet asks the ghost what he should do
 			- Gertrude cannot see the ghost, thinks Hamlet has fully gone mad
 			- The ghost reminds Hamlet to seek vengeance, but urges him to not hurt Gertrude
@@ -488,16 +488,16 @@ Parent:: [[English|English]]
 
 ### Scene 1
 
-- [[Claudius|Claudius]] asks [[Gertrude|Gertrude]] what is wrong
-	- She lies that [[Hamlet (character)|Hamlet]] has gone completely mad and killed [[Polonius|Polonius]] in his rage
+- [[./Characters in Hamlet/Claudius|Claudius]] asks [[./Characters in Hamlet/Gertrude|Gertrude]] what is wrong
+	- She lies that [[./Characters in Hamlet/Hamlet (character)|Hamlet]] has gone completely mad and killed [[./Characters in Hamlet/Polonius|Polonius]] in his rage
 	- Promises he will be shipped away by the time the sun comes up
-- Claudius tells Rosencrantz and Guildenstern to find Hamlet and bring [[Polonius|Polonius’s]] body to the chapel
+- Claudius tells Rosencrantz and Guildenstern to find Hamlet and bring [[./Characters in Hamlet/Polonius|Polonius’s]] body to the chapel
 	- Tells them to call their wises friends
 	- Claudius can't just kill Hamlet because Gertrude still loves him
 
 ### Scene 2
 
-- [[Hamlet (character)|Hamlet]] hides [[Polonius|Polonius's]] body and runs into [[Rosencrantz|Rosencrantz]] and [[Guildenstern|Guildenstern]]
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]] hides [[./Characters in Hamlet/Polonius|Polonius's]] body and runs into [[./Characters in Hamlet/Rosencrantz|Rosencrantz]] and [[./Characters in Hamlet/Guildenstern|Guildenstern]]
 	- They ask what he did with the body
 		- He says he compounded it with dust
 	- They ask where it is
@@ -508,10 +508,10 @@ Parent:: [[English|English]]
 
 ### Scene 3
 
-- [[Claudius|Claudius]] tells some of his advisers that [[Hamlet (character)|Hamlet (character)]] is dangerous
+- [[./Characters in Hamlet/Claudius|Claudius]] tells some of his advisers that [[./Characters in Hamlet/Hamlet (character)|Hamlet]] is dangerous
 	- Says he cannot do anything to Hamlet as it may upset people
 	- Says he will send Hamlet away
-- [[Rosencrantz|Rosencrantz]] says Hamlet will not tell them where he burred [[Polonius|Polonius]]
+- [[./Characters in Hamlet/Rosencrantz|Rosencrantz]] says Hamlet will not tell them where he burred [[./Characters in Hamlet/Polonius|Polonius]]
 - Hamlet is brought inside
 	- Claudius asks where he was
 	- Hamlet says he was at supper
@@ -530,10 +530,10 @@ Parent:: [[English|English]]
 
 ### Scene 4
 
-- [[Fortinbras|Fortinbras's]] army arrives at Elsinore
+- [[./Characters in Hamlet/Fortinbras|Fortinbras's]] army arrives at Elsinore
 	- Tells the captain to remind them of his permission to go through their territory
-	- Says if [[Claudius|Claudius]] would like anything to be done to tell him they will do it
-- [[Hamlet (character)|Hamlet]], [[Rosencrantz|Rosencrantz]], and [[Guildenstern|Guildenstern]] see the captain
+	- Says if [[./Characters in Hamlet/Claudius|Claudius]] would like anything to be done to tell him they will do it
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]], [[./Characters in Hamlet/Rosencrantz|Rosencrantz]], and [[./Characters in Hamlet/Guildenstern|Guildenstern]] see the captain
 	- Hamlet asks what they are doing
 		- The captain says he is marching though to Poland under the command of Fortinbras
 		- But admits the Poland is small and worthless
@@ -543,23 +543,23 @@ Parent:: [[English|English]]
 
 ### Scene 5
 
-- [[Gertrude|Gertrude]] is told that [[Ophelia|Ophelia]] wants to meet with her
+- [[./Characters in Hamlet/Gertrude|Gertrude]] is told that [[./Characters in Hamlet/Ophelia|Ophelia]] wants to meet with her
 	- The courtier says Ophelia has gone mad and is speaking without meaning
 	- Gertrude says to herself if Ophelia lost it, something terrible must be coming
 	- *It seems Hamlet's pretending to go mad has caused Ophelia to actually go mad*
 - Ophelia enters singing a song about love
 	- Gertrude asks what the song is about, but Ophelia tells her to listen
 	- She sings about a man who is dead and gone
-	- [[Claudius|Claudius]] enters and asks Ophelia how she's feeling
+	- [[./Characters in Hamlet/Claudius|Claudius]] enters and asks Ophelia how she's feeling
 		- She responds with a story about a baker's daughter who was turned into an owl
 		- "There’s rosemary, that’s for remembrance–pray you, love, remember. And there is pansies, that’s for thoughts.”
 	- She leaves
 	- Claudius tells Gertrude she is grieving as her father died and Hamlet left
-- There is noise outside, [[Laertes|Laertes]] has started a revolt against Claudius
+- There is noise outside, [[./Characters in Hamlet/Laertes|Laertes]] has started a revolt against Claudius
 	- The danish people cry, "Laertes shall be king"
 		- The rebels break down the door
 	- Laertes tells Claudius he is his father's murderer
-		- Claudius tells him he did not kill [[Polonius|Polonius]]
+		- Claudius tells him he did not kill [[./Characters in Hamlet/Polonius|Polonius]]
 		- Laertes asks who did kill him, pledging to be loyal to whoever served justice and killed his father
 		- Claudius just tells him he was not the one
 		- *He wants to make sure his plan to have Hamlet killed in England to go as planned*
@@ -570,16 +570,16 @@ Parent:: [[English|English]]
 
 ### Scene 6
 
-- [[Horatio|Horatio]] meets two sailors who had come with a letter
+- [[./Characters in Hamlet/Horatio|Horatio]] meets two sailors who had come with a letter
 	- It says after 2 days at sea, the ship brings Hamlet to England was captured by pirates
 	- The pirates took Hamlet prisoner in exchange for a favor
 	- Horatio takes the sailors to meet with the king
 
 ### Scene 7
 
-- [[Laertes|Laertes]] and [[Claudius|Claudius]] discus [[Polonius|Polonius's]] murder
-	- Laertes belies Claudius didn't murder Polonius but questions why Claudius didn't pursue justice against [[Hamlet (character)|Hamlet]]
-		- He says he didn't because [[Gertrude|Gertrude]] loves him and because the common people love him as well
+- [[./Characters in Hamlet/Laertes|Laertes]] and [[./Characters in Hamlet/Claudius|Claudius]] discus [[./Characters in Hamlet/Polonius|Polonius's]] murder
+	- Laertes belies Claudius didn't murder Polonius but questions why Claudius didn't pursue justice against [[./Characters in Hamlet/Hamlet (character)|Hamlet]]
+		- He says he didn't because [[./Characters in Hamlet/Gertrude|Gertrude]] loves him and because the common people love him as well
 		- Laertes says he will soon have revenge
 - A messenger carries letter from Hamlet, one for Claudius and one for the queen
 	- The letter to Claudius says he had been set naked on Claudius’s kingdom
@@ -597,7 +597,7 @@ Parent:: [[English|English]]
 		- Laertes suggests they will put poison so even if he scratches him, he will die
 		- Lastly, they will put poison in Hamlet's drink, so he will die no matter what happens
 		- *No opportunity for failure*
-- Gertrude announces [[Ophelia|Ophelia]] drowned
+- Gertrude announces [[./Characters in Hamlet/Ophelia|Ophelia]] drowned
 	- Her body was found covered in flowers and cloaked in gorgeous garments
 	- But died a muddy death
 	- Laertes mourns her death, Claudius says when he's finished he'll be read to take his revenge
@@ -606,11 +606,11 @@ Parent:: [[English|English]]
 
 ### Scene 1
 
-- [[Gravediggers|Gravediggers]] are at a patch of land outside the walls of Elsinore
-	- One asks whether [[Ophelia|Ophelia]] will receive Christian burial even though she committed suicide
+- [[./Characters in Hamlet/Gravediggers|Gravediggers]] are at a patch of land outside the walls of Elsinore
+	- One asks whether [[./Characters in Hamlet/Ophelia|Ophelia]] will receive Christian burial even though she committed suicide
 	- The two over them debate weather she simply drowned or killed her self as the dig
 	- The second one belies she did kill herself but is only given a proper burial because of her noble status
-- [[Hamlet (character)|Hamlet]] and [[Horatio|Horatio]] enter
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]] and [[./Characters in Hamlet/Horatio|Horatio]] enter
 	- Hamlet is amazed that the two of them have such high spirits at such a sad task
 	- The gravedigger throws a skull out
 		- Hamlet approaches it, saying it once had a tongue and could sing
@@ -626,7 +626,7 @@ Parent:: [[English|English]]
 		- Hamlet picks up the skull and says "Alas, poor Yorick. I knew him, Horatio, a fellow of infinite jest, of most excellent fancy."
 		- Saying he knew Yorick as he gave him piggyback rides
 		- *He might really be going mad talking to a skull*
-- [[Claudius|Claudius]], [[Gertrude|Gertrude]], [[Laertes|Laertes]] enter
+- [[./Characters in Hamlet/Claudius|Claudius]], [[./Characters in Hamlet/Gertrude|Gertrude]], [[./Characters in Hamlet/Laertes|Laertes]] enter
 	- Hamlet tells Horatio that whoever the grave is for must have committed suicide but was of noble rank
 		- Asks Horatio to hide and watch
 	- Laertes asks the priest what rites will be performed
@@ -641,22 +641,22 @@ Parent:: [[English|English]]
 
 ### Scene 2
 
-- [[Hamlet (character)|Hamlet]] tells [[Horatio|Horatio]] how he escaped the ship to England
-	- He snuck into [[Rosencrantz|Rosencrantz]] and [[Guildenstern|Guildenstern]]'s room and saw the papers they were carrying
+- [[./Characters in Hamlet/Hamlet (character)|Hamlet]] tells [[./Characters in Hamlet/Horatio|Horatio]] how he escaped the ship to England
+	- He snuck into [[./Characters in Hamlet/Rosencrantz|Rosencrantz]] and [[./Characters in Hamlet/Guildenstern|Guildenstern]]'s room and saw the papers they were carrying
 	- He then wrote a whole new note and replaced it saying to kill Rosencrantz and Guildenstern instead of him
 	- So when the pirates captured them, Rosencrantz and Guildenstern were killed and Hamlet escaped
-- They discuss [[Claudius|Claudius]]
+- They discuss [[./Characters in Hamlet/Claudius|Claudius]]
 	- Hamlet says he wants to kill him more and more
 	- Horatio says he needs to do it quickly as news of Rosencrantz and Guildenstern's death will come soon
 - Osric enters
-	- He compliments [[Laertes|Laertes]] and his strong nature
+	- He compliments [[./Characters in Hamlet/Laertes|Laertes]] and his strong nature
 	- Says how Claudius has bet on Hamlet in a fencing match against Laertes
 	- Asks if Hamlet accepts the duel
 	- Hamlet says yes
 - Horatio tells Hamlet he has a bad feeling
 	- Hamlet insists he's prepared to fight Laertes even if he too has a bad feeling
 	- Horatio tells him to back out, but Hamlet says he is determined to participate and leaves is fate up to God
-- Claudius, [[Gertrude|Gertrude]], Laertes, Osric gather for the duel
+- Claudius, [[./Characters in Hamlet/Gertrude|Gertrude]], Laertes, Osric gather for the duel
 	- Hamlet apologizes to Laertes for the pain he caused which Laertes, accepts
 	- *Hamlet's inaction is showing as Laertes is prepared to actually take revenge*
 	- Both are handed swords and prepare to dual
@@ -688,7 +688,7 @@ Parent:: [[English|English]]
 		- Horatio seems to go to pick up the poisoned wine to die with him
 		- But Hamlet stops him, telling him to tell Hamlet's tale
 	- The sound of war trumpets comes though
-		- [[Fortinbras|Fortinbras]] had successfully invaded Poland
+		- [[./Characters in Hamlet/Fortinbras|Fortinbras]] had successfully invaded Poland
 		- Hamlet, with his dying breath, says Fortinbras should be the one to bear the Danish crown and says "The rest is silence"
 - Fortinbras with an English ambassador enters shocked
 	- The English ambassador says he came to announce that Rosencrantz and Guildenstern, but no one was left to hear the news
