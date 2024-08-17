@@ -74,7 +74,7 @@ Parent:: [[Age of Sail|Age of Sail]]
   - New food makes a large population increase in Europe
 - Slave trade
   - Portugal was first to import African slaves
-  - [[./Mercantilism|Mercantilism]] - most missed question
+  - [[Mercantilism|Mercantilism]] - most missed question
     - The idea that you want to export more than you import
   - Slave -> labor for raw goods -> sell for profit in Europe -> Europe buys more slaves
   - Nobody wanted to do the work
