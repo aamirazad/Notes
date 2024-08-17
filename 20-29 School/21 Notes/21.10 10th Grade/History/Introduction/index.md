@@ -11,19 +11,19 @@ Parent:: [[History|History]]
 
 %% Begin Waypoint %%
 
-- [[Fall of the Roman Empire and the Early Middle Ages Pre-Writing|Fall of the Roman Empire and the Early Middle Ages Pre-Writing]]
-- [[Rome and the Rise of Christianity|Rome and the Rise of Christianity]]
-- [[Rome living places|Rome living places]]
-- [[Social pyramid of Europe|Social pyramid of Europe]]
+- [[./Fall of the Roman Empire and the Early Middle Ages Pre-Writing|Fall of the Roman Empire and the Early Middle Ages Pre-Writing]]
+- [[./Rome and the Rise of Christianity|Rome and the Rise of Christianity]]
+- [[./Rome living places|Rome living places]]
+- [[./Social pyramid of Europe|Social pyramid of Europe]]
 
 %% End Waypoint %%
 
 ## Note description
 
-1. [[Rome and the Rise of Christianity|Rome and the Rise of Christianity]]: Book notes on the topic
-2. [[Fall of the Roman Empire and the Early Middle Ages Pre-Writing|Fall of the Roman Empire and the Early Middle Ages Pre-Writing]]: Work done as a group to pre-write a essay about the accomplishments of Rome
-3. [[Social pyramid of Europe|Social pyramid of Europe]]: Pyramid drawing representing the social structure of current Europe
-4. [[Rome living places|Rome living places]]: Drawing diagramming what different social classes lived in
+1. [[./Rome and the Rise of Christianity|Rome and the Rise of Christianity]]: Book notes on the topic
+2. [[./Fall of the Roman Empire and the Early Middle Ages Pre-Writing|Fall of the Roman Empire and the Early Middle Ages Pre-Writing]]: Work done as a group to pre-write a essay about the accomplishments of Rome
+3. [[./Social pyramid of Europe|Social pyramid of Europe]]: Pyramid drawing representing the social structure of current Europe
+4. [[./Rome living places|Rome living places]]: Drawing diagramming what different social classes lived in
 
 ## About
 
