@@ -7,7 +7,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[./index|Absolute Monarchies]]
+Parent:: [[Absolute Monarchies|Absolute Monarchies]]
 
 # Absolutism review
 
@@ -32,7 +32,7 @@ Parent:: [[./index|Absolute Monarchies]]
 ### Structure
 
 - Monarch rules with no 'checks and balances'
-- [[../Renaissance/The Renaissance#Machiavelli|Machiavelli]] (better to be feared than loved) would have loved this
+- [[The Renaissance#Machiavelli|Machiavelli]] (better to be feared than loved) would have loved this
 - Benefits
   - Clear decision maker
 
@@ -46,7 +46,7 @@ Parent:: [[./index|Absolute Monarchies]]
 ### Spanish
 
 - King Phillip II
-  - 50,5000 soldiers paid for by the [[../Age of Sail/Columbus|Potosi mountain]] (the big silver mountain)
+  - 50,5000 soldiers paid for by the [[Columbus|Potosi mountain]] (the big silver mountain)
 
 ### French
 
