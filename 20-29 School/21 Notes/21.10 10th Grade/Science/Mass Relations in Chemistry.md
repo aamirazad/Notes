@@ -102,7 +102,7 @@ $$
 
 ### Molecule, atom, and formula unit comparison
 
-![[Molecule, Atom, Formula unit ven diagram.excalidraw|Molecule, Atom, Formula unit ven diagram.excalidraw]]
+![[media/Molecule, Atom, Formula unit ven diagram.excalidraw|media/Molecule, Atom, Formula unit ven diagram.excalidraw]]
 
 ### Density procedure
 
