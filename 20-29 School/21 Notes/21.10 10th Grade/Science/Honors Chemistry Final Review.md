@@ -20,7 +20,7 @@ share: true
 > - Isotopes are written like this fluorine-20, the 20 represents the atomic mass which is calculated by adding the amount of protons and neutrons [[The History of Chemistry#Isotopes|🔗]]
 >   - The amount of protons of fluorine will always be 9 so this atom has 11 neutrons ($20-9$)
 > - Naming molecular compounds [[The History of Chemistry#Naming molecular compounds|🔗]]
-> - Memorized polyatomic ions [[Polyatomic Ions.excalidraw|Polyatomic Ions.excalidraw]]
+> - Memorized polyatomic ions [[media/Polyatomic Ions.excalidraw|media/Polyatomic Ions.excalidraw]]
 
 > [!info] Key terms
 >

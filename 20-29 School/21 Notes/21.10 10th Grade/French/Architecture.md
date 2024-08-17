@@ -6,7 +6,7 @@ share: true
 
 # Architecture
 
-![[French Architecture.excalidraw|French Architecture.excalidraw]]
+![[media/French Architecture.excalidraw|media/French Architecture.excalidraw]]
 
 ### Gothic
 

@@ -12,7 +12,7 @@ Parent:: [[Science|Science]]
 
 ## Overview
 
-![[./wiki/Gas overview.svg|Gas overview.excalidraw]]
+![[media/Gas overview.excalidraw|media/Gas overview.excalidraw]]
 
 ## Characteristics
 
@@ -91,7 +91,7 @@ Parent:: [[Science|Science]]
 ### Molar volume of gas
 
 - One mole of gas ($6.02 \times 10^{23}$) has the same volume at stp ($0\degree C$ $1 atm$) as any other gas <- Avogadro's law
-  ![[../../../../media/Gas 2024-03-13 20.07.22.svg|Gas 2024-03-13 20.07.22.excalidraw]]
+  ![[media/Gas 2024-03-13 20.07.22.excalidraw|media/Gas 2024-03-13 20.07.22.excalidraw]]
 - They both want to spread out (expand) to fill the container
 - Standard molar volume
 - $22.4\ L/mol$
@@ -220,18 +220,18 @@ $$
 
 ### Gas law summary
 
-![[./wiki/Gas laws.svg|800]]
+![[Gas laws.excalidraw|800]]
 
 ## Particulate diagrams
 
 - Before, during, and after
 - Egg demo
-  ![[./wiki/Particulate Diagram.svg|800]]
+  ![[Particulate Diagram.excalidraw|800]]
 
 ## Gas stoichiometry
 
 - Converting from one gas into volume of another
-- Very similar to [[./Mass Relations in Chemistry#Stoichiometry|Mass Relations in Chemistry > Stoichiometry]]
+- Very similar to [[Mass Relations in Chemistry#Stoichiometry|Mass Relations in Chemistry > Stoichiometry]]
 - Vol A -> Mole A -> Moles B -> Vol b
 - To convert from volume to mole:
   - 1 mol = 22.4 L
