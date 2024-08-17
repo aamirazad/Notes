@@ -4,7 +4,7 @@ tags:
 order: 11
 Parent: "[[Science]]"
 date created: Tuesday, July 2nd 2024, 6:01 am
-date modified: Tuesday, July 2nd 2024, 6:02 am
+date modified: Saturday, August 17th 2024, 11:47 am
 share: true
 ---
 
@@ -264,6 +264,6 @@ share: true
 
 [[Liquids, Solids, and Solutions|Full notes]]
 
-### Acids and Bases
+## Acids and Bases
 
 [[Acids and Bases|Full notes]]
