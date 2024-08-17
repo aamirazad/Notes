@@ -9,9 +9,9 @@ Parent:: [[History|History]]
 # Absolute Monarchies
 
 %% Begin Waypoint %%
-- [[./Absolutism Review|Absolutism Review]]
-- [[./Changing Warfare Concept Map|Changing Warfare Concept Map]]
-- [[./Crisis in Europe|Crisis in Europe]]
-- [[./Thirty Years's War|Thirty Years's War]]
+- [[Absolutism Review|Absolutism Review]]
+- [[Changing Warfare Concept Map|Changing Warfare Concept Map]]
+- [[Crisis in Europe|Crisis in Europe]]
+- [[Thirty Years's War|Thirty Years's War]]
 
 %% End Waypoint %%
