@@ -33,7 +33,7 @@ share: true
 
 ### Key points
 
-- Successor to the [[Ming Dynasty|Ming Dynasty]] by invading it
+- Successor to the [[./Ming Dynasty|Ming Dynasty]] by invading it
 - Most dominant religion is Confucianism also Buddhism, Daoism
 - Many murcahnts traded with rise instead of silver
 - Farmers obtained foreign crops from the Americas and made an immense profit
