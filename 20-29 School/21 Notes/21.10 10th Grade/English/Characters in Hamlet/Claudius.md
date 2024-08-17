@@ -7,7 +7,7 @@ title: Claudius
 
 # Claudius
 
-- Relative of the [[Late King Claudius|Late King Claudius]]
+- Relative of the [[./Late King Claudius|Late King Claudius]]
 - King of Denmark
 - One of the villains of the play
-- [[The Ghost|The Ghost]] says he murdered him
+- [[./The Ghost|The Ghost]] says he murdered him
