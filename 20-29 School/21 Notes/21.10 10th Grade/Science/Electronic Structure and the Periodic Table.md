@@ -27,7 +27,7 @@ Light has energy. The different amount of energy, called wavelength, has differe
 
 - What is the wavelength of radiation that has a frequency of 4.3x10<sup>14</sup>
 
-![Light conversion example](../../../../media/light_conversion_example.png)
+![Light conversion example](light_conversion_example.png)
 
 ### Einstein
 
@@ -38,11 +38,11 @@ Light has energy. The different amount of energy, called wavelength, has differe
 
 ### Sketchnoting
 
-![Light Diagrams](../../../../media/light_diagrams.png)
+![Light Diagrams](light_diagrams.png)
 
 ### Photoelectric effect
 
-![Photoelectric effect diagram](../../../../media/photoelecric_effect.png)
+![Photoelectric effect diagram](photoelecric_effect.png)
 
 - Shows that light is made of particles of light
 - Certain colors eject electrons, some do not
@@ -83,7 +83,7 @@ Light has energy. The different amount of energy, called wavelength, has differe
 - Energy of a photos = different between ground and excited
 - They don't jump unless there is energy coming in (heat, electricity)
 
-![Bohr's Model](../../../../media/bohrs_model.png)
+![Bohr's Model](bohrs_model.png)
 
 - Quantum leap: when an electron jumps from one orbit, according to Bohr's model, it doesn't travel, it just teleports. This obvious flaw, along with the fact that Bohr's model only worked with Hydrogen was solved by:
 
@@ -106,8 +106,8 @@ Light has energy. The different amount of energy, called wavelength, has differe
     - 7f
   - Each orbital only has 2 electrons
 
-![Specific orbitals drawing](../../../../media/orbitals_drawings.png)
-![Orbitals of a atom](../../../../media/atoms_orbitals_drawing.png)
+![Specific orbitals drawing](orbitals_drawings.png)
+![Orbitals of a atom](atoms_orbitals_drawing.png)
 
 [Electron Configurations POGIL](https://papers.aamira.me/documents/400)
 
@@ -127,7 +127,7 @@ Light has energy. The different amount of energy, called wavelength, has differe
 - Within a block the exponent increase for each column
 - Coefficient increase by one per row (d-block is one behind)
 
-![[../../../../media/Pasted image 20240519135117.png|Pasted image 20240519135117.png]]
+![[Pasted image 20240519135117.png|Pasted image 20240519135117.png]]
 
 #### Rules
 
@@ -135,12 +135,12 @@ Light has energy. The different amount of energy, called wavelength, has differe
 - Pauli: Spin must flip
 - Hunds rule; separate before together
 
-![[../../../../media/Pasted image 20240519134837.png|Pasted image 20240519134837.png]]
+![[Pasted image 20240519134837.png|Pasted image 20240519134837.png]]
 
 - An electron can be excited which would look like this
 
-![[../../../../media/Pasted image 20240519134721.png|Pasted image 20240519134721.png]]
+![[Pasted image 20240519134721.png|Pasted image 20240519134721.png]]
 
 ### Electron Dot Formulas
 
-![[../../../../media/Electronic Structure and the Periodic Table 2024-05-19 13.53.43.svg|200]]
+

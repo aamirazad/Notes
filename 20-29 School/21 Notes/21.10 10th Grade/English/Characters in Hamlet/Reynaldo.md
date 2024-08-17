@@ -7,4 +7,4 @@ title: Reynaldo
 
 # Reynaldo
 
-- This character is a servant who is instructed to go to Paris in order to observe the behavior of [[./Laertes|Laertes]] who is at school there.
+- This character is a servant who is instructed to go to Paris in order to observe the behavior of [[Laertes|Laertes]] who is at school there.

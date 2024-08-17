@@ -6,4 +6,4 @@ share: true
 
 # AAPPL Practice overview
 
-![[media/AAPPL Pratice overview.excalidraw|media/AAPPL Pratice overview.excalidraw]]
+![[media/AAPPL Pratice overview.svg|media/AAPPL Pratice overview.svg]]

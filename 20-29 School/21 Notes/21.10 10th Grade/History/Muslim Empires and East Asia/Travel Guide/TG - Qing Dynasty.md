@@ -7,7 +7,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[./index|Travel Guide]]
+Parent:: [[Travel Guide|Travel Guide]]
 
 # Tg - qing dynasty
 

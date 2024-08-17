@@ -9,7 +9,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[./index|Europe in the Middle Ages]]
+Parent:: [[Europe in the Middle Ages|Europe in the Middle Ages]]
 
 # Early middle ages
 

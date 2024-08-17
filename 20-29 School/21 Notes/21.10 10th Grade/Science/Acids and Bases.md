@@ -158,4 +158,4 @@ $$
 
 > [!question] Draw a titration experiment
 > (extremely scuffed)
-> ![[media/Acids and Bases 2024-05-19 09.41.54.excalidraw|media/Acids and Bases 2024-05-19 09.41.54.excalidraw]]
+> ![[media/Acids and Bases 2024-05-19 09.41.54.svg|media/Acids and Bases 2024-05-19 09.41.54.svg]]

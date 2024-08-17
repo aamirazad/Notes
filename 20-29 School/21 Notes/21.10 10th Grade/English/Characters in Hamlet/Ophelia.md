@@ -7,6 +7,6 @@ title: Ophelia
 
 # Ophelia
 
-- This character has a special relationship with [[./Hamlet (character)|Hamlet]].
-- Son of [[./Polonius|Polonius]]
+- This character has a special relationship with [[Hamlet (character)|Hamlet]].
+- Son of [[Polonius|Polonius]]
 - When that relationship appears to go wrong, this character becomes insane and ultimately dies, apparently a suicide.

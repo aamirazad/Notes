@@ -9,12 +9,12 @@ title: Renaissance
 
 %% Begin Waypoint %%
 
-- [[./Florence and the Renaissance|Florence and the Renaissance]]
-- [[./Intro to the Renaissance|Intro to the Renaissance]]
-- [[./Mankind - Survivors|Mankind - Survivors]]
-- [[./Northern Renaissance|Northern Renaissance]]
-- [[./Renaissance in review|Renaissance in review]]
-- [[./The Renaissance|The Renaissance]]
+- [[Florence and the Renaissance|Florence and the Renaissance]]
+- [[Intro to the Renaissance|Intro to the Renaissance]]
+- [[Mankind - Survivors|Mankind - Survivors]]
+- [[Northern Renaissance|Northern Renaissance]]
+- [[Renaissance in review|Renaissance in review]]
+- [[The Renaissance|The Renaissance]]
 
 %% End Waypoint %%
 

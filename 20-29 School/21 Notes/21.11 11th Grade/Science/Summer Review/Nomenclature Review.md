@@ -14,7 +14,7 @@ share: true
 
 - Prefixes and suffixes are based on how many oxygen atoms it has
 - All anions that end in "-ate" form acids that end with "-ic"; ATE ions become IC acids
-- See [[media/Polyatomic Ions.excalidraw|media/Polyatomic Ions.excalidraw]], Most end in "-ate"
+- See [[media/Polyatomic Ions.svg|media/Polyatomic Ions.svg]], Most end in "-ate"
 - Further, all atoms that end in "-ite" form acids that end in "-ous"; ITE ions become OUS ACIDS
 - Hypo prefix means less oxygen (than the anion)
 

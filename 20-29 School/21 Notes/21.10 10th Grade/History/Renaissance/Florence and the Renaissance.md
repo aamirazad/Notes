@@ -9,7 +9,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[./index|Renaissance]]
+Parent:: [[Renaissance|Renaissance]]
 
 # Florence and the Renaissance
 

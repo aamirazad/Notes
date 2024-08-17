@@ -35,5 +35,5 @@ share: true
 
 ### Key points
 
-- Also Islamic along side the [[./Ottoman Empire|Ottomans]] and the [[./Safavid Dynasty|Safaids]]
+- Also Islamic along side the [[Ottoman Empire|Ottomans]] and the [[Safavid Dynasty|Safaids]]
 - Monarchy for a government

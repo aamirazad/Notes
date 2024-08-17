@@ -8,4 +8,4 @@ title: Polonius
 # Polonius
 
 - This character is an elderly and long-winded courtier and chief counselor in the Danish court.
-- Adviser to [[./Claudius|Claudius]] and father of [[./Ophelia|Ophelia]]
+- Adviser to [[Claudius|Claudius]] and father of [[Ophelia|Ophelia]]

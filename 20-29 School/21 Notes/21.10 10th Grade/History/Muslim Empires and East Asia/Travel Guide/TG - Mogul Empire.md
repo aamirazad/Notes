@@ -7,7 +7,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[./index|Travel Guide]]
+Parent:: [[Travel Guide|Travel Guide]]
 
 # Tg - Mogul empire
 
@@ -19,7 +19,7 @@ Controlling over four million square kilometers of land, the Mogul Empire is mas
 
 ## Religion
 
-The Mogul Empire is one of the three biggest powers in the Islamic world, alongside the [[TG - Ottoman Empire|Ottoman Empire]] and the [[./TG - Safavid Dynasty|Safavid Dynasty]] (Szczepanski). Although it was mainly Islamic, Akbar followed Babur's initiative to make it more fair for everyone. One of these actions was when he removed a tax called the Jizyah. This tax was hated among non-Muslims, as they had to pay the emperor just for being non-Muslim. Akbar also created a policy that gave equality no matter their region. This helps the other religions present in the Mogul Empire such as Hindu, Persian, and Christian to get more attention. Along with a large Hindu population, Persian art and culture contributes to making the empire more diverse and beautiful. But religion wasn't pushed too hard in society either, the art and buildings were not overly religious. This could help you feel more welcomed and included. This created stability, which contributed to the Empire's long-lasting rule. Even though there were some emperors that did not keep as much religious tolerance, overall, the place is very tolerant to other religions compared to the other options.
+The Mogul Empire is one of the three biggest powers in the Islamic world, alongside the [[TG - Ottoman Empire|Ottoman Empire]] and the [[TG - Safavid Dynasty|Safavid Dynasty]] (Szczepanski). Although it was mainly Islamic, Akbar followed Babur's initiative to make it more fair for everyone. One of these actions was when he removed a tax called the Jizyah. This tax was hated among non-Muslims, as they had to pay the emperor just for being non-Muslim. Akbar also created a policy that gave equality no matter their region. This helps the other religions present in the Mogul Empire such as Hindu, Persian, and Christian to get more attention. Along with a large Hindu population, Persian art and culture contributes to making the empire more diverse and beautiful. But religion wasn't pushed too hard in society either, the art and buildings were not overly religious. This could help you feel more welcomed and included. This created stability, which contributed to the Empire's long-lasting rule. Even though there were some emperors that did not keep as much religious tolerance, overall, the place is very tolerant to other religions compared to the other options.
 
 ## History
 

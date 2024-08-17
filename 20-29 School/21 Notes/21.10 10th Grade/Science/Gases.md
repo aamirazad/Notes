@@ -12,7 +12,7 @@ Parent:: [[Science|Science]]
 
 ## Overview
 
-![[media/Gas overview.excalidraw|media/Gas overview.excalidraw]]
+![[media/Gas overview.svg|media/Gas overview.svg]]
 
 ## Characteristics
 
@@ -91,7 +91,7 @@ Parent:: [[Science|Science]]
 ### Molar volume of gas
 
 - One mole of gas ($6.02 \times 10^{23}$) has the same volume at stp ($0\degree C$ $1 atm$) as any other gas <- Avogadro's law
-  ![[media/Gas 2024-03-13 20.07.22.excalidraw|media/Gas 2024-03-13 20.07.22.excalidraw]]
+  ![[media/Gas 2024-03-13 20.07.22.svg|media/Gas 2024-03-13 20.07.22.svg]]
 - They both want to spread out (expand) to fill the container
 - Standard molar volume
 - $22.4\ L/mol$
@@ -220,13 +220,13 @@ $$
 
 ### Gas law summary
 
-![[Gas laws.excalidraw|800]]
+
 
 ## Particulate diagrams
 
 - Before, during, and after
 - Egg demo
-  ![[Particulate Diagram.excalidraw|800]]
+  
 
 ## Gas stoichiometry
 

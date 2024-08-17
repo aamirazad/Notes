@@ -7,5 +7,5 @@ title: Gertrude
 
 # Gertrude
 
-- This character, a sun of the [[Late King Hamlet|Late King Hamlet]] and [[./Late Queen Gertrude|Late Queen Gertrude]], has recently remarried.
+- This character, a sun of the [[Late King Hamlet|Late King Hamlet]] and [[Late Queen Gertrude|Late Queen Gertrude]], has recently remarried.
 - At the end of the play, this character dies after drinking a poisoned cup of wine that was intended for another character.

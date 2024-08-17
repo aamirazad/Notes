@@ -112,7 +112,7 @@ Which has higher electronegativity?
 
 ## Balencing equations
 
-![[media/Balancing.excalidraw|media/Balancing.excalidraw]]
+![[media/Balancing.svg|media/Balancing.svg]]
 
 - Diatomic elements acronyms
   - ClIF H. RrON

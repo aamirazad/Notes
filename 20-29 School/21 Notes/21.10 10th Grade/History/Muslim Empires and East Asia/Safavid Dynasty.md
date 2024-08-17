@@ -25,9 +25,9 @@ share: true
 
 ### Key points
 
-- Its located in between the [[./Ottoman Empire|Ottoman Empire]] and the [[./Mughal Empire|Mughal Empire]] (most of the middle east, Iran)
+- Its located in between the [[Ottoman Empire|Ottoman Empire]] and the [[Mughal Empire|Mughal Empire]] (most of the middle east, Iran)
 - Religion: Shi'a Islam (Twelver Shiism) (Doesn't prosecute others)
 - High taxes and economy around silk trade
-- At war with the [[./Ottoman Empire|Ottomans]]
+- At war with the [[Ottoman Empire|Ottomans]]
 - Sunni Muslims
 - Strict government; theocracy and an absolute monarchy

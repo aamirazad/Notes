@@ -8,8 +8,8 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[./index|Introduction]]
+Parent:: [[Introduction|Introduction]]
 
 # Social pyramid of Europe
 
-![qownnotes-media-aGLMus](../../../../../media/qownnotes-media-aGLMus.png)
+![qownnotes-media-aGLMus](qownnotes-media-aGLMus.png)
