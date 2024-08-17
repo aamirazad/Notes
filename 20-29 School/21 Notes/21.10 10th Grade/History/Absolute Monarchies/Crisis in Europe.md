@@ -7,7 +7,7 @@ date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
 
-Parent:: [[Absolutism|Absolutism]]
+Parent:: [[Absolute Monarchies|Absolute Monarchies]]
 
 # Crisis in europe
 
