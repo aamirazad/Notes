@@ -22,7 +22,7 @@ Parent:: [[Enlightenment and French Revolution|Enlightenment and French Revoluti
 
 #### Connection to previous units
 
-- The English Peasants Revolt during the [[Reformation Review|Reformation]] was partly caused by bad living conditions and lack of food because of unfair treatment to the commoners
+- The English Peasants Revolt during the [[../Reformation/Reformation Review|Reformation]] was partly caused by bad living conditions and lack of food because of unfair treatment to the commoners
 - Food shortages is also more deeply connected to the monarchy's high and mighty treatment of the commoners that would cause revolts and rebellions
   - Because the monarchy has to show they are so powerful they spend lots of money that could be used better to help the commoners
   - Also, the monarchy distance themselves so much from the lower class, they don't understand what issues they are going though and how to fix them
@@ -44,11 +44,11 @@ Parent:: [[Enlightenment and French Revolution|Enlightenment and French Revoluti
 
 #### Connection to previous units
 
-- Very similar to the [[Social pyramid of Europe|pyramid of feudalism]] but without serfs
-  - The pyramid was never very stable and lead to destruction like the [[Rome and the Rise of Christianity#The Decline|fall of rome]]
-- The separation of class caused revolutions like in [[Rome and the Rise of Christianity|rome]]
-  - It can also be seen how having the monarch at the top can be bad like in florence and how their [[The Renaissance|renaissance]] created so much good because their social pyramid focused on the merchants
-- The tax issue is debated during the [[Enlightenment and Revolutions|Enlightenment]]
+- Very similar to the [[../Introduction/Social pyramid of Europe|pyramid of feudalism]] but without serfs
+  - The pyramid was never very stable and lead to destruction like the [[../Introduction/Rome and the Rise of Christianity#The Decline|fall of rome]]
+- The separation of class caused revolutions like in [[../Introduction/Rome and the Rise of Christianity|rome]]
+  - It can also be seen how having the monarch at the top can be bad like in florence and how their [[../Renaissance/The Renaissance|renaissance]] created so much good because their social pyramid focused on the merchants
+- The tax issue is debated during the [[./Enlightenment and Revolutions|Enlightenment]]
 
 ### Estates-General
 
@@ -62,8 +62,8 @@ Parent:: [[Enlightenment and French Revolution|Enlightenment and French Revoluti
 
 #### Connection to previous units
 
-- This revolution is very connected to the american revolution but also hold ideas influenced by the [[Enlightenment and Revolutions|enlightenment]]
-- The gathering of the common people using the printing press is very similar to [[The Reformation Part 1|The Reformation]]
+- This revolution is very connected to the american revolution but also hold ideas influenced by the [[./Enlightenment and Revolutions|enlightenment]]
+- The gathering of the common people using the printing press is very similar to [[../Reformation/The Reformation Part 1|The Reformation]]
   - Because of the amount of people that were able to join this revolution, they were able to overpower France's militiay
 
 ### Lack of Jobs
@@ -75,7 +75,7 @@ Parent:: [[Enlightenment and French Revolution|Enlightenment and French Revoluti
 
 #### Connection to previous units
 
-- During the [[The Black Death Review|black plague]], job shortages caused lots of civil unrest and disobedience
+- During the [[../Europe in the Middle Ages/The Black Death Review|black plague]], job shortages caused lots of civil unrest and disobedience
   - The prices of lots of goods increased because of this as well
 - Without something to do or take care of, people are much more excited to run around and kill people
 
@@ -87,15 +87,15 @@ Parent:: [[Enlightenment and French Revolution|Enlightenment and French Revoluti
 
 #### Connection to previous units
 
-- After fighting the [[Enlightenment and Revolutions#Seven Years' War|Seven Years' War]] England had to fund the war somehow, this caused them to have to tax the american colonies more [[Enlightenment and Revolutions#Britain and British North America|Source]]
+- After fighting the [[./Enlightenment and Revolutions#Seven Years' War|Seven Years' War]] England had to fund the war somehow, this caused them to have to tax the american colonies more [[./Enlightenment and Revolutions#Britain and British North America|Source]]
   - This is similar in that England lost a lot of money and people in this war which is similar to France
-- People also was not happy about war which is similar to the very disruptive [[Thirty Years's War|Thirty Years's War]]
+- People also was not happy about war which is similar to the very disruptive [[../Absolute Monarchies/Thirty Years's War|Thirty Years's War]]
 
 ### Taxes
 
 - Due to the war and economic collapse, taxes caused lots of people to want to revolt
 - The heavy burden on the third estate made them angry, as they could not even pay for their food with inflation on top of taxes
-- The monarchy kept spending money like crazy, even getting into debt for their elaborate projects such as the [[Enlightenment and Revolutions#The arts|palace of Versailles]]
+- The monarchy kept spending money like crazy, even getting into debt for their elaborate projects such as the [[./Enlightenment and Revolutions#The arts|palace of Versailles]]
 
 #### Connection to previous units
 
