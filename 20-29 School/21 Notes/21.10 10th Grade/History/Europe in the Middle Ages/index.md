@@ -11,26 +11,26 @@ Parent:: [[History|History]]
 
 %% Begin Waypoint %%
 
-- [[Early middle ages|Early middle ages]]
+- [[./Early middle ages|Early middle ages]]
 - [[Europe in the middle ages notes|Europe in the middle ages notes]]
-- [[Hundred Year's War|Hundred Year's War]]
-- [[Impacts of the Black Death|Impacts of the Black Death]]
-- [[Mankind - Black Death|Mankind - Black Death]]
-- [[Mankind - Rome|Mankind - Rome]]
-- [[The Black Death Review|The Black Death Review]]
+- [[./Hundred Year's War|Hundred Year's War]]
+- [[./Impacts of the Black Death|Impacts of the Black Death]]
+- [[./Mankind - Black Death|Mankind - Black Death]]
+- [[./Mankind - Rome|Mankind - Rome]]
+- [[./The Black Death Review|The Black Death Review]]
 
 %% End Waypoint %%
 
 ## Note description
 
-1. [[Early middle ages|Early middle ages]]: Book notes for the topic, focuses on the beginning of the topic
-2. [[Mankind - Rome|Mankind - Rome]]: Describes the fall of Rome in a dramatic way
-3. [[Europe in the Middle Ages|Europe in the Middle Ages]]: Second book notes, focus on the black death and its impacts
-4. [[Mankind - Black Death|Mankind - Black Death]]: Describes the black death in a dramatic way
-5. [[The Black Death Review|The Black Death Review]]: Presentation notes on the black death
-6. [[Impacts of the Black Death|Impacts of the Black Death]]: Work done was a group listing both short term and long term impacts of the black death
+1. [[./Early middle ages|Early middle ages]]: Book notes for the topic, focuses on the beginning of the topic
+2. [[./Mankind - Rome|Mankind - Rome]]: Describes the fall of Rome in a dramatic way
+3. [[index|Europe in the Middle Ages]]: Second book notes, focus on the black death and its impacts
+4. [[./Mankind - Black Death|Mankind - Black Death]]: Describes the black death in a dramatic way
+5. [[./The Black Death Review|The Black Death Review]]: Presentation notes on the black death
+6. [[./Impacts of the Black Death|Impacts of the Black Death]]: Work done was a group listing both short term and long term impacts of the black death
 7. [[Black Death Essay|Black Death Essay]]: Essay about the changes in life after the Black Death
-8. [[Hundred Year's War|Hundred Year's War]]: Presentation notes about the Hundred Year's War
+8. [[./Hundred Year's War|Hundred Year's War]]: Presentation notes about the Hundred Year's War
 9. [[Change in Warfare and tactics timeline|Change in Warfare and tactics timeline]]: Work done as a group of a timeline that highlights the changes in warfare though the middle ages
 
 ## About
