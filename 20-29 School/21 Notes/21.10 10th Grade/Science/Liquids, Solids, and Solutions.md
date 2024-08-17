@@ -100,7 +100,7 @@ Ability for a liquid to flow up against gravity
 
 - Draw a particulate diagram of $H_{2}O$ as a crystalline and amorphous
 
-![[media/Liquids, Solids, and Solutions 2024-03-29 12.00.06.excalidraw|media/Liquids, Solids, and Solutions 2024-03-29 12.00.06.excalidraw]]
+![[media/Liquids, Solids, and Solutions 2024-03-29 12.00.06.svg|media/Liquids, Solids, and Solutions 2024-03-29 12.00.06.svg]]
 
 ### Bell ringer
 
@@ -111,7 +111,7 @@ Ability for a liquid to flow up against gravity
 
 ### Phase diagrams
 
-![[media/Phase Diagram.excalidraw|media/Phase Diagram.excalidraw]]
+![[media/Phase Diagram.svg|media/Phase Diagram.svg]]
 
 - Trends
   - High pressure prefer liquids and solids
@@ -131,7 +131,7 @@ Ability for a liquid to flow up against gravity
 
 ### Phase changes
 
-![[media/Liquids, Solids, and Solutions 2024-03-29 19.02.10.excalidraw|media/Liquids, Solids, and Solutions 2024-03-29 19.02.10.excalidraw]]
+![[media/Liquids, Solids, and Solutions 2024-03-29 19.02.10.svg|media/Liquids, Solids, and Solutions 2024-03-29 19.02.10.svg]]
 
 - From solid to gas
   - Dry ice (too low pressure for liquid at that temperature)
@@ -172,7 +172,7 @@ Ability for a liquid to flow up against gravity
 
 - Heat is added, phase changes is shown
 
-![[media/Liquids, Solids, and Solutions 2024-03-29 21.02.45.excalidraw|media/Liquids, Solids, and Solutions 2024-03-29 21.02.45.excalidraw]]
+![[media/Liquids, Solids, and Solutions 2024-03-29 21.02.45.svg|media/Liquids, Solids, and Solutions 2024-03-29 21.02.45.svg]]
 
 - During a phase change, there is no change in temp
 - So the flat lines are changes in potential energy
@@ -180,7 +180,7 @@ Ability for a liquid to flow up against gravity
   - During this time, the temperature doesn't increase even though energy is added, potential energy increases
 - So on the vertical lines show the substance increasing in temperature but not changing state
 
-![[media/Liquids, Solids, and Solutions 2024-03-29 20.55.01.excalidraw|media/Liquids, Solids, and Solutions 2024-03-29 20.55.01.excalidraw]]
+![[media/Liquids, Solids, and Solutions 2024-03-29 20.55.01.svg|media/Liquids, Solids, and Solutions 2024-03-29 20.55.01.svg]]
 
 - This graph is different because it is going from solid straight to gas (sublimation, deposition)
 - You can tell because there is only one phase change. So whatever the material, it is at a low enough pressure for it to not be able to become a liquid
@@ -193,7 +193,7 @@ $$
 q = \Delta H_{fus} \cdot n
 $$
 
-![[media/Liquids, Solids, and Solutions 2024-03-29 21.07.18.excalidraw|media/Liquids, Solids, and Solutions 2024-03-29 21.07.18.excalidraw]]
+![[media/Liquids, Solids, and Solutions 2024-03-29 21.07.18.svg|media/Liquids, Solids, and Solutions 2024-03-29 21.07.18.svg]]
 
 - Because the line between liquid and gas is longer (more heat = more time) the \[…\] is higher
 - It takes less energy to go from _all_ the intermolecular forces to _some_, than from _some_ to _none_
