@@ -9,7 +9,7 @@ share: true
 
 # Renaissance in review
 
-Parent:: [[Renaissance|Renaissance]]
+Parent:: [[./index|Renaissance]]
 
 - Overall time frame: 1350-1600
 - Western Europe's cultural awakening
