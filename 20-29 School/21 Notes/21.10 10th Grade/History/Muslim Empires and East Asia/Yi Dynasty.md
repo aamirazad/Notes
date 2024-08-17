@@ -43,6 +43,6 @@ share: true
 - Yi-Song Gye founded
 - Buddhism and Christian
 - The Yi incorporated Confucianism into their education system, ceremonies, and administration
-- Close alliance with the [[./Ming Dynasty|Ming Dynasty]] (see above china)
+- Close alliance with the [[Ming Dynasty|Ming Dynasty]] (see above china)
 - Calligraphy
 - Yangban were at the top of the government (see about government)
