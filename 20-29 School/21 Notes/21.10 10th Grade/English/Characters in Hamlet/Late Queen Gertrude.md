@@ -8,4 +8,4 @@ title: Late Queen Gertrude
 # Late Queen Gertrude
 
 - Married [[Late King Hamlet|Late King Hamlet]]
-- [[Hamlet (character)|Hamlet]] and [[Gertrude|Gertrude]] are their children
+- [[./Hamlet (character)|Hamlet]] and [[./Gertrude|Gertrude]] are their children
