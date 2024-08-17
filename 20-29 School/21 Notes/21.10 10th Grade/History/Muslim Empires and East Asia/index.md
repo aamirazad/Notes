@@ -10,24 +10,23 @@ Parent:: [[History|History]]
 # Muslim Empires and East Asia
 
 %% Begin Waypoint %%
-
-- [[./Empires overview.svg|Empires overview.excalidraw]]
-- [[./Ming Dynasty|Ming Dynasty]]
-- [[./Mughal Empire|Mughal Empire]]
-- [[./Ottoman Empire|Ottoman Empire]]
-- [[./Qing Dynasty|Qing Dynasty]]
-- [[./Safavid Dynasty|Safavid Dynasty]]
-- [[./Tokugawa Japan|Tokugawa Japan]]
-- **[[./Travel Guide/index|Travel Guide]]**
-  - [[./Travel Guide/TG -  Ming Dynasty|TG -  Ming Dynasty]]
-  - [[./Travel Guide/TG - Home|TG - Home]]
-  - [[./Travel Guide/TG - Mogul Empire|TG - Mogul Empire]]
-  - [[TG - Ottoman Empire|TG - Ottoman Empire]]
-  - [[./Travel Guide/TG - Qing Dynasty|TG - Qing Dynasty]]
-  - [[./Travel Guide/TG - Safavid Dynasty|TG - Safavid Dynasty]]
-  - [[./Travel Guide/TG - Tokugawa Japan|TG - Tokugawa Japan]]
-  - [[./Travel Guide/TG - Yi Dynasty|TG - Yi Dynasty]]
-- [[./Yi Dynasty|Yi Dynasty]]
+- [[Empires Overview|Empires Overview]]
+- [[Ming Dynasty|Ming Dynasty]]
+- [[Mughal Empire|Mughal Empire]]
+- [[Ottoman Empire|Ottoman Empire]]
+- [[Qing Dynasty|Qing Dynasty]]
+- [[Safavid Dynasty|Safavid Dynasty]]
+- [[Tokugawa Japan|Tokugawa Japan]]
+- **[[Travel Guide|Travel Guide]]**
+	- [[TG -  Ming Dynasty|TG -  Ming Dynasty]]
+	- [[TG - Home|TG - Home]]
+	- [[TG - Mogul Empire|TG - Mogul Empire]]
+	- [[TG - Ottoman Empire|TG - Ottoman Empire]]
+	- [[TG - Qing Dynasty|TG - Qing Dynasty]]
+	- [[TG - Safavid Dynasty|TG - Safavid Dynasty]]
+	- [[TG - Tokugawa Japan|TG - Tokugawa Japan]]
+	- [[TG - Yi Dynasty|TG - Yi Dynasty]]
+- [[Yi Dynasty|Yi Dynasty]]
 
 %% End Waypoint %%
 
