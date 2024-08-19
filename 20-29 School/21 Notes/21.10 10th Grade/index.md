@@ -10,7 +10,7 @@ share: true
 > [!important] Web users
 > Use these links to navigate though the subjects
 > - [[10th Grade/English/|English]]
-> - [[10th GradeFrench/|French]]
+> - [[10th Grade/French/|French]]
 > - [[10th Grade/History/|History]]
 > - [[10th Grade/Science/|Science]]
 > 
