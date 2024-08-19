@@ -7,8 +7,13 @@ title: 21.11 11th Grade
 
 # 11th Grade
 
-%% Begin Waypoint %%
+> [!important] Web users
+> Use these links to navigate though the subjects
+> - [[11th Grade/AP Chemistry/|AP Chemistry]]
+>
+> The links below might not work on this page
 
-- **[[Science|Science]]**
+%% Begin Waypoint %%
+- **[[AP Chemistry|AP Chemistry]]**
 
 %% End Waypoint %%
