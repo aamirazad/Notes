@@ -10,7 +10,7 @@ share: true
 
 Parent:: [[Science|Science]]
 
-# Covalent bonds
+# Covalent Bonds
 
 ### Overview
 
