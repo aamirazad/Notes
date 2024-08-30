@@ -125,8 +125,8 @@ Web: Used to compare things
   - Double vowels lose the prefix's vowel
 - End with -ide
 - Examples
-  - CCl<sub>4</sub> - Carbon tetrachloride
-  - N<sub>2</sub>O<sub>3</sub> - Dinitrogen trioxide
+  - $\ce{ CCl4 }$- Carbon tetrachloride
+  - $\ce{ N2O3 }$- Dinitrogen trioxide
 
 ## CER
 
@@ -156,8 +156,8 @@ Helps you explain lab results
 
 Ex: What do plants need to grow?
 
-- Claim: Plants need water, CO<sub>2</sub>, and light to grow
+- Claim: Plants need water, $\ce{ CO2 }$, and light to grow
 - Evidence: Average of plants height, color, # of leaves
-- Reasoning: Ties it to scientific property. Photosynthesis is when green plants produce sugar from water, CO<sub>2</sub>, and light to grow. That is why the plants that got a consistent supply of all three grew the most.
+- Reasoning: Ties it to scientific property. Photosynthesis is when green plants produce sugar from water, $\ce{ CO2 }$, and light to grow. That is why the plants that got a consistent supply of all three grew the most.
 
 Ex: Is air matter?

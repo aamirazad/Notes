@@ -25,7 +25,7 @@ Light has energy. The different amount of energy, called wavelength, has differe
 
 ### Example problem
 
-- What is the wavelength of radiation that has a frequency of 4.3x10<sup>14</sup>
+- What is the wavelength of radiation that has a frequency of $4.3\times10^{14}$
 
 ![Light conversion example](light_conversion_example.png)
 
@@ -54,17 +54,17 @@ Light has energy. The different amount of energy, called wavelength, has differe
 ### Max Planck
 
 - Conceived the idea of photoelectric effect, doesn't get credit
-- ℎ - planck's constant
+- $h$ - planck's constant
   - How frequency and energy are related
   - Example
-    - V = 4.84x10<sup>14</sup>/s
+    - $V = 4.84\times10^{14}/s$
     - E?
-    - E = 6.626x10<sup>-34</sup>J/s
+    - $E = {6.626\times10^{-34}\pu{ \frac{J}{s}}}$
   - Another example
     - One photon of UV light has wavelength of 200 nm. What is one mole of photon
-    - ℎ = 6.63x10<sup>34</sup>
-    - λ = 200x10<sup>-9</sup>m
-    - v = c/λ
+    - $h = 6.63\times10^{34}$
+    - $\lambda = 200\times10^{-9}\pu{ m }$
+    - $v = \frac{c}{\lambda}$
     - Answer: 5.98 kJ/mol
 
 ## The new atom
@@ -91,8 +91,8 @@ Light has energy. The different amount of energy, called wavelength, has differe
 
 - Fixes the issues with Bohr's model
 - Wave properties of atoms; works with all atoms
-- e<sup>-</sup> in orbitals or e<sup>-</sup> clouds, _not orbits_
-- **Cannot** pinpoint the location of a e<sup>-</sup>
+- $e^{-}$ in orbitals or $e^{-}$ clouds, _not orbits_
+- **Cannot** pinpoint the location of a $e^{-}$
   - Instead uses statistics and high probability
 - Perfected model
 
@@ -113,16 +113,16 @@ Light has energy. The different amount of energy, called wavelength, has differe
 
 ### Electron configuration
 
-- 2p<sup>2</sup>
+- $2p^{2}$
 - Doesn't show Hund's rule, which subset
 
 #### Practice
 
 - Fluorine #9
-  - 1s<sup>2</sup>2s<sup>2</sup>2p<sup>5</sup>
+  - $1s^{2}2s^{2}2p^{5}$
 - Niobium # 41
+- $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}4s^{2}3d^{15}4p^{6}$
 
-  - 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup>3d<sup>15</sup>4p<sup>6</sup>
 
 - Within a block the exponent increase for each column
 - Coefficient increase by one per row (d-block is one behind)

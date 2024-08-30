@@ -4,6 +4,8 @@ tags:
 loc: 1.2
 order: 3
 share: true
+date created: Monday, August 12th 2024, 4:28 pm
+date modified: Thursday, August 29th 2024, 8:11 pm
 ---
 
 Parent:: [[Science|Science]]
@@ -46,8 +48,8 @@ Parent:: [[Science|Science]]
 
 ### Derived unit
 
-- Meter<sup>3</sup> = Liter(L)
-- Density = mass / volume
+- $\text{Meter}^{3} = \text{Liter(L)}$
+- $\text{Density} = \frac{\text{Mass}}{\text{Volume}}$
 
 ### Review
 
@@ -63,9 +65,9 @@ Parent:: [[Science|Science]]
 
 ### Unit conversions to know
 
-- 2\.54 cm = 1 inch
-- 454 g = 1 pound
-- 1 cm<sup>3</sup> = 1 mL
+- $254\pu{ cm } = 1 \pu{ inch }$
+- $454\pu{ g } = 1\pu{ pound }$
+- $1\pu{ cm^{3} } = 1\pu{ mL }$
 
 #### Should already know
 
@@ -129,6 +131,7 @@ Rules:
 
 ###
 
+
 Examples:
 
 - 33\.3 - 3 SF
@@ -160,7 +163,7 @@ Include all digits you can read (EVERYONE agrees), plus one digit that you can e
 
 ![qownnotes-media-QhcYiw](qownnotes-media-QhcYiw.png)
 
-This is because non significant zeros are placeholders. 5,200 could be written like 5.2 x 10<sup>3</sup> So these zeros are not necessary
+This is because non significant zeros are placeholders. 5,200 could be written like $5.2\times10^{3}$ So these zeros are not necessary
 
 ## Calculating significant figures
 
