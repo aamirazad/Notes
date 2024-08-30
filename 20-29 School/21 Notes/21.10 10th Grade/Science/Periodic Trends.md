@@ -54,7 +54,7 @@ Which is bigger?
 #### Definition
 
 - Energy required to remove an electron from an atom (in the gas phase)
-- Mg(g) + 730 kJ -> Mg<sup>+</sup> (g) + e<sup>-</sup>
+- $\ce{ Mg(g) + \pu{ 730kJ } -> Mg+ (g) + e- }$
 - This is called the First ionization energy because the outermost electron removed
 - The next electron takes more energy to remove
 
