@@ -141,7 +141,7 @@ Science cannot address supernatural phenomena
 ### Laws of definite composition
 
 - A compound contains the same element in exactly the same proportions by mass
-- Water is always H<sup>2</sup>O
+- Water is always $\ce{ H2O }$
 
 ### Separation of mixtures
 
