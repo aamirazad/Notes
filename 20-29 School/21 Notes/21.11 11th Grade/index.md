@@ -10,7 +10,7 @@ title: 11th Grade
 > [!important] Web users
 > Use these links to navigate though the subjects
 > - [[11th Grade/AP Chemistry/|AP Chemistry]]
-> - [[11th Grade/AP English/|AP English]]
+> - [[11th Grade/AP Lang/|AP Lang]]
 >
 > The links below might not work on this page
 
