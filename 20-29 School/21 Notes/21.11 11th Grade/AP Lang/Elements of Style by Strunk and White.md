@@ -1,23 +1,22 @@
 ---
 date created: Saturday, August 31st 2024, 10:12 pm
-date modified: Saturday, August 31st 2024, 10:12 pm
+date modified: Friday, September 6th 2024, 8:38 pm
 share: true
 ---
-# Elements of Style
 
-by Strunk and White
+# Elements of Style by Strunk and White
 
 ### Introduction
 
-- Instructions like a sergeant giving instructions: 
-	- "Do not join independent clauses with a comma." ([[#^Rule-5|Rule 5.]]) 
+- Instructions like a sergeant giving instructions:
+	- "Do not join independent clauses with a comma." ([[#^Rule-5|Rule 5.]])
 	- "Use active voice." ([[#^Rule-14|Rule 14.]])
 	- "Omit needless words!" ([[#^Rule-17|Rule 17.]])
 - The times had a headline: `Charles' Tonsils out.` But [[#^Rule-1|Rule 1.]] says to form possessive singular of nouns by adding `'s` no matter the final consonant
 - Style rules are a bit of a matter of preference
 
 ### Chapter 1 - Elementary Rules of Usage
- 
+
 #### Form the possessive singular of nouns by adding 's ^Rule-1
 
 Form the possessive singular of nouns
@@ -46,7 +45,6 @@ conjunction, use a comma after each term except the last
 #### Enclose parenthetic expressions between commas ^Rule-3
 
 - `The best way to see a country, unless you are pressed for time, is to travel on foot.`
-
 - If the interruption is slight, commas can be omitted, otherwise commas should wrap the interruption
 - Make sure you add it to both sides
 - Abbreviations, titles, times and places
@@ -66,7 +64,6 @@ conjunction, use a comma after each term except the last
 - Clauses introduced by `who` cannot be split, follow the original rules
 	- `Uncle Bert, being slightly deaf, moved forward`
 	- `My cousin Bob is a talented harpist`
-
 
 #### Place a comma before a conjunction introducing an independent clause ^Rule-4
 
@@ -88,7 +85,7 @@ conjunction, use a comma after each term except the last
 ##### Exceptions
 
 - Emphatic word or expression
-	- `Again one again be called out. No reply` 
+	- `Again one again be called out. No reply`
 
 #### Use a colon after an independent clause to introduce a list of particulars, an amplification, or an illustrative quotation ^Rule-7
 
@@ -104,4 +101,28 @@ conjunction, use a comma after each term except the last
 
 - A dash is a mark of separation stronger than a common less
 formal than a colon, more relaxed than parentheses
-- `His first thought on getting out of bed — if he had any thought at all — has to get back in again`
+- `His first thought on getting out of bed — if he had any thought at all — was to get back in again`
+
+#### The number of the subject determines the number of the verb ^Rule-9
+
+- Words that intervene between subject and verb do not affect the number of the verb.
+	- `The bittersweet flavor of youth — its trials,its joys, its adventures, its challenges — is not soon forgotten.`
+	- The youth is the subject and thus it should be `is` not `are` not soon forgotten
+- `Each`, `either`, `everyone`, `everybody`, `neither`, `nobody`, and `someone` are singular
+	- `Everybody thinks he has a unique sense of humor` (`thinks` instead of `think`)
+- A compound subject, formed by two ore more nouns joined by and, require a plural verb
+	- `The walrus and the carpenter were walking close at hand`
+- Except for compounds that are a unit and subjects connected by `each` or
+`every`
+	- `Bread and butter was all she served` (`was` instead of `were`)
+- Be careful of nouns that end with a `s` which appear to be plural even though they are singular
+	- `The Republican Headquarters is on this side of the tracks`
+
+#### Use the proper case of pronoun ^Rule-10
+
+- `We heavy eaters would rather walk than ride.`\
+- `Who knocks?`
+- In general, avoid "understood" verbs
+	- Not `I think Horace admires Jessica more than I.`
+	- Should be `I think Horace admires Jessica more than I do.`
+-
