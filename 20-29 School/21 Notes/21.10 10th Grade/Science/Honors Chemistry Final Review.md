@@ -236,7 +236,7 @@ share: true
 
 > [!tip] Key concepts
 >
-> - Gas laws assume the gases are accually perfectly, though in reality gases almost never exactly match these characteristics
+> - Gas laws assume the gases are actually perfectly, though in reality gases almost never exactly match these characteristics
 > - To go from Kelvin to Celsius subtract 273
 > - Particulate diagrams visualize changes in gas during a experiment, for example [[Gases#Particulate diagrams|🔗]]
 > - Use Gas Stoichiometry to convert from one gas to another [[Gases#Gas stoichiometry|🔗]]
