@@ -1,6 +1,6 @@
 ---
 date created: Saturday, September 7th 2024, 11:13 am
-date modified: Saturday, September 7th 2024, 12:01 pm
+date modified: Saturday, September 7th 2024, 6:57 pm
 share: true
 ---
 
@@ -57,7 +57,9 @@ $$
 [[Measurement#Dimensional analysis|◀️]]
 
 > [!question]- You are driving 65 miles/hour and take your eyes off the road for “just a second.” What distance (in feet) do you travel in this time?
-> $$1\pu{ \text{second} } \times \frac{1\pu{ \text{minute} }}{60\pu{ \text{seconds}}} \times \frac{1\pu{ \text{hour} }}{60\pu{ \text{minutes} }} \times \frac{65\pu{ \text{miles} }}{1\pu{ \text{hour} }} \times \frac{5280\pu{ ft }}{1\pu{ \text{mile} }} = 100\pu{ ft }$$
+> $$
+> 1\pu{ \text{second} } \times \frac{1\pu{ \text{minute} }}{60\pu{ \text{seconds}}} \times \frac{1\pu{ \text{hour} }}{60\pu{ \text{minutes} }} \times \frac{65\pu{ \text{miles} }}{1\pu{ \text{hour} }} \times \frac{5280\pu{ ft }}{1\pu{ \text{mile} }} = 100\pu{ ft }
+> $$
 > *Remember significant figures*
 
 ### Temperature
@@ -65,7 +67,9 @@ $$
 - To go from Kelvin to Celsius subtract 273
 
 > [!question]- Normal body temperature is $37 \pu{ \degree C }$. Covert this temperature to Kelvin
-> $$37 \pu{ \degree C } + 273 = 310\pu{ K } = 310\pu{ K }$$
+> $$
+> 37 \pu{ \degree C } + 273 = 310\pu{ K } = 310\pu{ K }
+> $$
 
 ### Density
 
@@ -80,3 +84,9 @@ $$
 
 ### Classification of Matter
 
+- A **Solid** [[Liquids, Solids, and Solutions#Solid properties|◀️]] has a fixed volume and shape
+- A **Liquid** [[Liquids, Solids, and Solutions#Liquid properties|◀️]] has a definite volume but no specific shape
+- A **Gas** doesn't have a fixed volume or shape
+- A **mixture** [[Matter#Mixtures|◀️]] has at least two different types of matter that can be separated
+	- A **homogeneous** mixture is perfectly mixed and the parts are indistinguishable (soup)
+	- A **heterogeneous** mixture has visible distinguishable parts (salad)
