@@ -1,6 +1,6 @@
 ---
 date created: Saturday, September 7th 2024, 11:13 am
-date modified: Saturday, September 7th 2024, 11:46 am
+date modified: Saturday, September 7th 2024, 12:01 pm
 share: true
 ---
 
@@ -52,3 +52,30 @@ $$
 
 
 
+### Dimensional Analysis
+
+[[Measurement#Dimensional analysis|◀️]]
+
+> [!question]- You are driving 65 miles/hour and take your eyes off the road for “just a second.” What distance (in feet) do you travel in this time?
+> $$1\pu{ \text{second} } \times \frac{1\pu{ \text{minute} }}{60\pu{ \text{seconds}}} \times \frac{1\pu{ \text{hour} }}{60\pu{ \text{minutes} }} \times \frac{65\pu{ \text{miles} }}{1\pu{ \text{hour} }} \times \frac{5280\pu{ ft }}{1\pu{ \text{mile} }} = 100\pu{ ft }$$
+> *Remember significant figures*
+
+### Temperature
+
+- To go from Kelvin to Celsius subtract 273
+
+> [!question]- Normal body temperature is $37 \pu{ \degree C }$. Covert this temperature to Kelvin
+> $$
+> 37 \pu{ \degree C } + 273 = 310\pu{ K } = 310\pu{ K }
+> $$
+
+### Density
+
+$$
+\text{ Density} = \frac{\text{mass}}{\text{ volume}}
+$$
+
+> [!question]- In the opening scenes of the movie Raiders of the Lost Ark, Indiana Jones and an unscrupulous guide play catch with a gold idol (Density of gold=19.32 g/cm3; density of sand approx. = 2.g/cm3) Assume that the volume of the idol is about 1 L. If it were solid gold, what mass would the idol have? Is playing catch with it plausible?
+> $$
+> 1\pu{ L } \times \frac{1000\pu{ mL }}{1\pu{ L }} \times \frac{19.32\pu{ g }}{1\pu{ mL }}
+> $$
