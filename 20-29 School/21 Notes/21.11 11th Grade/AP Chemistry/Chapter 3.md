@@ -92,11 +92,8 @@ See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical fo
 [[Mass Relations in Chemistry#Limiting factor|◀️]]
 
 > [!question] What mass of hydrogen peroxide should result when $\pu{ 1.5 g }$ barium peroxide is treated with $\pu{ 88.0 mL }$ hydrochloric acid solution containing $\pu{ 0.0272 g HCl }$ per mL? What mass of which reagent is left unreacted?
-> $$
-  \ce{ BaO2 (s) + 2HCl(aq) -> H2O2 (aq) + BaCl2 (aq) }
-> $$
+> $$\ce{ BaO2 (s) + 2HCl(aq) -> H2O2 (aq) + BaCl2 (aq) }$$
 > > [!question]- Answer
-> > 
 > > > [!rocket] Find the limiting factor
 > > > $$
 > > > \pu{ 88.0 mL HCl } \times \frac{\pu{ 0.0272g }}{\pu{ 1mL }} \times \frac{\pu{ 1mol }}{\pu{ 36.358g }} \times \frac{\pu{ 1mol }}{\pu{ 2mol }} = \pu{ 0.0329mol \ce{ H2O2 } }
