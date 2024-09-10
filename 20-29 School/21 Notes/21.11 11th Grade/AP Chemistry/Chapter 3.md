@@ -1,6 +1,6 @@
 ---
 date created: Monday, September 9th 2024, 5:14 pm
-date modified: Monday, September 9th 2024, 7:52 pm
+date modified: Tuesday, September 10th 2024, 6:36 am
 share: true
 ---
 
@@ -19,7 +19,7 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 
 - From this, you graph the values and get this
 
-![Mass spectrum](https://link.storjshare.io/s/jv3owgwgohxhailzmlghgjppo3nq/share/2024-09-09T19:31:27-04:00-mass-spectrum.png?wrap=0)
+![Mass spectrum](https://link.storjshare.io/s/jv3owgwgohxhailzmlghgjppo3nq/share/2024-09-09T20:39:14-04:00-mass-spectrum.webp?wrap=0)
 
 
 - To interpret it, first find the most abundant isotope
@@ -64,10 +64,10 @@ See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical fo
 > > $$
 > > \ce{ ClCH2 }
 > > $$
-> 
+>
 >> [!note] Find the mass of the empirical formula
 >> Add the molar mass of $\ce{ Cl }$, $\ce{ C }$, and $\ce{ H2 }$ to get $\pu{ 49.476 g/mol }$
-> 
+>
 > > [!note] Find the molecular formula
 >> Molar mass (given) = $\pu{ 98.96 g/mol }$
 >> Empirical formula mass = $\pu{ 49.476 g/mol }$
@@ -75,3 +75,46 @@ See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical fo
 >>  \frac{\text{Molar mass}}{\text{Empirical formula mass}} = \frac{98.96}{49.476} = 2
 >>  $$
 >>  Molecular formula is $\ce{ Cl2C2H4 }$
+
+## Stoichiometric Calculations
+
+[[Mass Relations in Chemistry#Stoichiometry|◀️]]
+
+> [!question] The reusable booster rockets of the U.S. space shuttle employ a mixture of aluminum and ammonium perchlorate for fuel. A possible equation for this reaction is:
+> $$\ce{ 3Al(s) + 3NH4ClO4 -> Al2O3(s) + AlCl3(s) + 3NO(g) + 6H2O(g) }$$
+> > [!question]- What mass of $\ce{ NH4ClO4 }$ should be used in the fuel mixture for every kilogram of $\ce{ Al }$?
+> > $$
+> > \pu{ 1kgAl } \times \frac{\pu{ 1000g }}{\pu{ 1kg }} \times \frac{\pu{ 1mol }}{\pu{ 26.982g }} \times \frac{\pu{ 3mol \ce{ NH4ClO4 } }}{\pu{ 3mol Al }} \times \frac{\pu{ 117.485g }}{\pu{ 1mol }} \times \frac{\pu{ 1kg }}{\pu{ 1000g }} = \pu{ 4.35g }
+> > $$
+
+## Limiting Reactant
+
+[[Mass Relations in Chemistry#Limiting factor|◀️]]
+
+> [!question] What mass of hydrogen peroxide should result when $\pu{ 1.5 g }$ barium peroxide is treated with $\pu{ 88.0 mL }$ hydrochloric acid solution containing $\pu{ 0.0272 g HCl }$ per mL? What mass of which reagent is left unreacted?
+> $$
+  \ce{ BaO2 (s) + 2HCl(aq) -> H2O2 (aq) + BaCl2 (aq) }
+> $$
+> > [!question]- Answer
+> > 
+> > > [!rocket] Find the limiting factor
+> > > $$
+> > > \pu{ 88.0 mL HCl } \times \frac{\pu{ 0.0272g }}{\pu{ 1mL }} \times \frac{\pu{ 1mol }}{\pu{ 36.358g }} \times \frac{\pu{ 1mol }}{\pu{ 2mol }} = \pu{ 0.0329mol \ce{ H2O2 } }
+> > > $$
+> > > $$
+> > > \pu{ 1.5g \ce{ BaO2 }} \times \frac{\pu{ 1mol }}{\pu{ 169.328g }} \times \frac{\pu{ 1mol }}{\pu{ 1mol }} = 0.008859 \pu{ mol \ce{ H2O2 } }
+> > > $$
+> > > - $\ce{ BaO2 }$ is limiting
+> > 
+> > > [!rocket] Find the grams of hydrogen peroxide
+> > > $$
+> > > 0.008859\pu{ mol \ce{ H2O2 } } \times \frac{\pu{ 32.014g }}{\pu{ 1mol }} = \pu{ 0.283g \ce{ H2O2 } }
+> > > $$
+> > 
+> > > [!rocket] Find the leftover $\ce{ HCl }$
+> > > $$
+> > > 0.0329-0.008859 = 0.0240
+> > > $$
+> > > $$
+> > > \pu{ 0.0240mol \ce{ H2O2 } } \times \frac{\pu{ 2mol }}{\pu{ 1mol }} \times \frac{\pu{ 36.358g }}{\pu{ 1mol }} = \pu{ 1.75g \ce{ HCl } }
+> > > $$
