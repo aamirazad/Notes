@@ -15,11 +15,11 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 - This is a mass spectrometer, you probably should be able to identify this on the AP test
 - How it works is you have a bunch of different isotopes on the left part an then zap them with electrons which knock electrons off of them causing them to switch to positives ions accelerating them to a magnetic field, depending on how far it travels is the relative weight of that isotope
 
-![](https://link.storjshare.io/s/jv3owgwgohxhailzmlghgjppo3nq/share/2024-09-09T19:29-04:00-mass-spectrometer.webp?wrap=0)
+![Mass spectrometer](https://link.storjshare.io/s/jv3owgwgohxhailzmlghgjppo3nq/share/2024-09-09T19:29-04:00-mass-spectrometer.webp?wrap=0)
 
 - From this, you graph the values and get this
 
-![](https://link.storjshare.io/s/jv3owgwgohxhailzmlghgjppo3nq/share/2024-09-09T19:31:27-04:00-mass-spectrum.png?wrap=0)
+![Mass spectrum](https://link.storjshare.io/s/jv3owgwgohxhailzmlghgjppo3nq/share/2024-09-09T19:31:27-04:00-mass-spectrum.png?wrap=0)
 
 
 - To interpret it, first find the most abundant isotope
@@ -47,3 +47,31 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 - Super simple, check out [[Mass Relations in Chemistry#Percent composition|the notes]]
 
 ## Determining the Formula of a Compound
+
+See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical formula]] and [[Mass Relations in Chemistry#Molecular formula|◀️ notes on molecular formula]]
+
+> [!question]- Determine the empirical and molecular formulas for the compound that gives the following percentages (in mass percents). $\pu{ 71.64 \% Cl }$, $\pu{ 24.27 \% C }$, $\pu{ 4.07 \% H }$. The molar mass is known to be $\pu{ 98.96g/mol }$
+> > [!note] Find the empirical formula
+> > $$
+> > \pu{ 71.64\cancel{ g }Cl } \times \frac{\pu{ 1mol }}{\pu{ 35.45\cancel{ g } }} = \pu{ 2.02molCl }
+> > $$
+> > $$
+> > \pu{ 24.27\cancel{ g }C } \times \frac{\pu{ 1mol }}{\pu{ 12.01\cancel{ g } }} = \pu{ 2.02molC }
+> > $$
+> > $$
+> > \pu{ 4.07\cancel{ g }H } \times \frac{1mol}{1.008\cancel{ g }} = \pu{ 4.04molH }
+> > $$
+> > $$
+> > \ce{ ClCH2 }
+> > $$
+> 
+>> [!note] Find the mass of the empirical formula
+>> Add the molar mass of $\ce{ Cl }$, $\ce{ C }$, and $\ce{ H2 }$ to get $\pu{ 49.476 g/mol }$
+> 
+> > [!note] Find the molecular formula
+>> Molar mass (given) = $\pu{ 98.96 g/mol }$
+>> Empirical formula mass = $\pu{ 49.476 g/mol }$
+>>  $$
+>>  \frac{\text{Molar mass}}{\text{Empirical formula mass}} = \frac{98.96}{49.476} = 2
+>>  $$
+>>  Molecular formula is $\ce{ Cl2C2H4 }$
