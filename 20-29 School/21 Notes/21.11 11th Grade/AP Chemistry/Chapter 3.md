@@ -1,6 +1,6 @@
 ---
 date created: Monday, September 9th 2024, 5:14 pm
-date modified: Tuesday, September 10th 2024, 6:36 am
+date modified: Tuesday, September 10th 2024, 10:18 pm
 share: true
 ---
 
@@ -76,6 +76,28 @@ See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical fo
 >>  $$
 >>  Molecular formula is $\ce{ Cl2C2H4 }$
 
+> [!question]- Vitamin A has a molar mass of $\pu{ 286.4 g/mol }$ and a general molecular formula of $\ce{ C_{x}H_{y}E }$ where $\ce{ E }$ is an unknown element. If vitamin A is $\pu{ 83.86 \% C }$ and $\pu{ 10.56 \% H }$ by mass, what is the molecular formula of vitamin A?
+> $$
+> \pu{ 83.86 \% C } \times \pu{ 286.4 g/mol } = \pu{ 240 g/mol C }
+> $$
+> $$
+> \pu{ 10.56 \% H } \times \pu{ 286.4 g/mol } = \pu{ 30 g/mol H } 
+> $$
+> $$
+> \frac{\pu{ 240 g/mol }}{\pu{ 12.01 g/mol }} = \pu{ 20mol }
+> $$
+> $$
+> \frac{\pu{ 30g/mol }}{\pu{ 1.008g/mol }} = \pu{ 30 mol }
+> $$
+> $$
+> 286.4-240-30 = 16.4
+> $$
+> - 16.4 is around the molar mass of oxygen
+> $$
+> \frac{\pu{ 16.4g/mol }}{\pu{ 15.999 g/mol }} = \pu{ 1 mol } 
+> $$
+> - Formula $\ce{ C20H30O }$
+
 ## Stoichiometric Calculations
 
 [[Mass Relations in Chemistry#Stoichiometry|◀️]]
@@ -86,6 +108,19 @@ See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical fo
 > > $$
 > > \pu{ 1kgAl } \times \frac{\pu{ 1000g }}{\pu{ 1kg }} \times \frac{\pu{ 1mol }}{\pu{ 26.982g }} \times \frac{\pu{ 3mol \ce{ NH4ClO4 } }}{\pu{ 3mol Al }} \times \frac{\pu{ 117.485g }}{\pu{ 1mol }} \times \frac{\pu{ 1kg }}{\pu{ 1000g }} = \pu{ 4.35g }
 > > $$
+
+> [!question]-  What mass of sodium hydroxide has the same number of oxygen atoms at $\pu{ 100.0g }$ of ammonium carbonate
+> 
+> > [!note] Write the formulas
+> > $\ce{ NaOH }$, and $\ce{ (NO3)2CaO }$
+> 
+> > [!note] Find the percent of oxygen in ammonium carbonate
+> > $$
+> > \frac{112}{180} \times 100 = 62\%
+> > $$
+> 
+> > [!note] Find the number of oxygen atoms $\pu{ 100.0g }$ of ammonium carbonate has
+> > - To be finished *I need to go to bed*
 
 ## Limiting Reactant
 
@@ -102,12 +137,12 @@ See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical fo
 > > > \pu{ 1.5g \ce{ BaO2 }} \times \frac{\pu{ 1mol }}{\pu{ 169.328g }} \times \frac{\pu{ 1mol }}{\pu{ 1mol }} = 0.008859 \pu{ mol \ce{ H2O2 } }
 > > > $$
 > > > - $\ce{ BaO2 }$ is limiting
-> > 
+> >
 > > > [!rocket] Find the grams of hydrogen peroxide
 > > > $$
 > > > 0.008859\pu{ mol \ce{ H2O2 } } \times \frac{\pu{ 32.014g }}{\pu{ 1mol }} = \pu{ 0.283g \ce{ H2O2 } }
 > > > $$
-> > 
+> >
 > > > [!rocket] Find the leftover $\ce{ HCl }$
 > > > $$
 > > > 0.0329-0.008859 = 0.0240
