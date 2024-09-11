@@ -1,6 +1,6 @@
 ---
 date created: Saturday, September 7th 2024, 7:15 pm
-date modified: Sunday, September 8th 2024, 10:00 pm
+date modified: Tuesday, September 10th 2024, 9:22 pm
 share: true
 ---
 
@@ -84,9 +84,82 @@ See previous notes [[The History of Chemistry|◀️]]
 - This means in a ionic bond like $\ce{ Cu2O }$, the charge on $\ce{ Cu }$ is +1, this means it will be written Cupous oxide instead of $\ce{ CuO }$ which is written Cuporic oxide
 
 
-> [!question]- Name that acid
+> [!question] Name that acid
 > > [!question]- $\ce{ HF }$
+> >
 > > Hydrofluoric acid
 >
 > > [!question]- $\ce{ H3PO4 }$
+> >
 > > Phosphoric acid
+
+### Put it all together
+
+> [!question] Write the formula for each of the following compounds
+> > [!question]- Sulfur difluoride
+> > $\ce{ SF2 }$
+>
+> > [!question]- Sulfur hexafluoride
+> > $\ce{ SF6 }$
+>
+> > [!question]- Sodium dihydrogen phosphate
+> > $\ce{ NaH2PO4 }$
+>
+> > [!question]- Lithium nitride
+> > $\ce{ Li3N }$
+>
+> > [!question]- Chromium (Ⅲ) carbonate
+> > $\ce{ Cr2(CO3)3 }$
+>
+> > [!question]- Tin (Ⅱ) fluoride
+> > $\ce{ SnF2 }$
+>
+> > [!question]- Ammonium acetate
+> > $\ce{ NO4CH3COO }$
+>
+> > [!question]- Ammonium hydrogen sulfate
+> > $\ce{ NO4HSO3 }$
+>
+> > [!question]- Cobalt (Ⅱ) nitrate
+> > $\ce{ Co(NO3)2 }$
+>
+> > [!question]- Mercury (Ⅰ) chloride
+> > $\ce{ Hg2Cl2 }$
+> > - I do not know why it is two, if anybody knows, please email
+>
+> > [!question]- Potassium chlorate
+> > $\ce{ KClO3 }$
+>
+> > [!question]- Sodium hydride
+> > $\ce{ NaH }$
+
+> [!question] Name each of the following compounds. Assume the acids are dissolved in water
+> > [!question]- $\ce{ CuI }$
+> > Copper (I) Iodide
+>
+> > [!question]- $\ce{ CuI2 }$
+> > Copper (II) Iodide
+>
+> > [!question]- $\ce{ CoI2 }$
+> > Cobalt (II) Iodide
+>
+> > [!question]- $\ce{ Na2CO3 }$
+> > Sodium Carbonate
+>
+> > [!question]- $\ce{ NaHCO3 }$
+> > Sodium Bicarbonate
+>
+> > [!question]- $\ce{ S4N4 }$
+> > Tetrasulfate tetranitride
+>
+> > [!question]- $\ce{ SeCl4 }$
+> > Selenium tetrachloride
+>
+> > [!question]- $\ce{ NaOCl }$
+> > Sodium hypochlorite
+>
+> > [!question]- $\ce{ BaCrO4 }$
+> > Barium chromate
+>
+> > [!question]- $\ce{ NH4NO3 }$
+> > Ammonium nitrate
