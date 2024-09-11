@@ -93,7 +93,7 @@ $$
 	- Pure water is a pure substance—even though $\ce{ H2O }$ has multiple elements—while seawater is a mixture because it has many pure substances in it which can be separated physically while the $\ce{ H }$ in $\ce{ H2O }$ has to be separated chemically
 - Review the methods to [[Matter#Separation of mixtures|◀️ separate mixtures]] physically
 
-> [!question] When each of the following is head to $50\degree C$ and the temperature is held constant for 5 minutes, which one undergoes *only* a physical change
+> [!question] When each of the following is heated to $50\degree C$ and the temperature is held constant for 5 minutes, which one undergoes *only* a physical change
 > - (A) Egg
 > - (B) Steak
 > - (C) Ice Cream
