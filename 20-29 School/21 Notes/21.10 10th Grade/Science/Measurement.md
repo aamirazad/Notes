@@ -111,7 +111,7 @@ Tells us about the measuring tool
 ### Percent error
 
 $$
-\frac{\text{Value accepted} \cdot \text{Value experimental}}{\text{Value accepted}} \cdot 100\%
+\frac{\text{Value accepted} - \text{Value experimental}}{\text{Value accepted}} \cdot 100\%
 $$
 
 ## Significant figures
