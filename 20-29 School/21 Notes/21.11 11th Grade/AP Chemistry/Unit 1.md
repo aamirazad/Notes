@@ -1,6 +1,6 @@
 ---
 date created: Saturday, September 14th 2024, 10:55 am
-date modified: Saturday, September 14th 2024, 10:58 am
+date modified: Saturday, September 14th 2024, 11:44 am
 share: true
 ---
 
@@ -292,6 +292,8 @@ See previous notes [[The History of Chemistry|◀️]]
 
 ---
 
+## Chapter 3
+
 ### Atomic Masses
 
 [[Mass Relations in Chemistry#Atomic masses|◀️]]
@@ -394,15 +396,15 @@ See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical fo
 > > $$
 
 > [!question]-  What mass of sodium hydroxide has the same number of oxygen atoms at $\pu{ 100.0g }$ of ammonium carbonate
-> 
+>
 > > [!note] Write the formulas
 > > $\ce{ NaOH }$, and $\ce{ (NO3)2CaO }$
-> 
+>
 > > [!note] Find the percent of oxygen in ammonium carbonate
 > > $$
 > > \frac{112}{180} \times 100 = 62\%
 > > $$
-> 
+>
 > > [!note] Find the number of oxygen atoms $\pu{ 100.0g }$ of ammonium carbonate has
 > > - To be finished *I need to go to bed*
 
