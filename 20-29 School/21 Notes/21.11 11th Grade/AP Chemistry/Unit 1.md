@@ -1,6 +1,6 @@
 ---
 date created: Saturday, September 14th 2024, 10:55 am
-date modified: Saturday, September 14th 2024, 11:44 am
+date modified: Sunday, September 15th 2024, 10:08 am
 share: true
 ---
 
@@ -44,13 +44,10 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 
 - Know the [[Measurement#Significant figures|◀️ rules]]
 - Accuracy is how close the measurement value is to the true value and Precision is how consistent the measured value is [[Measurement#Precision and accuracy|◀️]]
-### Percent error
-
+- Percent error is calculated as follows [[Measurement#Percent error|◀️]]
 $$
 \frac{\text{Value accepted} - \text{Value experimental}}{\text{Value accepted}} \cdot 100\%
 $$
-
-
 
 ### Dimensional Analysis
 
@@ -301,11 +298,11 @@ See previous notes [[The History of Chemistry|◀️]]
 - This is a mass spectrometer, you probably should be able to identify this on the AP test
 - How it works is you have a bunch of different isotopes on the left part an then zap them with electrons which knock electrons off of them causing them to switch to positives ions accelerating them to a magnetic field, depending on how far it travels is the relative weight of that isotope
 
-![Mass spectrometer](https://link.storjshare.io/s/jv3owgwgohxhailzmlghgjppo3nq/share/2024-09-09T19:29-04:00-mass-spectrometer.webp?wrap=0)
+![Mass spectrometer](https://cdn.aamira.me/vault/2024-09-15T14:07:59Z-mass-spectrometer.webp?wrap=0)
 
 - From this, you graph the values and get this
 
-![Mass spectrum](https://link.storjshare.io/s/jv3owgwgohxhailzmlghgjppo3nq/share/2024-09-09T20:39:14-04:00-mass-spectrum.webp?wrap=0)
+![Mass spectrum](http://cdn.aamira.me/vault/2024-09-15T14:05:50Z-mass-spectrum.webp?wrap=0)
 
 
 - To interpret it, first find the most abundant isotope
