@@ -20,5 +20,6 @@ title: 11th Grade
 %% Begin Waypoint %%
 - **[[AP Chemistry|AP Chemistry]]**
 - **[[AP Lang|AP Lang]]**
+- **[[French|French]]**
 
 %% End Waypoint %%

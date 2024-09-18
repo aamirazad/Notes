@@ -1,6 +1,6 @@
 ---
 date created: Saturday, September 14th 2024, 10:55 am
-date modified: Sunday, September 15th 2024, 10:08 am
+date modified: Tuesday, September 17th 2024, 9:17 pm
 share: true
 ---
 
@@ -433,3 +433,22 @@ See [[Mass Relations in Chemistry#Empirical formula|◀️ notes on empirical fo
 > > > $$
 > > > \pu{ 0.0240mol \ce{ H2O2 } } \times \frac{\pu{ 2mol }}{\pu{ 1mol }} \times \frac{\pu{ 36.358g }}{\pu{ 1mol }} = \pu{ 1.75g \ce{ HCl } }
 > > > $$
+
+## Notes on PES
+
+- Interpret the graph
+- Hydrogen with 1 electron (y-axis)
+- X-axis shows how many mega jouls per mol to do something (1.31)
+- Helium has the y-axis of 2 and a bigger x-axis
+- Next Lithium has 2 jumps at the x-axis which is cause it has 2 orbitals
+- Boron has 3 spikes. 19.3, 1.36, and 0.8
+- This is showing the amount of energy to remove a electron at different orbital levels
+- Next, given a graph which element is this graph?
+- Shoot photons into electrons which deflect electrons into a detector
+- Closer electrons have the lower electron binding energy, farther away from detector
+- Graph shows electrons from easiest to remove (Is) to hardest (intense)
+- Binding increases to left, relative to its kenetic
+- Easier to remove, intense, when hit with photon, reacts more cause there is more relative energy left over
+- less enemy to the right (graph doesn't start at Zero!)
+- For another atom, electrons shift to the right (less binding)
+- The D orbital (# down one) is to the left
