@@ -3,7 +3,7 @@ date created: Saturday, September 14th 2024, 10:55 am
 date modified: Tuesday, September 17th 2024, 9:17 pm
 share: true
 ---
-
+	
 # Unit 1
 
 Click on the back emoji ◀️ to be linked to last year's notes that affirm the topic. For some reason the book problems Mrs Luke linked do not cover most of the first part of this chapter so I did not spend any extra time writing summaries for them. See last year's notes as linked.
@@ -298,11 +298,11 @@ See previous notes [[The History of Chemistry|◀️]]
 - This is a mass spectrometer, you probably should be able to identify this on the AP test
 - How it works is you have a bunch of different isotopes on the left part an then zap them with electrons which knock electrons off of them causing them to switch to positives ions accelerating them to a magnetic field, depending on how far it travels is the relative weight of that isotope
 
-![Mass spectrometer](https://cdn.aamira.me/vault/2024-09-15T14:07:59Z-mass-spectrometer.webp?wrap=0)
+![Mass spectrometer](https://utfs.io/f/54iPPKBOVfGC45kf9R03Mi2gHVJmCGfdFvazsXDrqZ0eUo9A)
 
 - From this, you graph the values and get this
 
-![Mass spectrum](http://cdn.aamira.me/vault/2024-09-15T14:05:50Z-mass-spectrum.webp?wrap=0)
+![Mass spectrum](https://utfs.io/f/54iPPKBOVfGCSIWy3dsVoO32irLveJnalGy0VPBgsYzZShjf)
 
 
 - To interpret it, first find the most abundant isotope
