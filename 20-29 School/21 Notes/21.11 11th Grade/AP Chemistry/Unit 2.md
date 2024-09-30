@@ -191,3 +191,5 @@ $$
 
 ### VSPER
 
+- Memorize this
+![vspr-geomatries](https://utfs.io/f/54iPPKBOVfGCWCzRTNyxYOCzAXhL3mJwVB1NvS6GkP9HcIfd)
