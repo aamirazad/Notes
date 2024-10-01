@@ -1,12 +1,12 @@
 ---
 date created: Sunday, September 15th 2024, 12:45 pm
-date modified: Sunday, September 29th 2024, 3:15 pm
+date modified: Monday, September 30th 2024, 8:26 pm
 share: true
 ---
 
 # Unit 2
 
-Click on the back emoji ◀️ to be linked to last year's notes that affirm the topic. Not all parts of this unit are in this article, do not use it as your only study meathod.
+Click on the back emoji ◀️ to be linked to last year's notes that affirm the topic. Not all parts of this unit are in this article, do not use it as your only study method.
 
 ## Chapter 8: Bonding
 
@@ -34,7 +34,7 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 > >
 > > $\ce{ LiF }$ because $\ce{ Li }$ is much smaller than $\ce{ Cs }$ which lowers the distance causing more columbic attraction
 >
-> > [!question] $\ce{ KF, K2O }$
+> > [!question]- $\ce{ KF, K2O }$
 > >
 > > $\ce{ K2O }$ because $\ce{ O^{-2} }$ has  a greater negative charge than $\ce{ F- }$
 
@@ -90,13 +90,13 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 - When a nonmetal and a metal react to form a binary ionic compound, the ions form so that the valence electron configuration of the nonmetal achieves the electron configuration of the next noble gas atom and Valence orbitals of the metal are emptied
 
 > [!question] Which of the following ions have noble gas electron configurations?
-> 
+>
 > > [!question]- $\ce{ Fe^{2+}, Fe^{3+}, Sc^{3+}, Co^{3+} }$
 > > $\ce{ Sc^{+3} }$
-> 
+>
 > > [!question]- $\ce{ Tl+, Te^{2-}, Cr^{3+} }$
 > > $\ce{ Te^{2-} }$
-> 
+>
 > > [!question]- $\ce{ Pu^{4+}, Ce^{4+}, Ti^{4+} }$
 > > $\ce{ Ce^{4+}, Ti^{4+}}$
 
@@ -106,7 +106,6 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 
 > [!question]- Arrange the following ions in order of decreasing size: $\ce{ Se^2–, Sr^{2+}, Rb+, and Br– }$
 > $\ce{ Se^2–, Br–, Rb+, and Sr^{2+} }$, as you get more protons, it gets smaller
-
 
 ### Energy Effects in Binary Ionic Compounds
 
@@ -125,24 +124,24 @@ $$
 $$
 - Remember both ions must be gas before we can pack them into solids
 - It takes energy to do this though, $\pu{ 161 kJ/mol }$ to be exact. This is called Enthalpy of sublimation
-2. Ionization of lithium
+1. Ionization of lithium
 $$
 \ce{ Li(g) ->[\pu{ 520kJ/mol }] Li+(g) + e- }
 $$
 - Preparing for it to bond with $\ce{ F }$
 - Energy amount is found from lithium's first ionization energy
-3. Dissociation of fluorine
+1. Dissociation of fluorine
 $$
 \ce{ \frac{1}{2}F2(g) ->[\pu{ 77kJ/mol }] F(g) }
 $$
 - We need to break the $\ce{ F2 }$ bond
 - The energy to break one mol of fluorine to fluorine molecules is $\pu{ 154kJ }$ but we have half a mole of atoms so we divide by 2
-4. Formation of $\ce{ F- }$ ions
+1. Formation of $\ce{ F- }$ ions
 $$
 \ce{ F(g) + e- ->[\pu{ -328kJ/mol }] F-(g)}
 $$
 - Negative energy because fluorine wants to lose a electron, its more stable, energy released
-5. Formation of solid lithium fluoride
+1. Formation of solid lithium fluoride
 $$
 \ce{ Li+(g) + F-(g) ->[\pu{ -1047kJ/mol }] LiF(s) }
 $$
@@ -151,6 +150,12 @@ $$
 $$
 161+520+77-328-1047=\pu{ -617kJ/mol }
 $$
+
+> [!question] Use bond energies to estimate $\ce{ \Delta H }$ for the combustion of one mole of acetylene
+> $$\ce{ C2H2(g) + \frac{5}{2}O2(g) -> 2CO2(g) + H2O(g) }$$
+> > [!question]- Answer
+> > 
+> > TBD
 
 ### Lewis Structures
 
@@ -192,4 +197,5 @@ $$
 ### VSPER
 
 - Memorize this
-![vspr-geomatries](https://utfs.io/f/54iPPKBOVfGCWCzRTNyxYOCzAXhL3mJwVB1NvS6GkP9HcIfd)
+
+![vspr-geomatries](https://wsrv.nl/?url=utfs.io/f/54iPPKBOVfGCWCzRTNyxYOCzAXhL3mJwVB1NvS6GkP9HcIfd&w=600)
