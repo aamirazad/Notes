@@ -1,6 +1,6 @@
 ---
 date created: Sunday, September 15th 2024, 12:45 pm
-date modified: Monday, September 30th 2024, 8:26 pm
+date modified: Friday, October 4th 2024, 11:18 am
 share: true
 ---
 
@@ -65,13 +65,14 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 - More electronically difference = greater polarity
 
 > [!question] Order the polarity of these bonds in increasing order
-> -$\ce{ H—H }$
+> - $\ce{ H—H }$
 > - $\ce{ O—H }$
 > - $\ce{ Cl—H }$
 > - $\ce{ S—H }$
 >- $\ce{ F—H }$
 >
 > > [!question]- Answer
+> >
 > > $\ce{ H—H < S—H < Cl—H < O—H < F—H }$
 
 ### Bond Polarity and Dipole Moments
@@ -92,12 +93,15 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 > [!question] Which of the following ions have noble gas electron configurations?
 >
 > > [!question]- $\ce{ Fe^{2+}, Fe^{3+}, Sc^{3+}, Co^{3+} }$
+> >
 > > $\ce{ Sc^{+3} }$
 >
 > > [!question]- $\ce{ Tl+, Te^{2-}, Cr^{3+} }$
+> >
 > > $\ce{ Te^{2-} }$
 >
 > > [!question]- $\ce{ Pu^{4+}, Ce^{4+}, Ti^{4+} }$
+> >
 > > $\ce{ Ce^{4+}, Ti^{4+}}$
 
 - You should already know that atoms increase in size down and to the left [[Periodic Trends#Atomic size|◀️]], but ions with the same number of electrons are new
@@ -154,7 +158,7 @@ $$
 > [!question] Use bond energies to estimate $\ce{ \Delta H }$ for the combustion of one mole of acetylene
 > $$\ce{ C2H2(g) + \frac{5}{2}O2(g) -> 2CO2(g) + H2O(g) }$$
 > > [!question]- Answer
-> > 
+> >
 > > TBD
 
 ### Lewis Structures
@@ -170,6 +174,7 @@ $$
 - Why? Because these atoms can put the extra electrons in the next empty d orbital or as Mrs Luke likes to call it, the 'backpack'
 
 > [!question]- Draw the lewis structure for $\ce{ PCl5 }$
+>
 > 
 
 - Extra electrons should be placed on the central atom, for example $\ce{ I3– }$
@@ -194,7 +199,7 @@ $$
 - Instead of doing the 4 divided by 2 you can just count the number of bonds so double bond, that's 2
 - Also negative formal charge always goes on the more electronegative element
 
-![[Unit 2 2024-09-29 19.46.39.svg|Unit 2 2024-09-29 19.46.39.svg]]
+![[Unit 2 2024-10-04 11.15.49.svg|Unit 2 2024-10-04 11.15.49.svg]]
 
 ### VSPER
 
