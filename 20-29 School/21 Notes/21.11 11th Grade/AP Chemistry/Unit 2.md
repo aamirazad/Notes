@@ -194,6 +194,8 @@ $$
 - Instead of doing the 4 divided by 2 you can just count the number of bonds so double bond, that's 2
 - Also negative formal charge always goes on the more electronegative element
 
+![[Unit 2 2024-09-29 19.46.39.svg|Unit 2 2024-09-29 19.46.39.svg]]
+
 ### VSPER
 
 - Memorize this
