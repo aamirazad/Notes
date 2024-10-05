@@ -157,9 +157,6 @@ $$
 
 > [!question] Use bond energies to estimate $\ce{ \Delta H }$ for the combustion of one mole of acetylene
 > $$\ce{ C2H2(g) + \frac{5}{2}O2(g) -> 2CO2(g) + H2O(g) }$$
-> > [!question]- Answer
-> >
-> > TBD
 
 ### Lewis Structures
 
@@ -168,14 +165,14 @@ $$
 
 ### Exceptions to the Octet Rule
 
-
+![[Unit 2 2024-09-29 19.05.31.svg|Unit 2 2024-09-29 19.05.31.svg]]
 - That's right, this is totally fine. But why?
 - First of all, its important to note this only works for atoms in the 3rd period or lower, only these atoms can hold more than 8 electrons
 - Why? Because these atoms can put the extra electrons in the next empty d orbital or as Mrs Luke likes to call it, the 'backpack'
 
 > [!question]- Draw the lewis structure for $\ce{ PCl5 }$
 >
-> 
+> ![[Unit 2 2024-09-29 19.14.40.svg|Unit 2 2024-09-29 19.14.40.svg]]
 
 - Extra electrons should be placed on the central atom, for example $\ce{ I3– }$
 ![[Unit 2 2024-09-29 19.24.28.svg|Unit 2 2024-09-29 19.24.28.svg]]
@@ -192,7 +189,7 @@ $$
 \pu{ FC = VE-(NB + \frac{1}{2}B) }
 $$
 - Pretty much, when you take a molecule, lets say $\ce{ CO2 }$
-
+![[Covalent Bonds 2024-02-28 18.18.56.svg|Covalent Bonds 2024-02-28 18.18.56.svg]]
 - Oxygen comes with 6 valence electrons, has 4 non bonded electrons, and 4 bonded electrons
 - $6-4-2 = 0$
 - It has a formal charge of 0 which is the best, anything other than 0 is bad
