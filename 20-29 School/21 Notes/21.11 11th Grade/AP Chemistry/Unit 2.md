@@ -31,9 +31,11 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
   
 > [!question] Which compound in each of the following pairs of ionis substances has the most exothermic lattic energy?  
 > > [!question]- $\ce{ LiF, CsF }$  
+> >   
 > > $\ce{ LiF }$ because $\ce{ Li }$ is much smaller than $\ce{ Cs }$ which lowers the distance causing more columbic attraction  
 >  
 > > [!question]- $\ce{ KF, K2O }$  
+> >   
 > > $\ce{ K2O }$ because $\ce{ O^{-2} }$ has  a greater negative charge than $\ce{ F- }$  
   
 ![[Unit 2 2024-09-29 12.24.56.svg|Unit 2 2024-09-29 12.24.56.svg]]  
