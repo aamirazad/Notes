@@ -1,7 +1,7 @@
 ---
 date created: 06-10-2024 21:32
 share: true
-date: 10-08-2024 20:00
+date: 10-16-2024 17:09
 ---
   
 # Unit 3  
@@ -10,17 +10,28 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
   
 ## 3.1 Intermolecular and Interparticle Forces  
   
+- Intermolecular forces (IMFs) are forces between one molecule to another  
+  
+### State changes  
+  
+- State changes are when intermolecular forces become stronger or weaker, there is no change in identity  
+- Caused by changes in force (energy added to create motion in the particles)  
+- When energy is added to water, it becomes a gas, intermolecular distances increase, intermolecular iteration decreases  
+  
 ### Dipole-dipole  
   
 [[Liquids, Solids, and Solutions#Dipole-dipole interactions|◀️]]  
   
 - The force between two polar molecules  
 - The partial negative on a polar molecule attracts the partial positive of another polar molecule  
+- The molecules orient each other so negatives are near positives  
+- Not as strong as a bond, the energy is around 1% of it  
   
 ### Dipole-induced dipole  
   
 - The force between a polar molecule and a non polar molecule  
 - When a polar molecule gets near a non polar molecule, the repulsion between the electrons of each molecule create a slight dipole on the non polar molecule  
+- The the magnitude of the dipole and the size of the non polar molecule changes its strength  
   
 ### London Dispersion forces (LDFs)  
   
@@ -41,7 +52,9 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
   
 ### Ion-dipole  
   
+- Happens between polar molecules and ions in a ionic compound  
 - When ionic compounds dissolve in aqueous solution, the dipole of water interacts with the charged ions causing them to separate  
+- The negative end of water, for instance, pulls the positively charged ions and the positive end of water pulls the negative ioins  
 - Even stronger than hydrogen bonding  
   
 ## 3.2 Properties of Solids  
@@ -85,14 +98,14 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
   
 ### Identifying type by just formula  
   
-> [!question]- $\ce{ C12H22O11(s) }$   
+> [!question]- $\ce{ C12H22O11(s) }$  
 > Molecular solid  
 > All non metal elements  
   
-> [!question]- $\ce{ SiO2(s) }$   
+> [!question]- $\ce{ SiO2(s) }$  
 > Covalent network  
 > $\ce{ Si }$ is a metalloid which tend to bond into covalent network  
   
-> [!question]- $\ce{ MgSO4(s) }$   
+> [!question]- $\ce{ MgSO4(s) }$  
 > Ionic  
 > Held by cations and anions
