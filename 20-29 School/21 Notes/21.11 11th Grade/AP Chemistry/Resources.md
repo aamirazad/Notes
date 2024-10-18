@@ -12,7 +12,7 @@ share: true
 > [!example] Textbook Solutions  
 > [Chemistry 10th Edition Full Solutions](https://cdn.aamira.me/chem/full-solutions-manual.pdf?wrap=0)  
 > > [!warning] You should still do the problems!  
-> > Doing the problems will help you for the test. I am posting this here due to the fact that if one person has this, it is only fair for everyone else to also have it.  
+> > Doing the problems will help you for the test. I am posting this here due to the fact that if one person has this, it is only fair for everyone else to also have it. It should not be only available to though who can pay for it.   
   
 > [!example] Openstax textbook  
 > [Chemistry 2e](https://openstax.org/details/books/chemistry-2e)  
