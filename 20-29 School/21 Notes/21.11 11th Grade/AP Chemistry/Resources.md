@@ -5,12 +5,17 @@ share: true
 ---
 # Resources  
   
-> [!notes] Textbook  
-> [Chemistry 10th Edition by Zumdahl](https://cdn.aamira.me/Zumdahl%20Textbook.pdf)  
+> [!example] Textbook  
+> [Chemistry 10th Edition by Zumdahl](https://cdn.aamira.me/chem/chemistry-10th-edition-zumdahl.pdf?wrap=0)  
 > > [!warning] Not the AP Version!  
   
-> [!notes] Openstax textbook  
+> [!example] Textbook Solutions  
+> [Chemistry 10th Edition Full Solutions](https://cdn.aamira.me/chem/full-solutions-manual.pdf?wrap=0)  
+> > [!warning] You should still do the problems!  
+> > Doing the problems will help you for the test. I am posting this here due to the fact that if one person has this, it is only fair for everyone else to also have it.  
+  
+> [!example] Openstax textbook  
 > [Chemistry 2e](https://openstax.org/details/books/chemistry-2e)  
   
-> [!notes] Power point presenations  
+> [!example] Power point presenations  
 > [Textbook PowerPoints](https://drive.google.com/drive/folders/1IMd2iwYOYOHO52MO66yRWxqLlrnEquqg)
