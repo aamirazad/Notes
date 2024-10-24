@@ -1,12 +1,12 @@
 ---
 date created: 06-10-2024 21:32
 share: true
-date: 10-16-2024 17:09
+date: 10-23-2024 20:09
 ---
   
 # Unit 3  
   
-Click on the back emoji ◀️ to be linked to last year's notes that affirm the topic.  
+Click on the back emoji ◀️ to be linked to last year's notes that affirm the topic. I am now sectioning each topic based off of AP section instead of the book chapter since this unit is all over the place. I will most likely continue with this format.  
   
 ## 3.1 Intermolecular and Interparticle Forces  
   
@@ -96,6 +96,10 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
 - Malleable and ductile (can be stretched into wires)  
 - Melting points vary  
   
+### Atomic solids  
+  
+- Atomic solids are ones made up of atoms of the same element bonded together  
+  
 ### Identifying type by just formula  
   
 > [!question]- $\ce{ C12H22O11(s) }$  
@@ -108,4 +112,79 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
   
 > [!question]- $\ce{ MgSO4(s) }$  
 > Ionic  
-> Held by cations and anions
+> Held by cations and anions  
+  
+## 3.3 Solids, Liquids, and Gases  
+  
+[[Gases#States of matter|◀️]]  
+  
+- Solids are tightly packed, liquids are more spread out, filing the container, gases, particles are very spread out and fill the entire container  
+  
+## 3.4 Ideal Gas Law  
+  
+### Understanding the law  
+  
+[[Gases#Ideal gas law|◀️]]  
+  
+- Ideal gas law describe variables that effect gas behavior  
+- $PV$ are both on the same side, so if everything else is held constant, pressure and volume are inversely related  
+- Since they are on opposite sides, pressure and moles or temperature is directly related and volume and moles or temperature is directly related  
+- For example, if the pressure drops by half in a sealed container, the moles couldn't go down so the temperature must have gone down, and drops by exactly half  
+  
+### Gas mixtures  
+  
+- Dalton's law of partial pressure says the total pressure of a sample of gas equals all the pressure's of the individual gasses  
+- To calculate particle pressure just do part over whole  
+  
+![[Unit 3 2024-10-23 19.43.15.svg|Unit 3 2024-10-23 19.43.15.svg]]  
+  
+- Multiple things changing stack  
+- Also remember to count the number of particles, we don't know the pressure on the right but since it has half as many particles and the same volume, it has a pressure of 1 atm (half the particles, half the pressure)  
+- So when multiple gasses are combined the pressures add to make 2+1=3atm but the volume is halfing and since it is inversely related, the pressure doubles to 6atm  
+- A particle is each one molecule so $\ce{ O2 }$ is one not 2  
+  
+## 3.5 Kinetic Molecular Theory  
+  
+- At the same temperature, lighter particles are moving faster and heavier particles are moving slowly, but they are exerting the same pressure on the walls  
+- Molecular size only matters in very high pressure and small volume  
+- The speeds of particles is always changing, but overall the speed remains the same at a certain temperature  
+![[Unit 3 2024-10-23 19.54.53.svg|Unit 3 2024-10-23 19.54.53.svg]]  
+  
+- At a higher temperature, the standard deviation of the speeds is more meaning there are more variation in the speeds, but the average is still the same, greater than the lower temperature  
+  
+## 3.6 Deviation from Ideal Gas Law  
+  
+- As IMFs increase, actual pressure is less than expected  
+- This only happens at low temperatures when IMFs become significant  
+- As particle volume becomes significant (very low volume of container) actual pressure is greater than predicted  
+- **Gases behave more ideally at high temperatures and low pressures**  
+  
+## 3.7 Solutions and Mixtures  
+  
+[[Liquids, Solids, and Solutions#Solubility|◀️]]  
+  
+$$  
+\text{Molarity} = \frac{\text{moles of solute}}{\text{liters of solution}}  
+$$  
+  
+## 3.8 Representations of Solutions  
+  
+![[Unit 3 2024-10-23 20.20.18.svg|Unit 3 2024-10-23 20.20.18.svg]]  
+## 3.9 Separation of Solutions and Mixtures  
+  
+- Chromatography separates components with different IMFs, the more polar a component, the less interaction with a polar stationary phase causing it to travel far, the less polar a component, the more interaction with a polar stationary phase causing it to travel less  
+- The higher up, the less polar (if the paper is polar and the solution is not)  
+- Distillation separates based on different boiling point (IMFs)  
+  
+## 3.10 Solubility  
+  
+- Ionic compounds dissolve in polar solvents  
+- Polar dissolves polar, non polar dissolves non polar, but polar does not dissolve non polar (oil and water)  
+  
+## 3.11 Spectroscopy and the Electromagnetic Spectrum  
+  
+- Microwaves rotate, infrared vibrates, ultraviolet/visible promote electrons  
+  
+## 3.12 Properties of Photons  
+  
+[[Electronic Structure and the Periodic Table|◀️]]
