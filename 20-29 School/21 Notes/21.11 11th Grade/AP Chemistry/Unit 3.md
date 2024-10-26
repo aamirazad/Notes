@@ -8,6 +8,15 @@ date: 10-23-2024 20:09
   
 Click on the back emoji ◀️ to be linked to last year's notes that affirm the topic. I am now sectioning each topic based off of AP section instead of the book chapter since this unit is all over the place. I will most likely continue with this format.  
   
+## Materials  
+  
+Get access to these files by [[buy|purchasing]] tigertutoringtool.    
+  
+- [Notes](https://papers.aamira.me/documents/656/details)  
+- [Matter Map](https://papers.aamira.me/documents/663/details)  
+- [Types of Solids POGIL](https://papers.aamira.me/documents/672/details)  
+- [Maxwell-Boltzmann Distributions POGIL](http://papers.aamira.me/documents/667/details)  
+  
 ## 3.1 Intermolecular and Interparticle Forces  
   
 - Intermolecular forces (IMFs) are forces between one molecule to another  
