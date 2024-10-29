@@ -21,5 +21,6 @@ title: 11th Grade
 - **[[AP Chemistry|AP Chemistry]]**  
 - **[[AP Lang|AP Lang]]**  
 - **[[French|French]]**  
+- **[[Honors US History|Honors US History]]**  
   
 %% End Waypoint %%  
