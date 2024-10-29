@@ -18,4 +18,7 @@ share: true
 > [Chemistry 2e](https://openstax.org/details/books/chemistry-2e)  
   
 > [!info] Power point presenations  
-> [Textbook PowerPoints](https://drive.google.com/drive/folders/1IMd2iwYOYOHO52MO66yRWxqLlrnEquqg)
+> [Textbook PowerPoints](https://drive.google.com/drive/folders/1IMd2iwYOYOHO52MO66yRWxqLlrnEquqg)  
+  
+> [!info] College Board Course Guide  
+> [AP Chem Course Guide](https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf)
