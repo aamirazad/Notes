@@ -1,7 +1,7 @@
 ---
 date created: 06-10-2024 21:32
 share: true
-date: 10-23-2024 20:09
+date: 10-26-2024 19:27
 ---
   
 # Unit 3  
@@ -10,12 +10,13 @@ Click on the back emoji ◀️ to be linked to last year's notes that affirm the
   
 ## Materials  
   
-Get access to these files by [[buy|purchasing]] tigertutoringtool.    
+Get access to these files by [[buy|purchasing]] tigertutoringtool.  
   
 - [Notes](https://papers.aamira.me/documents/656/details)  
-- [Matter Map](https://papers.aamira.me/documents/663/details)  
+- [Gases slideshow](https://docs.google.com/presentation/d/12QAAhlIzIHNq8yFBebTXLUGenUvKFTEU/edit?usp=sharing&ouid=103951265242822034621&rtpof=true&sd=true)  
 - [Types of Solids POGIL](https://papers.aamira.me/documents/672/details)  
 - [Maxwell-Boltzmann Distributions POGIL](http://papers.aamira.me/documents/667/details)  
+- [Matter Map](https://papers.aamira.me/documents/663/details)  
   
 ## 3.1 Intermolecular and Interparticle Forces  
   
@@ -179,6 +180,7 @@ $$
 ## 3.8 Representations of Solutions  
   
 ![[Unit 3 2024-10-23 20.20.18.svg|Unit 3 2024-10-23 20.20.18.svg]]  
+  
 ## 3.9 Separation of Solutions and Mixtures  
   
 - Chromatography separates components with different IMFs, the more polar a component, the less interaction with a polar stationary phase causing it to travel far, the less polar a component, the more interaction with a polar stationary phase causing it to travel less  
