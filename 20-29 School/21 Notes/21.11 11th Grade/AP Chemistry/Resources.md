@@ -6,7 +6,7 @@ share: true
 # Resources  
   
 > [!info] Textbook  
-> [Chemistry 10th Edition by Zumdahl](https://cdn.aamira.me/chem/chemistry-10th-edition-zumdahl.pdf?wrap=0)  
+> [Chemistry 10th Edition by Zumdahl](https://drive.google.com/file/d/10K99NULspkfhMxPlpk3SybOvg8lJn_Xb/view?usp=drive_link)  
 > > [!warning] Not the AP Version!  
   
 > [!info] Textbook Solutions  
@@ -15,7 +15,7 @@ share: true
 > > Doing the problems will help you for the test. I am posting this here due to the fact that if one person has this, it is only fair for everyone else to also have it. It should not be only available to though who can pay for it.   
   
 > [!info] Openstax textbook  
-> [Chemistry 2e](https://openstax.org/details/books/chemistry-2e)  
+> [Chemistry 2e](https://drive.google.com/file/d/1r37wXM4NX8xPfAGsfJjV_YKVqXSa72Gk/view?usp=drive_link)  
   
 > [!info] Power point presenations  
 > [Textbook PowerPoints](https://drive.google.com/drive/folders/1IMd2iwYOYOHO52MO66yRWxqLlrnEquqg)  
