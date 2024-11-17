@@ -1,6 +1,6 @@
 ---
 date created: 10-28-2024 21:14
-date: 11-11-2024 20:10
+date: 11-16-2024 21:03
 share: true
 ---
   
@@ -98,9 +98,11 @@ $$
   
   
 > [!question] $\ce{ C3H8(g) + 5O2(g) -> 3CO2(g) + 4 H20(g) }$  
+>  
 > Propane burns in air to produce carbon dioxide and water according to the above equation. 44.1 g of propane and 44.1 g of oxygen are added to a rigid vessel. The reaction mixture is sparked and goes to completion.  
 >  
 > > [!question]- When the reaction is complete at 273 K and 1.0 atm, what mass (theoretical yield) of $\ce{ CO2(g) }$ is produced?  
+> >   
 > > $$44.1g\ce{ C3H8 } \times \frac{1mol\ce{ C3H8 }}{44.097g} \times \frac{3mol\ce{ CO_{2} }}{1mol\ce{ C3H8 }} = 3.00mol\ce{ CO2 }$$  
 > > $$44.1g\ce{ O_{2} } \times \frac{1mol\ce{ O_{2} }}{31.998g} \times \frac{3mol\ce{ CO_{2} }}{5mol\ce{ O_{2} }} = 0.8260mol\ce{ CO_{2} }$$  
 > > Oxygen is limiting  
@@ -115,5 +117,14 @@ $$
 > >  
 > > > [!question]- Doubling the mass of $\ce{ O2(g) }$  
 > > >  
-> > $$88.2g\ce{ O_{2} } \times \frac{1mol\ce{ O_{2} }}{31.998g} \times \frac{3mol\ce{ CO_{2} }}{5mol\ce{ O_{2} }} \times \frac{44.009g}{1mol\ce{ CO_{2} }} = 72.8g\ce{ CO2 }$$  
+> > > $$88.2g\ce{ O_{2} } \times \frac{1mol\ce{ O_{2} }}{31.998g} \times \frac{3mol\ce{ CO_{2} }}{5mol\ce{ O_{2} }} \times \frac{44.009g}{1mol\ce{ CO_{2} }} = 72.8g\ce{ CO2 }$$  
   
+## 4.6 Introduction to Titration  
+  
+[[Acids and Bases#Titration|◀️]]  
+  
+- A titration curve shows the progression as the titrant is (solution being dripped) reacting with the analyte (unknown in the flask)  
+- The middle of the part with the most change in distance is the equivalence point, the point when it changes color  
+- From apd 1  
+  
+> [!question] In a separate experimental procedure, the student titrates 10.0 mL of the 2.000 M HC2H309(aq) with an NaOH(aq) solution of unknown concentration. The student monitors the pH during the titration. The following titration curve was created using the experimental data presented in the table.
