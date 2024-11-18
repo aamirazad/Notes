@@ -1,6 +1,6 @@
 ---
 date created: 10-28-2024 21:14
-date: 11-17-2024 19:44
+date: 11-17-2024 19:50
 share: true
 ---
   
@@ -35,6 +35,7 @@ $$
 $$  
   
 - Breaks up the ionic compounds in the above reaction  
+- [[Acids and Bases#Strong acids|Strong acids]] and [[Acids and Bases#Strong bases|Strong bases]] dissolve,  
 - The subscripts becomes coefficients, be careful of subscripts and coefficients  
   
 $$  
@@ -160,10 +161,17 @@ $$
 ### Precipitate Reaction  
   
 - Mixing aqueous ions to form a precipitate, insoluble ionic compounds  
-- **SNAP (Sodium, nitrogen, ammonium, and potassium) are always soluble even with the big bads**  
-- **Big bads are lead, silver, or mucary**  
+- **SNAP (Sodium, nitrogen, ammonium, and potassium) are always soluble, no matter what even with the big bads or insoluble**  
+- **Big bads are lead, silver, or mercury**  
 - Chloride, bromide, and iodide are usually soluble if it is not with the big bads  
 - Most sulfates are soluble except with barium, calcium and big bads  
+- Slightly soluble means pretty much insoluble but technically over long enough times some of it dissolves (SNAP overpowers all of this)  
+- Hydroxide, sulfide, carbonate, chromate, and phosphate are slightly soluble  
+.  
+  
 - When telling deciding which type of reaction it is, first look for the formation of a precipitate, then a transfer of $\ce{ H }+$ ions, then assign oxidation numbers  
   
-## 4.8 Introduction to Acid-Base Reactions
+## 4.8 Introduction to Acid-Base Reactions  
+  
+- See [[#Acid base reaction|Above]]  
+- 
