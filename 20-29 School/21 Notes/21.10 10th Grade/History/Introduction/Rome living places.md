@@ -7,9 +7,9 @@ date created: Wednesday, June 5th 2024, 2:34 am
 date modified: Tuesday, July 2nd 2024, 5:45 am
 share: true
 ---
-
-Parent:: [[Introduction|Introduction]]
-
-# Rome living places
-
-![qownnotes-media-jzQWxo](qownnotes-media-jzQWxo.png)
+  
+Parent:: [[Introduction|Introduction]]  
+  
+# Rome living places  
+  
+![qownnotes-media-jzQWxo](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/qownnotes-media-jzQWxo-IIFUiibnQAIoKHdiEoPwuJ5Avap9xF.png)  
