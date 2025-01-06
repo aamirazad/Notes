@@ -4,7 +4,7 @@ date modified: Friday, August 16th 2024, 10:46 am
 share: true
 title: Attendants
 ---
-
-# Attendants
-
-- The people help people of the Danish court and visitors
+  
+# Attendants  
+  
+- The people help people of the Danish court and visitors  

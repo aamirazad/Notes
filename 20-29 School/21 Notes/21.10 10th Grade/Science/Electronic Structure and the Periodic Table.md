@@ -27,7 +27,7 @@ Light has energy. The different amount of energy, called wavelength, has differe
   
 - What is the wavelength of radiation that has a frequency of $4.3\times10^{14}$  
   
-![Light conversion example](light_conversion_example.png)  
+![Light conversion example](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/light_conversion_example-1wFLvLoYgnuHL6txL7MNugBiODRkM0.png)  
   
 ### Einstein  
   
@@ -38,11 +38,11 @@ Light has energy. The different amount of energy, called wavelength, has differe
   
 ### Sketchnoting  
   
-![Light Diagrams](light_diagrams.png)  
+![Light Diagrams](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/light_diagrams-HEqSlAesUVVtrQuBNZRRJJjOpciCxN.png)  
   
 ### Photoelectric effect  
   
-![Photoelectric effect diagram](photoelecric_effect.png)  
+![Photoelectric effect diagram](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/photoelecric_effect-0BncNZHHeo0jVU1IEUhxGTEJ2ApfxD.png)  
   
 - Shows that light is made of particles of light  
 - Certain colors eject electrons, some do not  
@@ -83,7 +83,7 @@ Light has energy. The different amount of energy, called wavelength, has differe
 - Energy of a photos = different between ground and excited  
 - They don't jump unless there is energy coming in (heat, electricity)  
   
-![Bohr's Model](bohrs_model.png)  
+![Bohr's Model](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/bohrs_model-ExkwPBCzealI7wTubSIVCwmgYIyJLh.png)  
   
 - Quantum leap: when an electron jumps from one orbit, according to Bohr's model, it doesn't travel, it just teleports. This obvious flaw, along with the fact that Bohr's model only worked with Hydrogen was solved by:  
   
@@ -106,8 +106,8 @@ Light has energy. The different amount of energy, called wavelength, has differe
     - 7f  
   - Each orbital only has 2 electrons  
   
-![Specific orbitals drawing](orbitals_drawings.png)  
-![Orbitals of a atom](atoms_orbitals_drawing.png)  
+![Specific orbitals drawing](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/orbitals_drawings-HGxIpAHC0KgtP43lqdobUXcqj7nh1D.png)  
+![Orbitals of a atom](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/atoms_orbitals_drawing-jkIYhgZn3kZCKNBQHIJDqjck7gXn7W.png)  
   
 [Electron Configurations POGIL](https://papers.aamira.me/documents/400)  
   
@@ -127,7 +127,7 @@ Light has energy. The different amount of energy, called wavelength, has differe
 - Within a block the exponent increase for each column  
 - Coefficient increase by one per row (d-block is one behind)  
   
-![[Pasted image 20240519135117.png|Pasted image 20240519135117.png]]  
+![](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/Pasted_image_20240519135117-tW5A5CXZCeQygyqkknd8av6gRXuY0j.png)  
   
 #### Rules  
   
@@ -135,11 +135,11 @@ Light has energy. The different amount of energy, called wavelength, has differe
 - Pauli: Spin must flip  
 - Hunds rule; separate before together  
   
-![[Pasted image 20240519134837.png|Pasted image 20240519134837.png]]  
+![](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/Pasted_image_20240519134837-JE9k0q7c0cHuvpbx3RpDEWUjD8vN7S.png)  
   
 - An electron can be excited which would look like this  
   
-![[Pasted image 20240519134721.png|Pasted image 20240519134721.png]]  
+![](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/Pasted_image_20240519134721-JIXtxAIM6wTSWE7VkYdWYoP83o4Ycv.png)  
   
 ### Electron Dot Formulas  
   
