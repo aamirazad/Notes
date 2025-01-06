@@ -108,7 +108,7 @@ Which has higher electronegativity?
   
 - I, more protons  
   
-![](trends-graph.png)  
+![](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/trends-graph-iFhWtrn8OBYdlojo3nsv5X9GbTxnjx.png)  
   
 ## Balencing equations  
   
@@ -129,10 +129,10 @@ Which has higher electronegativity?
   
 #### Balencing practice  
   
-![](balancing-types.png)  
+![](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/balancing-types-sjOnVoOGhfYzUjqCwDRmmjqmabQyGX.png)  
   
 #### Answers to worksheet  
   
 [Worksheet](https://papers.aamira.me/documents/424)  
   
-![](balancing-worksheet-answers.png)  
+![](https://xrgkyc5aexvkc7oh.public.blob.vercel-storage.com/vault/balancing-worksheet-answers-OUZ5Tpxwh9hjupeAal8hSarEI6ZyPn.png)  
